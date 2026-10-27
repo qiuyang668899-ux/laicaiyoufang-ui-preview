@@ -1,0 +1,307 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T700,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/dropship-explosive#article","headline":"无货源卖家 · 强人设爆款选题","description":"强人设爆款选题真实生成案例：我做无货源的，主要在抖音和拼多多上卖货，不囤货，靠选品和运营。干了两三年，起起落落，有点心得。","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/dropship-explosive"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/explosive-topics","name":"强人设爆款选题"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/dropship-explosive#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"无货源卖家 · 强人设爆款选题","item":"https://www.laicaiyoufang.com/case-library/dropship-explosive"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/explosive-topics","name":"强人设爆款选题","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/explosive-topics","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"强人设爆款选题","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"电商与贸易型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"跨境电商"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"无货源卖家 · 强人设爆款选题"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我做无货源的，主要在抖音和拼多多上卖货，不囤货，靠选品和运营。干了两三年，起起落落，有点心得。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"日用百货和小商品为主，靠差价赚钱，也做点细分类目。卖点就是选品眼光和运营效率。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"想低成本试水电商的新手，和正在找副业的人，怕压货、怕风险。"}]]}]]}]
+10:T2b1c,这是强人设信任流量的内容系统 - 选题（潜在动机挖掘版），好的开头好选题决定一切，让流量带着信任来，让流量带着客资来。选题策略：直击用户的潜在情感动机，做大 IP。
+
+请先理解核心理论：IP内容价值的三类选题方向与三层蛋糕模型：
+
+【三类选题方向】
+
+第一类：垂直内容选题
+- 定义：与卖的产品 / 服务强相关，内容可以落在产品功能、使用场景，也可以直击目标客户在购买决策前的深层恐惧或渴望，必须能吸引精准客户。
+第二类：泛内容选题
+- 定义：与卖的产品 / 服务弱相关或无关，内容可以描绘目标人群的生活场景，也可以聚焦目标客户作为 "那一类人群" 的底层焦虑、欲望或兴趣。
+第三类：人设化内容选题
+- 定义：展现真实自我、成长故事、行业洞察、价值观的内容。展示 "我为什么这么做" 背后的深层动机。
+
+【三层蛋糕模型】
+
+第一层：刚需层（产品 / 服务卖点）—— 基本区**
+   - 定义：直白地讲产品 / 服务功能、材质、价格、参数。或讲出我在这个行业的专业、资深、可靠。
+   - 效果：吸引来的用户已经在货比三家，竞争激烈，能非常精准的获客，但流量难以做大。
+   - 示例："我家酒是手工酿的，入口绵柔回甘，直接对标一线大牌，白酒这行我干了三十多年了。"
+第二层：影响层（使用场景）—— 进阶区**
+   - 定义：描绘产品使用的具体场景、氛围，讲解在什么时机、什么环境下适合使用这类产品。
+   - 效果：吸引用户开始思考当下要不要做这件事、要不要入手这个产品，转化潜力优于刚需层，但流量天花板依旧明显。
+   - 示例："宴请重要客户、老同学老战友聚会小酌，桌上要是没瓶好酒，这顿饭的气氛总差口气。"
+第三层：潜在层（情感动机）—— 核心爆发区**
+   - 定义：挖掘目标客户产生需求之前的深层恐惧、渴望、身份认同和情感归属。回答 "目标客户购买前，内心在忍受什么痛苦？渴望改变什么？"
+   - 效果：能打破圈层，让本来没想买的人被强烈吸引，建立无与伦比的信任和 IP 势能。这才是大 IP 的摇篮。
+   - 示例："一个人扛起整个家累不累？有多久没安安静静坐下来，倒杯酒，好好放松一把了？"
+
+### 1. 垂直内容选题
+
+**1. 做无货源两三年我踩过的坑比赚的钱多，这几条新手千万别再走一遍了**
+
+- 适用理由：属于刚需层，用真实踩坑经历讲行业专业度与可靠度
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：确立地位、加深信任
+
+---
+
+**2. 选品不是看什么火就卖什么，我挑品就看这三个信号，新手照着筛就行**
+
+- 适用理由：属于刚需层，直给选品方法，展示选品眼光这一核心卖点
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：确立地位、促进转化
+
+---
+
+**3. 不囤货到底怎么发货、怎么结算，我把整个流程给你捋一遍，看完就明白**
+
+- 适用理由：属于刚需层，拆解无货源模式的基础运作，打消入门疑虑
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：培育需求、加深信任
+
+---
+
+**4. 新手别一上来就铺几百个品，我头半年就是这么亏的，先把这几件事做对**
+
+- 适用理由：属于刚需层，用自身亏损经历输出避坑干货
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、加深信任
+
+---
+
+**5. 一个品卖爆了别急着高兴，我见过太多人死在爆单后的这几步上**
+
+- 适用理由：属于刚需层，揭露运营内幕，触发恐惧开关
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：确立地位、加深信任
+
+---
+
+**6. 拼多多和抖音的玩法根本不是一回事，选错平台，你再努力也是白费劲**
+
+- 适用理由：属于刚需层，讲平台差异的硬知识，展示运营专业度
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：确立地位、促进转化
+
+---
+
+**7. 日用百货这种小商品怎么找细分，我靠的就是别人嫌麻烦不愿意碰的那点缝隙**
+
+- 适用理由：属于刚需层，讲细分类目打法，展示选品眼光
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：确立地位、培育需求
+
+---
+
+**8. 白天上班晚上弄店，一天就挤那两三个小时，我把时间都花在这几件事上**
+
+- 适用理由：属于影响层，描绘副业人群的时间场景，让人对号入座
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：培育需求、建立链接
+
+---
+
+**9. 手里就几千块启动资金，怎么把钱花在刀刃上，我当年就是这么一步步试出来的**
+
+- 适用理由：属于影响层，切入低成本试水的具体场景
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：培育需求、促进转化
+
+---
+
+**10. 第一次出单那点利润，为啥比后来赚得多还让我记到现在，这行就是这样**
+
+- 适用理由：属于影响层，描绘新手起步的心理场景，引发共鸣
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、培育需求
+
+---
+
+**11. 怕压货怕赔钱，其实真正让新手翻不了身的，从来不是那点货，是这三个字**
+
+- 适用理由：属于潜在层，直击新手对风险的深层恐惧，反常识切入
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、促进转化
+
+---
+
+**12. 别人晒月入几万你心不心动，可你有没有想过，那些数字背后藏着什么没说的**
+
+- 适用理由：属于潜在层，戳破行业浮夸表象，击中怕被割的恐惧
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：加深信任、确立地位
+
+---
+
+**13. 你不是不想干，你是怕折腾半天一场空，还落得家里人一句不务正业，对吧**
+
+- 适用理由：属于潜在层，说出副业人群说不出口的委屈与身份焦虑
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、培育需求
+
+---
+
+**14. 工资几年不涨，想给自己留条后路又不敢辞职，这种不上不下的滋味我太懂了**
+
+- 适用理由：属于潜在层，击中想找副业者的深层不安与渴望
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、培育需求
+
+---
+
+**15. 做这行起起落落我见过太多人中途放弃，撑下来的和跑掉的，差的就是这一点**
+
+- 适用理由：属于潜在层，讲坚持背后的动机差异，引发自我对照
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：加深信任、确立地位
+
+### 2. 泛内容选题
+
+**1. 下班回到家瘫在沙发上刷手机，一刷就是两小时，你有没有觉得这时间花得有点慌**
+
+- 适用理由：属于影响层，描绘下班后的生活场景，引发时间焦虑
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：培育需求、建立链接
+
+---
+
+**2. 身边总有人悄悄搞起了第二份收入，饭桌上聊起来，你插不上话的那种感觉懂吗**
+
+- 适用理由：属于影响层，描绘社交场景中的落差感，激发改变念头
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：培育需求、扩大影响
+
+---
+
+**3. 三十岁往后，越来越多人开始琢磨，光靠一份工资到底稳不稳当**
+
+- 适用理由：属于影响层，切入中年职场人的普遍场景焦虑
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：培育需求、扩大影响
+
+---
+
+**4. 不是你没本事，是你一直没找到一个能让自己悄悄使劲、又不怕输的地方**
+
+- 适用理由：属于潜在层，为普通人发声，击中怀才不遇的委屈
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、扩大影响
+
+---
+
+**5. 人到中年最怕的不是累，是哪天工作有个变动，自己连个退路都没备好**
+
+- 适用理由：属于潜在层，直击中年人对失控的深层恐惧
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、培育需求
+
+---
+
+**6. 你有没有发现，越想改变现状的人，越容易被身边人一句别瞎折腾给劝回去**
+
+- 适用理由：属于潜在层，讲身份认同与身边阻力的冲突，引发共鸣
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、扩大影响
+
+---
+
+**7. 攒钱的速度永远赶不上花钱的地方，这种心里没底的滋味，是不是越来越熟悉了**
+
+- 适用理由：属于潜在层，击中普通人对金钱安全感的底层焦虑
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、培育需求
+
+---
+
+**8. 别人一句你现在做什么呢，你是不是也愣过一下，特想有个能说出口的事在手上**
+
+- 适用理由：属于潜在层，击中自我价值与身份表达的渴望
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、扩大影响
+
+### 3. 人设化内容选题
+
+**1. 我为什么宁愿少赚点，也不肯教人囤一堆货，因为我见过太多人压着货睡不着觉**
+
+- 适用理由：属于潜在层，展示不让人压货背后的动机与价值观
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：加深信任、建立链接
+
+---
+
+**2. 干这行起起落落那两年，最难的时候我也想过收手，是啥让我又咬牙撑了下来**
+
+- 适用理由：属于潜在层，讲低谷与转折，展现真实成长轨迹
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：加深信任、建立链接
+
+---
+
+**3. 有个粉丝跟我说他第一次出单高兴得睡不着，那一刻我比自己赚钱还踏实**
+
+- 适用理由：属于潜在层，用温暖回忆展示助人初心
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：加深信任、建立链接
+
+---
+
+**4. 我为啥总劝新手别急着投钱，因为我太清楚那种把希望押上去又落空的滋味**
+
+- 适用理由：属于潜在层，展示克制背后的共情动机
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：加深信任、建立链接
+
+---
+
+**5. 我不觉得自己多厉害，我只是比很多人多熬了几年，也多摔了几个跟头而已**
+
+- 适用理由：属于潜在层，展现谦逊真实的自我定位与价值观
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：加深信任、确立地位
+
+---
+
+**6. 我做这行最大的念想，是让普通人也能有个不压货、敢试错的小生意可做**
+
+- 适用理由：属于潜在层，讲清事业背后的隐秘梦想与初心
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：加深信任、建立链接b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["强人设爆款选题"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","1-垂直内容选题",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#1-垂直内容选题","className":"hover:text-violet-400 transition-colors","children":"1. 垂直内容选题"}]}],["$","li","2-泛内容选题",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#2-泛内容选题","className":"hover:text-violet-400 transition-colors","children":"2. 泛内容选题"}]}],["$","li","3-人设化内容选题",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#3-人设化内容选题","className":"hover:text-violet-400 transition-colors","children":"3. 人设化内容选题"}]}]]}]]}],["$","$Lf",null,{"agentKey":"explosive-topics","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["强人设爆款选题","是什么"]}],["$","p",null,{"children":["这是一个面向“","跨境电商","”行业的","强人设爆款选题","应用案例：","我做无货源的，主要在抖音和拼多多上卖货，不囤货，靠选品和运营。干了两三年，起起落落，有点心得。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","强人设爆款选题是来财有方AI「内容获客」分类下的一款 AI 智能体，基于你的个人画像，挖掘目标受众的真实需求与痛点，定制一批有爆款的选题，帮你在短视频、公众号、小红书等内容平台持续产出有人看的选题清单。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","日用百货和小商品为主，靠差价赚钱，也做点细分类目。卖点就是选品眼光和运营效率。","，主要客群是","想低成本试水电商的新手，和正在找副业的人，怕压货、怕风险。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多人做内容最大的卡点，不是不会写，而是\"不知道写什么\"——凭感觉选题，结果要么自嗨、要么没人看。这个智能体解决的是选题荒与选题不准的问题，把\"我觉得\"换成\"目标客户真正关心什么\"。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我做无货源的，主要在抖音和拼多多上卖货，不囤货，靠选品和运营。干了两三年，起起落落，有点心得。","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁），以及你想主攻的平台和内容方向；可选补充你已有的爆款或你观察到的同行选题，让生成的选题更贴合你的赛道。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","强人设爆款选题","输出的是面向","想低成本试水电商的新手，和正在找副业的人，怕压货、怕风险。","的落地方案（见上文“生成结果”），整体能力为：","输出一份爆款选题清单：每个选题都标注了对应的人群痛点、切入角度、标题方向与内容结构建议，可直接作为一段时间内的内容排期表使用。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","电商与贸易型","、","跨境电商","）类似的经营者都适用：","适合需要持续输出内容但总缺选题的个人 IP、老板、教练、顾问、知识付费从业者，以及负责新媒体内容、增长获客的操盘手。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","强人设爆款选题","已内置对应的行业方法轮与输出规范，能结合“","日用百货和小商品为主，靠差价赚钱，也做点细分类目。卖点就是选品眼光和运营效率。","、","想低成本试水电商的新手，和正在找副业的人，怕压货、怕风险。","”这类真实画像做体系化产出，更贴合实际经营场景：","与直接问通用大模型\"给我 20 个热门选题\"不同，它基于你的画像和客群痛点生成选题，而不是给你一堆全网通用、和你业务无关的热点，产出的选题更可能被你的目标客户刷到并停留。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/explosive-topics","children":["立即试用","强人设爆款选题"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","强人设爆款选题"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/explosive-topics","agentName":"强人设爆款选题"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

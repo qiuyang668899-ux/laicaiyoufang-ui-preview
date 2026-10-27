@@ -1,0 +1,324 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T72b,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/furniture-explosive#article","headline":"定制家具厂 · 强人设爆款选题","description":"强人设爆款选题真实生成案例：我是做定制家具代工的，同时也自己做点直客。厂里在佛山这边，做了很多年，主要给品牌和经销商供货，这两年上下游都不好做，我就","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/furniture-explosive"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/explosive-topics","name":"强人设爆款选题"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/furniture-explosive#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"定制家具厂 · 强人设爆款选题","item":"https://www.laicaiyoufang.com/case-library/furniture-explosive"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/explosive-topics","name":"强人设爆款选题","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/explosive-topics","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"强人设爆款选题","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"生产制造与供应链型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"家具制造"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"定制家具厂 · 强人设爆款选题"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我是做定制家具代工的，同时也自己做点直客。厂里在佛山这边，做了很多年，主要给品牌和经销商供货，这两年上下游都不好做，我就想自己拍拍短视频，直接接点业主单子，利润也能好一点。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"全屋定制、橱柜衣柜、护墙板这些，板材和五金都是自己渠道拿的，工厂直接出货，没有中间商加价。我主打的是「工厂直供、用料实在、价格透明」。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"一二线城市的业主，以及小型的装修公司、设计师。他们要么想省钱找工厂，要么想给客户找稳定靠谱的供应链，最怕的就是「挂羊头卖狗肉」和「交付翻车」。"}]]}]]}]
+10:T2f1f,这是强人设信任流量的内容系统 - 选题（潜在动机挖掘版），好的开头好选题决定一切，让流量带着信任来，让流量带着客资来。选题策略：直击用户的潜在情感动机，做大 IP。
+
+请先理解核心理论：IP内容价值的三类选题方向与三层蛋糕模型：
+
+【三类选题方向】
+
+第一类：垂直内容选题
+- 定义：与卖的产品 / 服务强相关，内容可以落在产品功能、使用场景，也可以直击目标客户在购买决策前的深层恐惧或渴望，必须能吸引精准客户。
+第二类：泛内容选题
+- 定义：与卖的产品 / 服务弱相关或无关，内容可以描绘目标人群的生活场景，也可以聚焦目标客户作为 "那一类人群" 的底层焦虑、欲望或兴趣。
+第三类：人设化内容选题
+- 定义：展现真实自我、成长故事、行业洞察、价值观的内容。展示 "我为什么这么做" 背后的深层动机。
+
+【三层蛋糕模型】
+
+第一层：刚需层（产品 / 服务卖点）—— 基本区
+- 定义：直白地讲产品 / 服务功能、材质、价格、参数。或讲出我在这个行业的专业、资深、可靠。
+- 效果：吸引来的用户已经在货比三家，竞争激烈，能非常精准的获客，但流量难以做大。
+- 示例："我家酒是手工酿的，入口绵柔回甘，直接对标一线大牌，白酒这行我干了三十多年了。"
+
+第二层：影响层（使用场景）—— 进阶区
+- 定义：描绘产品使用的具体场景、氛围，讲解在什么时机、什么环境下适合使用这类产品。
+- 效果：吸引用户开始思考当下要不要做这件事、要不要入手这个产品，转化潜力优于刚需层，但流量天花板依旧明显。
+- 示例："宴请重要客户、老同学老战友聚会小酌，桌上要是没瓶好酒，这顿饭的气氛总差口气。"
+
+第三层：潜在层（情感动机）—— 核心爆发区
+- 定义：挖掘目标客户产生需求之前的深层恐惧、渴望、身份认同和情感归属。回答 "目标客户购买前，内心在忍受什么痛苦？渴望改变什么？"
+- 效果：能打破圈层，让本来没想买的人被强烈吸引，建立无与伦比的信任和 IP 势能。这才是大 IP 的摇篮。
+- 示例："一个人扛起整个家累不累？有多久没安安静静坐下来，倒杯酒，好好放松一把了？"
+
+---
+
+### 1. 垂直内容选题
+
+**1. 全屋定制报价单上那些看不懂的增项，我今天一条条给你翻出来，看你还敢不敢闭眼签**
+
+- 适用理由：属于刚需层，直击业主对报价陷阱的恐惧，用专业拆解建立"懂行"信任
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、促进转化
+
+---
+
+**2. 同样一张颗粒板，品牌店卖你一千二一平，我工厂出货价摆在这，差价去哪了你猜**
+
+- 适用理由：属于刚需层，用价格透明直击"怕被中间商赚差价"的核心痛点
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：促进转化、确立地位
+
+---
+
+**3. 定制家具五金件怎么挑，我干了这些年只认这几个牌子，别听销售给你吹进口的**
+
+- 适用理由：属于刚需层，讲五金选材硬知识，展现工厂专业度
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：确立地位、加深信任
+
+---
+
+**4. 板材环不环保别光看销售嘴说，我教你认检测报告上这几个关键数，一看一个准**
+
+- 适用理由：属于刚需层，拆解环保板材的辨别方法，击中业主对甲醛的恐惧
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、确立地位
+
+---
+
+**5. 找工厂做定制和找品牌店做，到底差在哪，我把两边的账给你算明白，你自己选**
+
+- 适用理由：属于刚需层，直接对比工厂直供与品牌店的差异，抢占决策心智
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：促进转化、确立地位
+
+---
+
+**6. 量尺、设计、生产、安装，全屋定制这四步里哪步最容易翻车，我给你提前打个预防针**
+
+- 适用理由：属于刚需层，拆解交付流程中的风险点，回应"怕交付翻车"的担忧
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、加深信任
+
+---
+
+**7. 我做代工这些年，见过太多经销商拿贴牌货冒充原厂，今天教你怎么一眼识破**
+
+- 适用理由：属于刚需层，揭露行业"挂羊头卖狗肉"内幕，直击客户最怕的坑
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：确立地位、加深信任
+
+---
+
+**8. 新房快交钥匙了，橱柜衣柜到底先定哪样、什么时候量尺，顺序搞错要多等一个月**
+
+- 适用理由：属于影响层，描绘装修进场的时间节点场景，帮业主理清决策节奏
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：培育需求、促进转化
+
+---
+
+**9. 小户型想做满墙柜又怕压抑，我在工厂给你比划几种做法，空间感一下就出来了**
+
+- 适用理由：属于影响层，聚焦小户型收纳场景，让业主开始想象自家落地效果
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：培育需求、扩大影响
+
+---
+
+**10. 装修到木作这一步，设计师出的图跟工厂能落地的差多少，我拿车间实拍给你对一遍**
+
+- 适用理由：属于影响层，描绘设计落地场景，吸引设计师和小装修公司关注供应链能力
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、加深信任
+
+---
+
+**11. 攒了半辈子钱买下这套房，结果柜子装完味儿大得不敢让孩子住，这口气你咽得下吗**
+
+- 适用理由：属于潜在层，击中父母对家人健康与"花钱还受罪"的深层恐惧
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、促进转化
+
+---
+
+**12. 装修被坑过一次的人，再选定制是不是心里发怵，总怕又遇到嘴上说得好听转头就变脸**
+
+- 适用理由：属于潜在层，直击被坑后的信任创伤，引发强烈身份共鸣
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、加深信任
+
+---
+
+**13. 一个家装下来超预算十几万，有多少是花在看不见的地方，你敢不敢把账摊开来看**
+
+- 适用理由：属于潜在层，击中业主对预算失控的焦虑与对"糊涂账"的无力感
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：培育需求、促进转化
+
+---
+
+**14. 小装修公司老板最怕什么，不是没单子，是好不容易接的单被供应链拖垮了口碑**
+
+- 适用理由：属于潜在层，直击小装企对交付翻车砸招牌的深层恐惧
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、促进转化
+
+---
+
+**15. 设计师熬夜改的方案，工厂一句做不了就给你打回来，这种憋屈你是不是也受够了**
+
+- 适用理由：属于潜在层，击中设计师对方案落地受阻的职业挫败感
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、加深信任
+
+---
+
+**16. 业主把家交给你，你却连板材从哪来都说不清，这份信任你拿什么去兜住**
+
+- 适用理由：属于潜在层，击中从业者对"辜负客户信任"的职业良知与身份焦虑
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：加深信任、确立地位
+
+---
+
+### 2. 泛内容选题
+
+**1. 在一二线城市打拼这么多年，好不容易有个自己的窝，谁不想把它拾掇得像样点**
+
+- 适用理由：属于影响层，描绘都市业主对安家置家的生活场景与向往
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：扩大影响、培育需求
+
+---
+
+**2. 装修这事儿，两口子从选风格吵到选材料，最后谁也没说服谁，是不是特别熟悉**
+
+- 适用理由：属于影响层，聚焦装修中的家庭矛盾场景，引发广泛共鸣
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：扩大影响、建立链接
+
+---
+
+**3. 房子住久了，收纳永远不够用，东西越堆越多，那种乱糟糟的烦躁你懂吧**
+
+- 适用理由：属于影响层，描绘居家收纳的生活痛点场景，唤起改善欲望
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：扩大影响、培育需求
+
+---
+
+**4. 人到中年，上有老下有小，一套房子要装下一家子的日子，哪有那么容易**
+
+- 适用理由：属于潜在层，击中中年群体扛家庭重担的深层压力与身份焦虑
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、扩大影响
+
+---
+
+**5. 为什么越是在外面拼命的人，回家越想要一个干干净净、踏踏实实的空间**
+
+- 适用理由：属于潜在层，挖掘都市人对"家作为避风港"的情感渴望
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、扩大影响
+
+---
+
+**6. 干了这么多年装修建材，我最看不惯的就是老实人吃亏，可这行偏偏老实人最容易被坑**
+
+- 适用理由：属于潜在层，为"怕被坑的老实人"发声，触发共情与身份认同
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、扩大影响
+
+---
+
+**7. 现在做生意，大家都在比谁嘴甜谁会来事，可我就信一条，东西实在才走得长远**
+
+- 适用理由：属于潜在层，表达对"实在做生意"的价值观坚守，吸引同频人群
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、加深信任
+
+---
+
+**8. 你有没有发现，越是把价格说得云里雾里的人，越是不敢让你看清他到底赚了你多少**
+
+- 适用理由：属于潜在层，揭露价格不透明的潜规则，击中消费者对"被当冤大头"的恐惧
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、扩大影响
+
+---
+
+### 3. 人设化内容选题
+
+**1. 给品牌代工这么多年，活没少干利润却越来越薄，我为啥非要自己出来拍视频接单**
+
+- 适用理由：属于潜在层，展示从代工转直客的真实动机与不甘，呈现创业者的处境
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：建立链接、加深信任
+
+---
+
+**2. 厂子开了这么多年，最难的时候工资都差点发不出，我也没想过偷工减料省那点钱**
+
+- 适用理由：属于潜在层，用艰难时刻的坚守展示底线与价值观，建立深层信任
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：加深信任、确立地位
+
+---
+
+**3. 有客户大老远跑来佛山看厂，看完车间说了句话，我到现在想起来心里还热乎**
+
+- 适用理由：属于潜在层，用被认可的高光回忆传递真实温度，拉近情感距离
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：建立链接、加深信任
+
+---
+
+**4. 同行劝我把便宜板材掺着卖，利润能翻一截，我当场就跟他把话说死了**
+
+- 适用理由：属于潜在层，通过价值冲突展现"用料实在"的底层动机，强化人设
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：加深信任、确立地位
+
+---
+
+**5. 我从车间学徒干到自己开厂，最懂一线工人手上那点活，也最怕辜负人家那份信任**
+
+- 适用理由：属于潜在层，讲述成长轨迹，展示"懂行又懂人"的真实底色
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：建立链接、确立地位
+
+---
+
+**6. 我这人不太会说话，也不懂什么营销套路，就想着把活干好，让找过我的人不后悔**
+
+- 适用理由：属于潜在层，坦诚自我定位，用"笨拙的真诚"打动同频客户
+- 命中人群：泛人群
+- 选题类型：人设化
+- 选题目标：加深信任、建立链接b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["强人设爆款选题"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","1-垂直内容选题",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#1-垂直内容选题","className":"hover:text-violet-400 transition-colors","children":"1. 垂直内容选题"}]}],["$","li","2-泛内容选题",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#2-泛内容选题","className":"hover:text-violet-400 transition-colors","children":"2. 泛内容选题"}]}],["$","li","3-人设化内容选题",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#3-人设化内容选题","className":"hover:text-violet-400 transition-colors","children":"3. 人设化内容选题"}]}]]}]]}],["$","$Lf",null,{"agentKey":"explosive-topics","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["强人设爆款选题","是什么"]}],["$","p",null,{"children":["这是一个面向“","家具制造","”行业的","强人设爆款选题","应用案例：","我是做定制家具代工的，同时也自己做点直客。厂里在佛山这边，做了很多年，主要给品牌和经销商供货，这两年上下游都不好做，我就想自己拍拍短视频，直接接点业主单子，利润也能好一点。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","强人设爆款选题是来财有方AI「内容获客」分类下的一款 AI 智能体，基于你的个人画像，挖掘目标受众的真实需求与痛点，定制一批有爆款的选题，帮你在短视频、公众号、小红书等内容平台持续产出有人看的选题清单。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","全屋定制、橱柜衣柜、护墙板这些，板材和五金都是自己渠道拿的，工厂直接出货，没有中间商加价。我主打的是「工厂直供、用料实在、价格透明」。","，主要客群是","一二线城市的业主，以及小型的装修公司、设计师。他们要么想省钱找工厂，要么想给客户找稳定靠谱的供应链，最怕的就是「挂羊头卖狗肉」和「交付翻车」。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多人做内容最大的卡点，不是不会写，而是\"不知道写什么\"——凭感觉选题，结果要么自嗨、要么没人看。这个智能体解决的是选题荒与选题不准的问题，把\"我觉得\"换成\"目标客户真正关心什么\"。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我是做定制家具代工的，同时也自己做点直客。厂里在佛山这边，做了很多年，主要给品牌和经销商供货，这两年上下游都不好做，我就","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁），以及你想主攻的平台和内容方向；可选补充你已有的爆款或你观察到的同行选题，让生成的选题更贴合你的赛道。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","强人设爆款选题","输出的是面向","一二线城市的业主，以及小型的装修公司、设计师。他们要么想省钱找工厂，要么想给客户","的落地方案（见上文“生成结果”），整体能力为：","输出一份爆款选题清单：每个选题都标注了对应的人群痛点、切入角度、标题方向与内容结构建议，可直接作为一段时间内的内容排期表使用。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","生产制造与供应链型","、","家具制造","）类似的经营者都适用：","适合需要持续输出内容但总缺选题的个人 IP、老板、教练、顾问、知识付费从业者，以及负责新媒体内容、增长获客的操盘手。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","强人设爆款选题","已内置对应的行业方法轮与输出规范，能结合“","全屋定制、橱柜衣柜、护墙板这些，板材和五金都是自己渠道拿的，工厂直接出货，没有中间商加价。我主打的是「工厂直供、用料实在、价格透明」。","、","一二线城市的业主，以及小型的装修公司、设计师。他们要么想省钱找工厂，要么想给客户找稳定靠谱的供应链，最怕的就是「挂羊头卖狗肉」和「交付翻车」。","”这类真实画像做体系化产出，更贴合实际经营场景：","与直接问通用大模型\"给我 20 个热门选题\"不同，它基于你的画像和客群痛点生成选题，而不是给你一堆全网通用、和你业务无关的热点，产出的选题更可能被你的目标客户刷到并停留。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/explosive-topics","children":["立即试用","强人设爆款选题"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","强人设爆款选题"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/explosive-topics","agentName":"强人设爆款选题"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

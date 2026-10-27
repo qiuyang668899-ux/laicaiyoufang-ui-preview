@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[35507,["1349","static/chunks/1349-43870d1869e9e6a4.js","9802","static/chunks/9802-d2e131a367da7c24.js","8176","static/chunks/8176-e1a3cc1fe000d357.js","1430","static/chunks/1430-3ebdfc7986ee7532.js","3734","static/chunks/app/classroom/page-6b43491612e687fb.js"],"default"]
+3:I[23349,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/laicaiyoufang-ui-preview/_next/static/css/17b2ea32b8a9f3aa.css","style"]
+0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[[["$","div",null,{"role":"status","style":{"position":"relative","zIndex":20,"marginTop":72,"padding":"12px 20px","background":"#fff7ed","color":"#9a5b22","fontSize":12,"textAlign":"center"},"children":["界面预览：课程目录与会员数据需连接原服务，当前不展示实时课程。",["$","a",null,{"href":"https://www.laicaiyoufang.com/classroom","target":"_blank","rel":"noopener noreferrer","style":{"marginLeft":8,"textDecoration":"underline"},"children":"前往正式课堂"}]]}],["$","$L2",null,{"initialData":{"success":false,"list":[],"stats":{"liveThisWeek":0,"total":0,"learners":0},"pagination":{"page":1,"pageSize":18,"total":0,"totalPages":1},"user":null}}]],[["$","link","0",{"rel":"stylesheet","href":"/laicaiyoufang-ui-preview/_next/static/css/17b2ea32b8a9f3aa.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

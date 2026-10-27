@@ -1,0 +1,536 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.laicaiyoufang.com/#organization",
+      "name": "来财有方AI",
+      "url": "https://www.laicaiyoufang.com",
+      "description": "帮各行业老板和一人公司AI落地/增长有方的实战社群",
+      "foundingDate": "2024-11-17",
+      "founder": {
+        "@type": "Person",
+        "@id": "https://www.laicaiyoufang.com/#founder"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.laicaiyoufang.com/#logo",
+        "url": "https://www.laicaiyoufang.com/logo.png",
+        "contentUrl": "https://www.laicaiyoufang.com/logo.png",
+        "width": 640,
+        "height": 640,
+        "encodingFormat": "image/png"
+      },
+      "image": "https://www.laicaiyoufang.com/logo.png",
+      "sameAs": [
+        "https://www.douyin.com/user/MS4wLjABAAAAAUewz1skyA2ocMhuUVpsk038bq_v4pzRW2sS2k3PKOA",
+        "https://www.xiaohongshu.com/user/profile/581f00cd5e87e7260b053fe2",
+        "https://t.zsxq.com/j6naI"
+      ],
+      "knowsAbout": [
+        "AI落地",
+        "一人公司",
+        "新媒体增长",
+        "GEO优化",
+        "AI智能体"
+      ],
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "火山引擎"
+        },
+        {
+          "@type": "Organization",
+          "name": "腾讯Workbuddy"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.laicaiyoufang.com/#founder",
+      "name": "萌社长",
+      "url": "https://www.laicaiyoufang.com/about-meng",
+      "description": "前科技500强高管、团中央十佳创业青年故事奖得主、国家级众创空间发起人、AI+OPC天使投资人",
+      "knowsAbout": [
+        "AI",
+        "创业",
+        "新媒体",
+        "增长"
+      ],
+      "sameAs": [
+        "https://www.douyin.com/user/MS4wLjABAAAAAUewz1skyA2ocMhuUVpsk038bq_v4pzRW2sS2k3PKOA",
+        "https://www.xiaohongshu.com/user/profile/581f00cd5e87e7260b053fe2",
+        "https://t.zsxq.com/j6naI"
+      ],
+      "citation": [
+        {
+          "@type": "NewsArticle",
+          "name": "萌社长做AI领带的OPC投资（湖北日报）",
+          "url": "https://news.hubeidaily.net/pc/c_5384889.html"
+        },
+        {
+          "@type": "NewsArticle",
+          "name": "萌社长赴华中科技大学做分享",
+          "url": "https://news.hust.edu.cn/info/1004/27802.htm"
+        },
+        {
+          "@type": "NewsArticle",
+          "name": "萌社长返回母校武汉理工大学演讲",
+          "url": "http://sen.whut.edu.cn/xyxw/202605/t20260514_1398856.shtml"
+        },
+        {
+          "@type": "Book",
+          "name": "《认知觉醒》",
+          "author": "萌社长（笔名Mullhe）",
+          "url": "https://book.douban.com/subject/6429783/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "AI智能体平台",
+      "url": "https://www.laicaiyoufang.com/ai-agents",
+      "description": "39+垂直领域AI智能体，覆盖一人公司定位、AI+IP打造、GEO优化、获客增长、新媒体内容创作等场景",
+      "provider": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      }
+    },
+    {
+      "@type": "Service",
+      "name": "AI增长实战训练营",
+      "url": "https://www.laicaiyoufang.com/training-camp",
+      "description": "系统实战训练营，从0到1打造一人公司，覆盖AI+IP打造、GEO优化、AI获客、AI+一人公司创业实战",
+      "provider": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      }
+    },
+    {
+      "@type": "Service",
+      "name": "线上AI实战课",
+      "url": "https://www.laicaiyoufang.com/classroom",
+      "description": "每月不间断AI增长直播课与录播课，三大课程体系",
+      "provider": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      }
+    },
+    {
+      "@type": "Service",
+      "name": "导师矩阵",
+      "url": "https://www.laicaiyoufang.com/mentors",
+      "description": "58位AI/新媒体领域实战专家，覆盖AI智能体、销售、内容、投资等维度",
+      "provider": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.laicaiyoufang.com/#website",
+      "url": "https://www.laicaiyoufang.com",
+      "name": "来财有方AI",
+      "description": "帮各行业老板和一人公司AI落地/增长有方",
+      "publisher": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "来财有方AI专题培训走进公安分局",
+      "startDate": "2026-10-22T18:30:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/gongan-ai-training-1022",
+      "image": "https://www.laicaiyoufang.com/events/cover-gongan-ai-training-1022.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/gongan-ai-training-1022",
+      "endDate": "2026-10-22T20:30:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉市公安局东湖新技术开发区分局",
+        "address": "武汉市公安局东湖新技术开发区分局"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "来财有方·斗虾 Workbuddy 黑客松，邀您参与",
+      "startDate": "2026-07-04T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/workbuddy-hackathon-0704",
+      "image": "https://www.laicaiyoufang.com/events/cover-workbuddy-hackathon-0704.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/workbuddy-hackathon-0704",
+      "endDate": "2026-07-04T17:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉·光谷青年之家",
+        "address": "金融港一路7号光谷智慧园F1层"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Codex 造物局-从0到产品：来财AI实战分享",
+      "startDate": "2026-06-27T14:30:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/codex-creator-event-0627",
+      "image": "https://www.laicaiyoufang.com/events/cover-codex-creator-event-0627.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/codex-creator-event-0627",
+      "endDate": "2026-06-27T17:30:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉·光谷 泛悦城T2写字楼",
+        "address": "11楼 模态空间"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "一人公司OPC×AI前沿实战嘉年华，邀你参与",
+      "startDate": "2026-04-06T09:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/opc-ai-carnival-0406",
+      "image": "https://www.laicaiyoufang.com/events/cover-opc-ai-carnival-0406.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/opc-ai-carnival-0406",
+      "endDate": "2026-04-06T12:10:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉·光谷 泛悦城T2写字楼",
+        "address": "11楼 模态空间"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "2026火山引擎ArkClaw/龙虾发布&现场指导安装，来财有方X火山引擎",
+      "startDate": "2026-03-21T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/volcengine-arkclaw",
+      "image": "https://www.laicaiyoufang.com/events/cover-volcengine-arkclaw.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/volcengine-arkclaw",
+      "endDate": "2026-03-21T17:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉·光谷 泛悦城T2写字楼",
+        "address": "11楼 模态空间"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "AI奇点·OPC公开课武汉理工大学校园行",
+      "startDate": "2026-03-19T14:30:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/whut-opc-event",
+      "image": "https://www.laicaiyoufang.com/events/cover-whut-opc-event.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/whut-opc-event",
+      "endDate": "2026-03-19T16:30:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉理工大学大创园一楼",
+        "address": "武汉理工大学大创园一楼"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "AI养虾大会&AI短剧OPC高峰论坛-Openclaw&AI短剧实战大会",
+      "startDate": "2026-03-15T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/ai-shrimp-forum",
+      "image": "https://www.laicaiyoufang.com/events/cover-ai-shrimp-forum.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/ai-shrimp-forum",
+      "endDate": "2026-03-15T18:30:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉东湖高新区光谷保利中心B座十二楼",
+        "address": "武汉东湖高新区光谷保利中心B座十二楼"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "OpenClaw小龙虾实战演示分享沙龙，邀你参加",
+      "startDate": "2026-03-08T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/openclaw-salon-0308",
+      "image": "https://www.laicaiyoufang.com/events/cover-openclaw-salon-0308.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/openclaw-salon-0308",
+      "endDate": "2026-03-08T17:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉·光谷 泛悦城T2写字楼",
+        "address": "11楼 模态空间，OPC创新社区"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "2026一人公司AI+OPC发布暨项目路演，邀你参加",
+      "startDate": "2026-03-07T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/opc-ai-roadshow-0307",
+      "image": "https://www.laicaiyoufang.com/events/cover-opc-ai-roadshow-0307.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/opc-ai-roadshow-0307",
+      "endDate": "2026-03-07T17:30:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "中国·武汉·光谷·当代光谷梦工场",
+        "address": "4号楼"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "2026 GEO元年·首届AI流量风口大会",
+      "startDate": "2026-02-07T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/geo-year-2026-congress",
+      "image": "https://www.laicaiyoufang.com/events/cover-geo-year-2026-congress.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/geo-year-2026-congress",
+      "endDate": "2026-02-07T17:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉光谷海外人才创新园一楼",
+        "address": "武汉光谷海外人才创新园一楼"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "2天1夜 企业家 AI+IP 获客增长实战营",
+      "startDate": "2026-01-13T09:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/ai-ip-growth-bootcamp-0113",
+      "image": "https://www.laicaiyoufang.com/events/cover-ai-ip-growth-bootcamp-0113.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/ai-ip-growth-bootcamp-0113",
+      "endDate": "2026-01-14T18:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "中国·武汉·光谷·光智荟",
+        "address": "光谷大道金融港a4栋2楼"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "2026·重构未来，一人公司 & AI前沿大会",
+      "startDate": "2026-01-10T13:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/opc-2026-conference-rebuild-future",
+      "image": "https://www.laicaiyoufang.com/events/cover-opc-2026-conference-rebuild-future.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/opc-2026-conference-rebuild-future",
+      "endDate": "2026-01-10T17:30:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉·光谷 泛悦城T2写字楼 11楼 模态空间",
+        "address": "武汉·光谷 泛悦城T2写字楼 11楼 模态空间"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "现场火爆！AI赋能流量与生意增长首期公开课",
+      "startDate": "2025-10-25T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/ai-growth-public-course-1025",
+      "image": "https://www.laicaiyoufang.com/events/ai-growth-course-1025-1.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/ai-growth-public-course-1025",
+      "endDate": "2025-10-25T17:30:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "光谷大道金融港A4栋2楼光智荟",
+        "address": "光谷大道金融港A4栋2楼光智荟"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "一人公司破局 & IP+AI训练营结营圆满结束",
+      "startDate": "2025-08-09T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/solo-company-ipai-graduation-0809",
+      "image": "https://www.laicaiyoufang.com/events/solo-company-ipai-graduation-0809-1.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/solo-company-ipai-graduation-0809",
+      "endDate": "2025-08-09T18:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "琨瑜国际中心41楼",
+        "address": "琨瑜国际中心41楼"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "来财有方【一人公司：IP+AI训练营】首期学员结营盛典圆满落幕",
+      "startDate": "2025-07-05T13:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/ip-ai-training-graduation-0705",
+      "image": "https://www.laicaiyoufang.com/events/cover-ip-ai-training-graduation-0705.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/ip-ai-training-graduation-0705",
+      "endDate": "2025-07-05T20:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉·武大科技园",
+        "address": "一楼"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "2025一人公司轻创前沿大会武汉站",
+      "startDate": "2025-06-28T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/light-startup-conference-0628",
+      "image": "https://www.laicaiyoufang.com/events/cover-light-startup-conference-0628.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/light-startup-conference-0628",
+      "endDate": "2025-06-28T18:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "湖北普瑞眼科医院12楼学术报告厅",
+        "address": "湖北普瑞眼科医院12楼学术报告厅"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "IP+AI训练营高能开场，首课4小时干货燃动全场",
+      "startDate": "2025-06-08T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/ip-ai-training-bootcamp-0608",
+      "image": "https://www.laicaiyoufang.com/events/cover-ip-ai-training-bootcamp-0608.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/ip-ai-training-bootcamp-0608",
+      "endDate": "2025-06-08T18:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉光谷华美达酒店顶层",
+        "address": "武汉光谷华美达酒店顶层"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "来财有方·分享交流会第三期小红书专场来啦！从0到1搞钱指南×生态红利解读，光谷见！",
+      "startDate": "2025-04-12T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/xiaohongshu-share-0412",
+      "image": "https://www.laicaiyoufang.com/events/xhs-share-0412-1.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/xiaohongshu-share-0412",
+      "endDate": "2025-04-12T17:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉·光谷",
+        "address": "湖北普瑞眼科医院12楼学术报告厅"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "AI+前沿流量落地大会爆满收官",
+      "startDate": "2025-03-22T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/ai-flow-traffic-conference-0322",
+      "image": "https://www.laicaiyoufang.com/events/cover-ai-flow-traffic-conference-0322.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/ai-flow-traffic-conference-0322",
+      "endDate": "2025-03-22T18:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "武汉光谷湖北普瑞眼科医院12楼学术报告厅",
+        "address": "武汉光谷湖北普瑞眼科医院12楼学术报告厅"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "2025年轻创业与副业交流分享会精彩回眸",
+      "startDate": "2025-03-01T14:00:00+08:00",
+      "url": "https://www.laicaiyoufang.com/events/lightside-business-share-0301",
+      "image": "https://www.laicaiyoufang.com/events/cover-lightside-business-share-0301.jpg",
+      "inLanguage": "zh-CN",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@id": "https://www.laicaiyoufang.com/#organization"
+      },
+      "@id": "https://www.laicaiyoufang.com/events/lightside-business-share-0301",
+      "endDate": "2025-03-01T18:00:00+08:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "光谷东湖高新海创园",
+        "address": "光谷东湖高新海创园"
+      }
+    }
+  ]
+}

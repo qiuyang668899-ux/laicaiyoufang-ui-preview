@@ -1,0 +1,9 @@
+/* Shared brand treatment for the original tool action buttons. */
+:is(button, a, [role="button"])[class*="bg-gradient"]:not(.bg-clip-text):not([class*="/10"]):not([class*="/20"]):not([class*="/30"]) {
+  background: #ff6a00;
+  color: #24180e;
+  box-shadow: none;
+}
+:is(button, a, [role="button"])[class*="bg-gradient"]:not(.bg-clip-text):not([class*="/10"]):not([class*="/20"]):not([class*="/30"]):hover {
+  background: #f56200;
+}

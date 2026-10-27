@@ -1,0 +1,117 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T726,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/pet-persona-positioning#article","headline":"社区宠物店 · 强人设定位","description":"强人设定位教练真实生成案例：开宠物店的，这行干了六年，自己家里也养着三只猫两条狗，是真喜欢这个。开店也不图发大财，就图天天跟猫狗打交道。","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/pet-persona-positioning"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/persona-positioning","name":"强人设定位教练"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/pet-persona-positioning#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"社区宠物店 · 强人设定位","item":"https://www.laicaiyoufang.com/case-library/pet-persona-positioning"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/persona-positioning","name":"强人设定位教练","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/persona-positioning","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"强人设定位教练","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"本地生活/服务密集型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"宠物经济"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"社区宠物店 · 强人设定位"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"开宠物店的，这行干了六年，自己家里也养着三只猫两条狗，是真喜欢这个。开店也不图发大财，就图天天跟猫狗打交道。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"猫粮狗粮、洗澡美容、寄养，还有各种宠物用品。粮都是自家也在喂的牌子才敢卖。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"周边小区的养宠家庭，年轻人多一些。基本都是老客人了。"}]]}]]}]
+10:T2945,# 你的IP定位诊断书：一个"真喜欢"的宠物店主，如何从"小区老王"变成"片区养宠人的定心丸"
+
+先说句实在话——你给的信息，我读完第一反应是：**这是一个好人，但还不是一个好IP。**
+
+为什么这么说？因为你的三个字段里，藏着一个巨大的优势和一个巨大的隐患。优势是"六年+自己养五只+真喜欢"，这是天然的信任资产，多少人花钱都买不来。隐患是——**你把这一切都说得太"平"了**。"开宠物店的""卖猫粮狗粮洗澡美容寄养""周边小区年轻人"——这三句话，换成全国任何一家社区宠物店老板都能说，一字不差。也就是说，你现在的定位，**没有排他性**。
+
+下面我分三步给你拆：先评估现状，再提炼强人设，最后给三组差异化建议。你耐心看完，尤其是第三部分，那才是能让你跟隔壁三条街那家店拉开差距的东西。
+
+
+## 一、当前定位评估：你的三个字段，问题出在哪
+
+**1. "我是谁"——有事实，没标签。**
+六年、三猫两狗、真喜欢——这些都是好素材，但你只是"陈述"了它们，没有"提炼"成别人能记住的东西。用户刷到你，脑子里留不下一个词。IP的第一性原理是真实而非完美，你真实是够的，但真实不等于有记忆点。**真实要被"翻译"成标签，才能被传播。**
+
+**2. "我卖什么"——有产品，没逻辑。**
+猫粮狗粮、洗澡美容、寄养、用品——这是"货架清单"，不是"产品IP"。你说"自家也在喂的牌子才敢卖"，这句话其实是金句，是你产品逻辑的核心，但你把它当成一句补充说明放在最后了。**你卖的不是粮，是"我敢给我家五只吃"这个背书。** 这个得往前提，提到最前面。
+
+**3. "我卖给谁"——有人群，没场景。**
+"周边小区养宠家庭，年轻人多一些，基本老客人"——这是地理描述，不是人群画像。年轻人养宠，是刚接猫的新手？是加班到十点没人遛狗的上班族？是过年要回老家发愁寄养的北漂？**不同场景，需求完全不同，你的内容和服务话术也完全不同。** 现在这个描述太泛，导致你后面做什么内容都容易"什么都讲一点，什么都不深"。
+
+另外提醒一句：你说"基本都是老客人了"——这既是好消息也是警报。好消息是复购稳，警报是**你的IP没有在拉新**。老客认的是"你这个人靠谱"，但新客刷不到你、记不住你。IP要解决的是"让不认识你的人，也能在三十秒内知道你为什么值得托付"。
+
+**如果你想让下面的建议更精准，建议你按这个模板再补一轮信息：**
+- 我是谁（六维度）：身份（店主/铲屎官/半个兽医？）、经历（六年里最难忘的一单/一次救急）、成绩（服务过多少户、有没有零差评、有没有救过命）、观点（你对养宠最看不惯什么、最坚持什么）、背书（有没有相关证书、合作品牌、社区口碑）、核心案例（一两个具体到人名场景的故事）。
+- 卖给谁（四维度）：年龄、区域、性别、特征（新手/多宠/上班族/老年陪伴/学生党）。
+- 卖什么（五维度）：业务模型（纯零售还是服务为主）、产品矩阵（引流品/利润品/信任品）、交付逻辑（到店/上门/社群）、卖点、优势（相比连锁店和网购，你赢在哪）。
+
+信息越细，我给的刀越准。下面先基于你现有的信息往下走。
+
+
+## 二、强人设优化分析：给你提炼3个元标签
+
+"强人设"不是让你演，是把你身上**已经存在但没被说出来的东西**，提炼成三个维度、互相支撑的标签。参考刘思毅那种"北大/最懂流量的年轻创业者/干他妈的冲"的结构——一个管信任、一个管专业、一个管性格。
+
+放到你身上，我给你提炼这三个元标签：
+
+**标签一（你眼中的自己）："就想天天跟猫狗待着的人"。**
+这是你的初心，也是你的能量来源。别小看这句话，它决定了你不是"做生意的"，是"过日子的"。这个标签让你的内容有温度、不油腻，是区别于连锁店"标准化微笑"的底色。
+
+**标签二（客户眼中的你）："我家猫狗交给他我放心"。**
+这是老客真实的心理。六年、零事故、自家五只先试吃——客户买的不是粮，是"这个人不会害我的狗"。这个标签是你最值钱的资产，要反复用案例去夯实，而不是嘴上说"我很靠谱"。
+
+**标签三（真实的你）："较真到有点轴的铲屎官"。**
+这是能让你出圈的性格标签。"自家不喂的牌子不卖"——这就是轴。轴的人设特别适合做内容，因为轴意味着有观点、有取舍、有敌人（比如"我就是不推荐某类网红粮"）。真实的人设需要一点"不讨喜"的坚持，这才是记忆点。
+
+这三个标签合起来，你的人设画像就清楚了：**一个因为太爱猫狗、所以对粮和服务较真到有点轴的、开了六年社区宠物店的老铲屎官。** 有温度、有信任、有性格。记住这个画像，下面三组建议都从这里长出来。
+
+
+## 三、三组差异化改进建议
+
+### 第一组：往"新手铲屎官的第一站"打
+
+**人设IP方向**
+- 【我是谁】你不是"宠物店主"，你是"片区里最愿意教新手的那个老铲屎官"。定位成"新手养宠避坑向导"。
+- 【我用什么内容表达我是谁】做系列短视频/图文，主题固定为"新手接猫/接狗第一周别做的5件事""第一次养猫最容易交的智商税""我家三猫两狗，这几样东西我从来不买"。用你自己店里的真实场景拍，用你踩过的坑讲。**核心是把"六年经验"翻译成"帮新手省钱省心"的具体清单。**
+
+**产品IP方向**
+- 【我卖什么】把"新手入门包"做成一个明确的产品：第一袋放心粮 + 基础用品 + 一次到店指导 + 一个月内免费咨询。粮的卖点就是"我家五只都在吃"。
+- 【我卖给谁】三个垂直要素：**刚接回第一只猫/狗的25-30岁年轻人（人群）**、**接宠回家头30天的手忙脚乱期（场景）**、**核心需求是"别喂错、别买错、出问题有人问"（需求点）**。
+
+**理由**：这一组用的是"需求点品类差异化"里的**细分人群**打法——短视频教学赛道里新餐大只做餐饮人、修龙只做房产人，你也一样，把"所有养宠人"收窄成"新手"，反而更容易被记住。同时它符合"4减1加1模型"里"卖给谁"优先的逻辑：新手人群最焦虑、最需要人带、最容易形成长期复购，锁定他们，你的"卖什么"和"怎么卖"都能快速迭代。
+
+### 第二组：往"上班族的托付焦虑"打
+
+**人设IP方向**
+- 【我是谁】你是"那个帮你遛狗、帮你寄养、让你出差安心的人"。定位成"上班族养宠的后方保障"。
+- 【我用什么内容表达我是谁】拍"寄养房的一天"vlog、拍"你加班时你家狗在我这儿干嘛"、拍"出差七天，猫在我店里的真实状态"。内容核心是**透明**——让看不见的时间变得看得见。你自家养五只，天然懂"主人不在身边那种牵挂"。
+
+**产品IP方向**
+- 【我卖什么】把"寄养+上门喂养+代遛"打包成"安心托付服务"，卖点不是便宜，是"每天给你发视频、有异常第一时间处理、六年零事故"。
+- 【我卖给谁】三个垂直要素：**加班多、常出差的都市上班族（人群）**、**出差/加班/节假日回老家（场景）**、**核心需求是"我不在的时候，它也被好好对待，且我能看到"（需求点）**。
+
+**理由**：这一组用的是"需求点品类差异化"里的**细分场景**打法——小罐茶只做"节日送礼"一个场景就火了，你只做"人不在时的托付"这一个场景。它同时呼应了"IP第一性原理是能量"：你"真喜欢猫狗"这件事，在寄养场景里是能被客户直接感知到的能量，这是连锁店和纯上门平台给不了的。
+
+### 第三组：往"较真选粮人"打
+
+**人设IP方向**
+- 【我是谁】你是"自家五只先试吃、不合格绝不进店"的较真选粮人。定位成"片区里最敢说真话的选粮顾问"。
+- 【我用什么内容表达我是谁】做"拆粮"内容：这款粮我为什么进、那款网红粮我为什么不进；"配料表怎么看""这几个词出现就要警惕"。**敢有观点、敢有取舍，甚至敢说"这个我不卖，你去别处买"。** 轴，就是你的记忆点。
+
+**产品IP方向**
+- 【我卖什么】把主粮做成"经过我家五只验证的放心清单"，按猫/狗、幼/成、肠胃敏感等分几个小类，每款都配一句"我为什么选它"。卖点是背书不是价格。
+- 【我卖给谁】三个垂直要素：**对粮焦虑、怕喂出问题的谨慎型养宠人（人群）**、**换粮/宠物肠胃出问题/看到负面新闻后（场景）**、**核心需求是"有人替我把关，我不用自己研究配料表"（需求点）**。
+
+**理由**：这一组是"人设IP立牌坊"的典型——用"较真"这个性格标签建立信任壁垒。它符合"铁粉的第一性原理是价值而非取悦"：你不需要讨好所有人，你只需要让那批"怕喂错"的人觉得"跟着他买不会错"。同时"自家先试吃"这个真实事实，正是DanKoe说的"最真实、最有利可图的利基市场是你自己"——你的养宠经验本身就是产品。
+
+
+## 最后说一句
+
+以上三组建议，你可以先挑一组最顺手的做，别三组一起上——**IP起盘最忌讳贪多，一个人群、一个场景、一个标签，打透了再扩。**
+
+另外提醒你：这三组建议**仅供参考**，更关键的是学习这个思维模型——**4减1加1模型**。给你留个通用框架，以后你自己也能套：
+
+- **加1前先做4减**：卖什么、卖给谁、你是谁、怎么卖，四个字段先填满；
+- **减1**：如果"卖什么"还没定，但"卖给谁"清楚了，就先干，人群是核心，产品和卖法可以迭代；但人群一旦定了别轻易换，换了等于重新起号；
+- **加1**：找一个跟你人群类似、问题类似、已经卖成功的对标账号，照着拆、照着改，别自己闭门造车。
+
+你手里其实是一副好牌——六年、五只、真喜欢。缺的只是把它们**翻译成别人记得住的一句话**。先把这句话想清楚，你的IP就立住一半了。b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["强人设定位教练"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","你的ip定位诊断书一个真喜欢的宠物店主如何从小区老王变成片区养宠人的定心丸",{"className":"text-slate-200","children":["$","a",null,{"href":"#你的ip定位诊断书一个真喜欢的宠物店主如何从小区老王变成片区养宠人的定心丸","className":"hover:text-violet-400 transition-colors","children":"你的IP定位诊断书：一个\"真喜欢\"的宠物店主，如何从\"小区老王\"变成\"片区养宠人的定心丸\""}]}],["$","li","一当前定位评估你的三个字段问题出在哪",{"className":"text-slate-200","children":["$","a",null,{"href":"#一当前定位评估你的三个字段问题出在哪","className":"hover:text-violet-400 transition-colors","children":"一、当前定位评估：你的三个字段，问题出在哪"}]}],["$","li","二强人设优化分析给你提炼3个元标签",{"className":"text-slate-200","children":["$","a",null,{"href":"#二强人设优化分析给你提炼3个元标签","className":"hover:text-violet-400 transition-colors","children":"二、强人设优化分析：给你提炼3个元标签"}]}],["$","li","三三组差异化改进建议",{"className":"text-slate-200","children":["$","a",null,{"href":"#三三组差异化改进建议","className":"hover:text-violet-400 transition-colors","children":"三、三组差异化改进建议"}]}],["$","li","第一组往新手铲屎官的第一站打",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#第一组往新手铲屎官的第一站打","className":"hover:text-violet-400 transition-colors","children":"第一组：往\"新手铲屎官的第一站\"打"}]}],["$","li","第二组往上班族的托付焦虑打",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#第二组往上班族的托付焦虑打","className":"hover:text-violet-400 transition-colors","children":"第二组：往\"上班族的托付焦虑\"打"}]}],["$","li","第三组往较真选粮人打",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#第三组往较真选粮人打","className":"hover:text-violet-400 transition-colors","children":"第三组：往\"较真选粮人\"打"}]}],["$","li","最后说一句",{"className":"text-slate-200","children":["$","a",null,{"href":"#最后说一句","className":"hover:text-violet-400 transition-colors","children":"最后说一句"}]}]]}]]}],["$","$Lf",null,{"agentKey":"persona-positioning","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["强人设定位教练","是什么"]}],["$","p",null,{"children":["这是一个面向“","宠物经济","”行业的","强人设定位教练","应用案例：","开宠物店的，这行干了六年，自己家里也养着三只猫两条狗，是真喜欢这个。开店也不图发大财，就图天天跟猫狗打交道。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","强人设定位教练是来财有方AI「黄金定位」分类下的一款 AI 智能体，基于你已有的个人画像，帮你审视\"我是谁、我服务谁、我凭什么被选择\"这三个定位问题，输出强人设优化建议和差异化定位策略，让你从一堆同行里跳出来。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","猫粮狗粮、洗澡美容、寄养，还有各种宠物用品。粮都是自家也在喂的牌子才敢卖。","，主要客群是","周边小区的养宠家庭，年轻人多一些。基本都是老客人了。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多人有专业、有经验，却困在\"定位模糊、什么都做、说不出差异化\"，导致获客累、转化低、议价弱。这个智能体解决的是定位不清、人设平庸的问题，帮你找到那个最能被记住、最容易被推荐的锚点。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","开宠物店的，这行干了六年，自己家里也养着三只猫两条狗，是真喜欢这个。开店也不图发大财，就图天天跟猫狗打交道。","…… 具体输入项包括：","提供你的个人画像（我是谁、我卖什么、卖给谁），以及你目前对定位的困惑或想切入的方向；画像越完整、困惑越具体，定位建议越精准。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","强人设定位教练","输出的是面向","周边小区的养宠家庭，年轻人多一些。基本都是老客人了。","的落地方案（见上文“生成结果”），整体能力为：","输出一份强人设定位诊断与优化报告：你的核心定位主张、差异化优势、对标人群、需要强化或弱化的人设标签，以及可直接使用的一句话定位与后续落地动作建议。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","本地生活/服务密集型","、","宠物经济","）类似的经营者都适用：","适合已有一定业务基础、但定位模糊或想转型的人设型从业者：咨询师、教练、顾问、培训师、知识博主、操盘手，以及需要重新锚定个人品牌的老板。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","强人设定位教练","已内置对应的行业方法轮与输出规范，能结合“","猫粮狗粮、洗澡美容、寄养，还有各种宠物用品。粮都是自家也在喂的牌子才敢卖。","、","周边小区的养宠家庭，年轻人多一些。基本都是老客人了。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让通用大模型\"帮我定个位\"——通用模型往往给一堆放之四海皆准的漂亮话，而它基于你提供的真实画像做诊断，输出可执行、可验证的差异化建议，并明确\"强化什么、弱化什么\"。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/persona-positioning","children":["立即试用","强人设定位教练"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","强人设定位教练"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/persona-positioning","agentName":"强人设定位教练"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

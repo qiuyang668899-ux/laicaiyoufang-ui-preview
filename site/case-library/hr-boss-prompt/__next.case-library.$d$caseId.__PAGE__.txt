@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T706,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/hr-boss-prompt#article","headline":"外包机构老板 · 提示词私教","description":"老板提示词私教真实生成案例：我是做人资外包的小老板，之前一直是传统销售那一套，现在想做短视频和直播获客。但我不太会用 AI，每次让 AI 写文案，写","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/hr-boss-prompt"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/boss-prompt-coach","name":"老板提示词私教"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/hr-boss-prompt#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"外包机构老板 · 提示词私教","item":"https://www.laicaiyoufang.com/case-library/hr-boss-prompt"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/boss-prompt-coach","name":"老板提示词私教","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/boss-prompt-coach","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"老板提示词私教","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"专业服务/中介服务型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"企业服务"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"外包机构老板 · 提示词私教"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我是做人资外包的小老板，之前一直是传统销售那一套，现在想做短视频和直播获客。但我不太会用 AI，每次让 AI 写文案，写出来的东西都很假、很官方，不能直接发。我试过几次就放弃了，觉得 AI 也就那样。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"社保代缴、薪酬管理、劳务派遣这些人力资源外包服务，主要服务本地中小老板。卖点就是合规省心，让人力那一摊子事有人管。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"本地中小企业的老板和 HR，事情多、怕出错、图省心。他们刷短视频、刷朋友圈，也愿意信任能说人话的同行。"}]]}]]}]
+10:T2589,# 一、原始提示词诊断
+
+先说明一点：你这次给我的其实不是一条完整的"原始提示词"，而是三段业务背景（我是谁、卖什么、卖给谁）。这本身已经比很多人强了——你至少知道自己是谁、卖什么、卖给谁。但从"能直接丢给AI用"的角度看，它还缺了最关键的东西：**你到底想让AI干什么、产出什么形态、按什么标准算合格**。
+
+我先把你的信息按诊断维度拆开看：
+
+| 诊断维度 | 你提供的情况 | 缺失/模糊点 | 优化方向 |
+|---|---|---|---|
+| 背景 | 人资外包小老板，传统销售转型短视频/直播获客，AI使用受挫 | 没说明团队规模、账号现状（新号还是老号）、是否有出镜意愿、直播频次 | 补一句"账号阶段+出镜条件"，AI才知道该给保守方案还是激进方案 |
+| 目标 | 想做短视频和直播获客 | "获客"太笼统：是要播放量？要私信？要加到微信？要直播间留资？ | 明确一个可衡量目标，比如"每条视频带来X条私信咨询"或"直播间引导加企业微信" |
+| 目标受众 | 本地中小企业老板和HR，事多、怕出错、图省心 | 没区分"老板"和"HR"——这两类人痛点完全不同：老板怕合规风险，HR怕背锅和加班 | 让AI分人群出内容，或明确先打哪一类 |
+| 输出格式 | 只说"写文案"，被AI写得很假很官方 | 没规定条数、字数、平台、口播还是图文、要不要钩子/结尾引导 | 明确"短视频口播脚本，含开头3秒钩子+正文+结尾引导，每条X字" |
+| 限制条件 | 讨厌"假、官方" | 没定义什么叫"说人话"：要不要口语化？能不能用行业黑话？能不能举本地案例？ | 明确"像跟隔壁老板聊天，不用'赋能/闭环/抓手'这类词" |
+| 评估标准 | 无 | 完全没标准，AI无法自检 | 加"每条必须有一个具体场景痛点+一个可执行建议+一个软性引导" |
+
+**关键追问（最多3个，你可以不答，我会按假设继续）：**
+
+1. 你打算**真人出镜口播**，还是图文/数字人？这决定脚本写法。
+2. 你更想先打**老板**（怕合规罚款）还是**HR**（怕背锅加班）？两类人内容差别很大。
+3. 你希望视频结尾引导到**私信、评论区扣1、还是直播间/企业微信**？
+
+如果你不补充，下面三个版本我会基于这些假设：**真人出镜口播、先打中小老板、结尾引导私信或评论区扣关键词、账号处于起步期**。以下标注"基于假设"。
+
+---
+
+# 二、三个参考新版提示词
+
+## V1：基础补全版（先让AI知道"我是谁、对谁说、要什么"）
+
+> 我是做人力资源外包的本地小老板，服务本地中小企业，主要产品是社保代缴、薪酬管理、劳务派遣，核心卖点是"合规、省心、有人帮你盯着人力这摊事"。我的目标客户是本地中小企业的老板和HR，他们事情多、怕出错、图省心。我不太会用AI，之前让AI写的文案都很假很官方，不能直接发。请你帮我写5条短视频口播文案，每条讲一个目标客户真实会遇到的场景痛点，用说人话的口吻，不要用"赋能、闭环、抓手"这类词。每条按"开头3秒钩子+正文+结尾引导"的结构输出，可以吗？
+
+**说明**：这一版把"我是谁、卖什么、卖给谁、讨厌什么、要什么结构"都补上了。它不追求爆款，先解决"AI写出来不像人话"这个最痛的问题。
+
+## V2：目标约束版（让输出可控、可直接拍）
+
+> 我是做人力资源外包的本地小老板，服务本地中小企业，产品是社保代缴、薪酬管理、劳务派遣，卖点是合规省心。目标客户是本地中小企业老板和HR，事情多、怕出错、图省心，平时刷短视频也愿意信任说人话的同行。我现在做真人出镜口播短视频获客，账号刚起步，目标是让本地老板看完愿意私信咨询或评论区扣关键词。请你帮我写5条口播脚本，要求：1）每条只打一个具体痛点场景，比如社保漏缴、员工离职纠纷、算薪出错、劳务派遣用工风险；2）开头3秒必须用老板听得懂的大白话抓注意力；3）正文给一个可执行的小建议，顺带体现我们"合规省心"的价值，但不要硬广；4）结尾用一句自然的话引导私信或评论区扣关键词；5）每条口播控制在150-200字，念出来不超过60秒；6）全文不许出现"赋能、闭环、抓手、生态"这类词。可以按这个要求写吗？
+
+**说明**：这一版加了条数、字数、时长、结构、禁用词、引导方式，AI产出基本能直接拿去拍。适合你现在这个阶段。
+
+## V3：深度定制版（带人设、分人群、可迭代）
+
+> 我是做人力资源外包的本地小老板，团队不大，之前靠传统销售，现在想用真人出镜口播短视频获客，账号刚起步。产品是社保代缴、薪酬管理、劳务派遣，卖点是合规省心。目标客户是本地中小企业老板和HR：老板怕合规出事、怕被员工告；HR怕背锅、怕加班算错薪。我的人设是"懂业务、说人话、不吓唬人的同行"，不夸张、不承诺、不制造焦虑。请你帮我做三件事：第一，分别针对"老板"和"HR"各写3条口播脚本，每条只打一个具体场景痛点，开头3秒用大白话抓人，正文给一个可执行建议并自然带出"合规省心"，结尾软性引导私信或评论区扣关键词，每条150-200字、60秒内；第二，每条脚本后面用一句话说明"这条适合哪类客户、为什么这个钩子能抓住他"；第三，告诉我如果这条视频发出去后评论区出现"多少钱""怎么收费"这类问题，我该怎么回复才能既不违规又能引导到私信。全文不许用"赋能、闭环、抓手、生态"这类词，也不许夸大承诺或制造焦虑。可以按这个要求来吗？
+
+**说明**：这一版不只让AI写脚本，还让它解释策略、分人群、给评论区回复话术，形成"内容+运营"的小闭环。适合你拍了几条、开始有评论后使用。
+
+---
+
+# 三、优化逻辑对比表
+
+| 优化点 | 你的原始情况 | V1 | V2 | V3 | 为什么更好 |
+|---|---|---|---|---|---|
+| 背景 | 只有身份和产品 | 补了"说人话"诉求 | 补了账号阶段、口播形式 | 补了人设边界（不吓唬人） | AI知道该保守还是激进、该不该出镜 |
+| 目标 | "获客"笼统 | 先解决"像人话" | 明确"私信/评论区扣关键词" | 加了评论区回复转化 | 目标越具体，AI越不会写空话 |
+| 受众 | 老板和HR混在一起 | 仍混着 | 仍混着但给了痛点例子 | 分"老板/HR"两类 | 两类人痛点不同，分开打更准 |
+| 格式 | 只说"文案" | 钩子+正文+引导 | 加字数、时长、条数 | 加"脚本+策略说明+回复话术" | 可直接拍、可运营 |
+| 限制 | "别假别官方" | 禁用词清单 | 加"不硬广" | 加"不夸大、不制造焦虑" | 合规行业尤其需要边界 |
+| 评估 | 无 | 有结构可自检 | 有字数时长可衡量 | 有"适合谁+为什么"可复盘 | 你能判断哪条值得投流 |
+
+一句话总结：**V1解决"像不像人话"，V2解决"能不能直接拍"，V3解决"拍了之后怎么接住咨询"。**
+
+---
+
+# 四、方法论映射与案例
+
+## 1. B-O-R-E法则（映射到你的业务）
+
+- **Background背景**：你是本地人资外包小老板，传统销售转型，账号起步，真人出镜，客户是怕出错图省心的本地中小老板和HR。
+- **Objectives目标**：产出能直接拍的口播脚本，让本地老板看完愿意私信或评论区扣关键词。
+- **Key Results关键结果**：5条脚本、每条150-200字、60秒内、开头3秒有钩子、结尾有软引导、禁用"赋能闭环"。
+- **Evolve迭代**：发出去后看哪条私信多、哪条评论区问价多，把高互动的痛点场景再拆成系列。
+
+## 2. 角色-目标-限制（RGC）框架
+
+- **角色**：懂业务、说人话、不吓唬人的同行（不是"专家"腔）。
+- **目标**：让本地老板觉得"这人懂我的麻烦"，愿意聊。
+- **限制**：不夸大、不承诺、不制造焦虑、不用行业黑话、每条只打一个痛点。
+
+## 3. STAR提问法
+
+- **情境**：本地中小企业老板事情多，社保/薪酬/用工一出错就麻烦。
+- **任务**：用短视频让他意识到"这事有人管更省心"。
+- **行动**：每条视频讲一个真实场景+一个可执行建议。
+- **结果**：私信咨询、评论区扣关键词、加到企业微信。
+
+你会发现：**你越把"情境"说具体，AI越不会写"假大空"**。AI写得假，往往不是AI笨，是你给的情境太抽象。
+
+---
+
+# 五、下一步迭代建议
+
+你现在最该做的不是一次要10条，而是**先选一个版本，跑3条，看数据再改**。建议路径：
+
+1. 先用 **V2** 生成5条，挑3条自己念一遍，哪条念着别扭就改哪条——这就是"人话校准"。
+2. 发出去后记录：哪条私信多？哪条评论区问价多？哪条完播高？
+3. 把高互动的场景丢回给AI，用 **V3** 拆成系列，并让它给你评论区回复话术。
+
+> 你想让我继续优化哪一个版本？请回复V1、V2或V3，或者补充你的业务信息（出镜形式、先打老板还是HR、引导到私信还是直播间），我会继续帮你迭代成最终可复制版。
+
+---
+
+【提示词是一个不断修改迭代的过程，越懂业务的老板越应该亲自修改迭代提示词，而不要借助他人之手】。b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["老板提示词私教"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","一原始提示词诊断",{"className":"text-slate-200","children":["$","a",null,{"href":"#一原始提示词诊断","className":"hover:text-violet-400 transition-colors","children":"一、原始提示词诊断"}]}],["$","li","二三个参考新版提示词",{"className":"text-slate-200","children":["$","a",null,{"href":"#二三个参考新版提示词","className":"hover:text-violet-400 transition-colors","children":"二、三个参考新版提示词"}]}],["$","li","v1基础补全版先让ai知道我是谁对谁说要什么",{"className":"text-slate-200","children":["$","a",null,{"href":"#v1基础补全版先让ai知道我是谁对谁说要什么","className":"hover:text-violet-400 transition-colors","children":"V1：基础补全版（先让AI知道\"我是谁、对谁说、要什么\"）"}]}],["$","li","v2目标约束版让输出可控可直接拍",{"className":"text-slate-200","children":["$","a",null,{"href":"#v2目标约束版让输出可控可直接拍","className":"hover:text-violet-400 transition-colors","children":"V2：目标约束版（让输出可控、可直接拍）"}]}],["$","li","v3深度定制版带人设分人群可迭代",{"className":"text-slate-200","children":["$","a",null,{"href":"#v3深度定制版带人设分人群可迭代","className":"hover:text-violet-400 transition-colors","children":"V3：深度定制版（带人设、分人群、可迭代）"}]}],["$","li","三优化逻辑对比表",{"className":"text-slate-200","children":["$","a",null,{"href":"#三优化逻辑对比表","className":"hover:text-violet-400 transition-colors","children":"三、优化逻辑对比表"}]}],["$","li","四方法论映射与案例",{"className":"text-slate-200","children":["$","a",null,{"href":"#四方法论映射与案例","className":"hover:text-violet-400 transition-colors","children":"四、方法论映射与案例"}]}],["$","li","1-b-o-r-e法则映射到你的业务",{"className":"text-slate-200","children":["$","a",null,{"href":"#1-b-o-r-e法则映射到你的业务","className":"hover:text-violet-400 transition-colors","children":"1. B-O-R-E法则（映射到你的业务）"}]}],["$","li","2-角色-目标-限制rgc框架",{"className":"text-slate-200","children":["$","a",null,{"href":"#2-角色-目标-限制rgc框架","className":"hover:text-violet-400 transition-colors","children":"2. 角色-目标-限制（RGC）框架"}]}],["$","li","3-star提问法",{"className":"text-slate-200","children":["$","a",null,{"href":"#3-star提问法","className":"hover:text-violet-400 transition-colors","children":"3. STAR提问法"}]}],["$","li","五下一步迭代建议",{"className":"text-slate-200","children":["$","a",null,{"href":"#五下一步迭代建议","className":"hover:text-violet-400 transition-colors","children":"五、下一步迭代建议"}]}]]}]]}],["$","$Lf",null,{"agentKey":"boss-prompt-coach","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["老板提示词私教","是什么"]}],["$","p",null,{"children":["这是一个面向“","企业服务","”行业的","老板提示词私教","应用案例：","我是做人资外包的小老板，之前一直是传统销售那一套，现在想做短视频和直播获客。但我不太会用 AI，每次让 AI 写文案，写出来的东西都很假、很官方，不能直接发。我试过几次就放弃了，觉得 AI 也就那样。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","老板提示词私教是来财有方AI「企业AI落地」分类下的一款 AI 智能体，帮你优化并生成更高效的提示词，让你在和各种 AI（豆包、DeepSeek、ChatGPT 等）对话时，能问得更准、要得更好，大幅提升用 AI 干活的效率。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","社保代缴、薪酬管理、劳务派遣这些人力资源外包服务，主要服务本地中小老板。卖点就是合规省心，让人力那一摊子事有人管。","，主要客群是","本地中小企业的老板和 HR，事情多、怕出错、图省心。他们刷短视频、刷朋友圈，也愿意信任能说人话的同行。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多人用 AI 用不出效果，根本原因是\"不会问\"——提问太笼统、太模糊，导致 AI 答得又空又偏。这个智能体解决的是提示词能力不足的问题，把你的需求翻译成 AI 能精准理解的提问。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我是做人资外包的小老板，之前一直是传统销售那一套，现在想做短视频和直播获客。但我不太会用 AI，每次让 AI 写文案，写","…… 具体输入项包括：","描述你想让 AI 帮你完成的事（越具体越好），或直接把你现在写得不太满意的提示词发给它，它来帮你优化。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","老板提示词私教","输出的是面向","本地中小企业的老板和 HR，事情多、怕出错、图省心。他们刷短视频、刷朋友圈，也愿","的落地方案（见上文“生成结果”），整体能力为：","输出优化后的提示词：结构清晰、要素完整（角色、任务、背景、约束、输出格式），并说明优化了哪里、为什么，让你举一反三、以后自己也会写。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","专业服务/中介服务型","、","企业服务","）类似的经营者都适用：","适合所有正在用 AI 但觉得\"AI 不够聪明\"\"答不到点上\"的老板、创业者、职场人、运营与内容人员，以及想系统提升提示词能力的 AI 使用者。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","老板提示词私教","已内置对应的行业方法轮与输出规范，能结合“","社保代缴、薪酬管理、劳务派遣这些人力资源外包服务，主要服务本地中小老板。卖点就是合规省心，让人力那一摊子事有人管。","、","本地中小企业的老板和 HR，事情多、怕出错、图省心。他们刷短视频、刷朋友圈，也愿意信任能说人话的同行。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让大模型\"帮我写提示词\"——会解释优化的逻辑和要点，让你知其然也知其所以然，长期下来能真正提升你自己的提示词能力，而不是每次都要依赖别人。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/boss-prompt-coach","children":["立即试用","老板提示词私教"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","老板提示词私教"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/boss-prompt-coach","agentName":"老板提示词私教"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T753,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/agent-private-chat-conversion#article","headline":"房产中介 · 私聊成交话术","description":"私聊成交话术真实生成案例：我是一家房产中介门店的店长，做中介这行十年了，现在带着八个经纪人。早几年行情好的时候大家都有肉吃，现在得拼服务拼专业，光","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/agent-private-chat-conversion"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/private-chat-conversion","name":"私聊成交话术"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/agent-private-chat-conversion#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"房产中介 · 私聊成交话术","item":"https://www.laicaiyoufang.com/case-library/agent-private-chat-conversion"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/private-chat-conversion","name":"私聊成交话术","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/private-chat-conversion","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"私聊成交话术","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"本地生活/服务密集型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"房产中介与物业"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"房产中介 · 私聊成交话术"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我是一家房产中介门店的店长，做中介这行十年了，现在带着八个经纪人。早几年行情好的时候大家都有肉吃，现在得拼服务拼专业，光靠磨嘴皮子不好使了。我每天除了盯带看和成交，还得带着团队维护房源、回访客户。这行淘汰快，能留下来的都是熬出来的。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"二手房买卖、租房，也接新房代理。房源要么是业主挂牌，要么是我们主动去采盘。我们会帮业主做定价建议、包装推广，帮买家把关证件、贷款和过户流程。说到底是解决信息差，把交易做得透明、稳当。现在我也在琢磨怎么把服务做成口碑，而不是一锤子买卖。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"主要是周边有置换需求或者想买首套房的家庭，刚需的、改善的都有，很多是拖家带口来看房。他们对预算、学区、交通特别在意，问得也细。老客户转介绍占了不少，成交一个满意的，往往能带来一串。"}]]}]]}]
+10:T323d,好的，店长。基于您提供的信息，我为您定制了一套针对房产中介私聊场景的成交话术。这套话术的核心逻辑是：**用十年店长的专业度和真诚感建立信任，用对家庭需求的深度理解挖掘痛点，用透明流程和兜底承诺消除顾虑，最终推动客户从“再看看”走向“坐下来谈”。**
+
+---
+
+【开场破冰话术】
+
+1. **（亲切型·针对新加好友的置换家庭）**
+“您好，我是XX中介的店长老张，您叫我老张就行。刚看到您通过我，是想了解咱们片区哪方面的房子？是考虑换个大点的，还是给孩子看学区？您先跟我说个大概方向，我脑子里过一遍手头的房源，有合适的直接发您，省得您自己瞎翻。”
+
+2. **（专业型·针对已咨询但未深入的客户）**
+“王哥，上次您说想看XX小区三居，我这两天特意去跑了一趟，跟物业和两户业主都聊了聊。有个情况得先跟您通个气：这个小区目前挂出来的三居，有一户是急售但户型有硬伤，另一户价格咬得死但楼层好。您要是方便，我把这两套的优缺点列个单子发您，您先心里有个数，咱们再约看。”
+
+3. **（价值型·针对犹豫中的客户）**
+“李姐，您上次问的那个贷款资格的事，我帮您找银行的朋友确认了。您这种情况，只要把之前那笔消费贷还清，首付比例能按首套算，里外里能省不少利息。这事儿电话里说不透，您看是今天下午还是明天上午，我给您语音说五分钟，您听完再决定要不要往下走。”
+
+4. **（亲切型·针对老客户转介绍）**
+“张叔介绍来的吧？张叔上个月刚在我这办完过户，他特意跟我说您是他老同事，让我一定上心。您放心，张叔的面子我必须给足。您先跟我说说，您最看重的是小区环境还是离单位近？我按您的硬杠杠来筛，不合适的一律不推给您。”
+
+5. **（专业型·针对观望中的刚需客户）**
+“小刘，我看您朋友圈最近在关注XX板块的成交价。跟您说个实在话，这个月我们门店在这个板块成交了三套，价格比上个月微涨了不到两个点，但成交量起来了。刚需上车的话，现在这个窗口期不算差。您要是首付准备好了，我建议您这周末跟我跑一趟，不买没关系，先感受下市场温度。”
+
+
+【需求挖掘话术】
+
+1. **（挖预算背后的真实承受力）**
+“王哥，您说预算控制在300万以内，我多问一句：这个数是您手头现金加贷款算出来的上限，还是您心里觉得‘花这么多比较舒服’的数？因为有时候差个十万八万，能看的房子就完全不一样了。您给我交个底，我按您真正的承受范围来配，不让您白跑。”
+
+2. **（挖学区需求的优先级）**
+“李姐，您提到要考虑孩子上学，我理解。但学区房也分几种：有的是顶级学区但房子老破小，有的是二流学区但住着舒服。您家孩子还有几年入学？您是打算买了就住，还是先占个学位再租出去？这两个方向选的房子完全不一样，我得先帮您把优先级排清楚。”
+
+3. **（挖换房的时间压力）**
+“张叔，您说想换房，那现在这套是打算先卖后买，还是先买后卖？这里头时间差很关键。先卖后买您手里有现金但可能得租房过渡；先买后卖您住着踏实但首付压力大。您家里人对这个时间差是怎么想的？我帮您把两条路的账都算一遍，您再定。”
+
+4. **（挖对中介的真实顾虑）**
+“刘哥，您之前是不是跟别的中介看过房？我不打听别的，就想问一句：上次看房有没有哪里让您觉得不舒服的？是房源信息不实，还是有人催您催得太紧？您跟我说实话，我这边先改。我这人做十年中介了，最怕客户觉得我不实在。”
+
+5. **（挖决策人意见）**
+“王姐，买房这事儿您和您先生意见统一吗？他那边最在意的是什么？是总价、通勤时间，还是小区品质？您跟我说说他的想法，我配房源的时候把两边需求都兼顾到，省得您看好了回去还得吵架。”
+
+
+【产品介绍话术】
+
+1. **（把“十年经验”翻译成客户利益）**
+“您问我干了多久，我干这行十年了。这十年最大的用处不是认识多少业主，是帮客户避了多少坑。上个月有个客户差点签一套抵押没解押的房子，我一看产调就拦下来了。您找我，我不敢说能帮您省多少钱，但至少能让您不踩我见过的那些雷。”
+
+2. **（把“服务透明”翻译成具体动作）**
+“我们跟别的中介不一样的地方，说白了就一条：所有费用提前给您列清楚，中介费、评估费、税费、贷款服务费，一张纸写明白，签合同前您全看到。不会说谈到一半冒出一笔‘没想到’的钱。您买套房不容易，我不想让您最后因为钱的事跟我红脸。”
+
+3. **（把“房源包装”翻译成业主和买家的双赢）**
+“您这套房子想卖个好价，我理解。我们做的事不只是挂网上：我会让团队给房子拍一组像样的照片，把周边学校、地铁、菜市场的动线画出来，再写一段实在的推荐语。买家一看就知道这房子适合什么人。上个月我们这么推了一套，比业主预期多卖了八万。”
+
+4. **（把“交易流程把控”翻译成安全感）**
+“二手房交易最怕什么？最怕过户当天出岔子。我们门店有个规矩：签约前必须把产调、贷款预审、税费核算三件事全跑完，有一项没落实不签。您可能觉得慢，但慢这一步，后面能快一大截。我经手的单子，还没有一单卡在过户窗口的。”
+
+5. **（把“口碑转介绍”翻译成选择理由）**
+“跟您说个实在的，我们门店现在一半以上的客户是老客户介绍来的。您知道这意味着什么吗？意味着我们不敢坑人，坑一个老客户，背后一串人都没了。所以您跟我打交道，我比您还怕出问题。您信我一次，我争取让您以后也愿意把我推给您朋友。”
+
+
+【异议处理话术】
+
+**第一类：价格问题**
+
+1. **客户说“中介费太贵了，别家收得少”**
+“您说得对，单看费率我们不是最低的。但我跟您算笔账：别家收一个点，可能带您看五套就催您定；我们收这个数，是包了产调、贷款跑腿、过户陪同、交房验收一整条线。您买套房几百万，万一贷款批不下来或者过户卡住，省那几千块中介费不够您操心的。您看这样，我把服务清单列给您，您对比下值不值。”
+
+2. **客户说“我预算紧，能省则省”**
+“理解，买房本来就掏空了钱包。这样，中介费这块我帮您争取分期付，签约付一半，过户完付一半，您手头现金流能松快点。另外税费那块我帮您算仔细，有些能合理省的我绝不让你多花。您先把房子定下来，钱的事咱们一步步来，不让您为难。”
+
+**第二类：需求问题**
+
+1. **客户说“我再看看，不着急”**
+“行，买房是大事，多看几套应该的。我就问一句：您说的‘再看看’，是没看到合适的，还是看到了但觉得价格没到位？如果是没合适的，您把最在意的三个条件告诉我，我按这个筛，省得您大海捞针；如果是价格，我帮您去探探业主底价。您给我个方向，我帮您省时间。”
+
+2. **客户说“最近忙，过段时间再说”**
+“明白，您先忙您的。不过我跟您提个醒：您之前看的那套XX小区的房子，业主昨天跟我说他下个月可能要调价。您要是真有意向，我帮您先去探探口风，把现在的价锁一锁。您不用现在决定，我先帮您占个信息位，等您忙完了咱再细聊。”
+
+**第三类：信任问题**
+
+1. **客户说“你们中介都一个样，我不太信”**
+“您这话我接得住。干这行十年，我见过太多把客户当一锤子买卖的。但我跟您说句实话：我门店八个经纪人，靠的就是周边这几个小区的口碑吃饭。您去问问XX小区的老业主，有多少是我这成交的。我不跟您保证别的，就保证一条：所有承诺写进合同，做不到您来找我，我认。”
+
+2. **客户说“万一贷款批不下来怎么办”**
+“您担心这个太正常了。我们签约前会先做贷款预审，把您的征信、流水、负债情况先过一遍银行的朋友，确认能批多少再往下走。万一预审没过，定金全额退，合同里写清楚。这个流程我们跑了多少单了，不会让您卡在这。”
+
+**第四类：竞品问题**
+
+1. **客户说“XX中介也给我推了类似的房子”**
+“那挺好的，多对比不吃亏。我就说一点：您看房的时候多问一句‘这房子产调拉过没有、抵押解了没有’。有些中介推房源快，但手续上的事往后拖。我们慢一点，是因为签约前必须把这些跑完。您把两边的房源都看看，最后比的不就是谁让您更踏实嘛。”
+
+2. **客户说“别家说能帮我做到更低的首付”**
+“低首付这事得看合不合规。有些操作听着诱人，后面银行查出来抽贷，吃亏的是您。我这边给您的方案可能保守点，但每一条都经得起查。您要是真想低首付，我帮您看看有没有正规的公积金组合贷或者政策房通道，歪路子我不给您走。”
+
+**第五类：决策权问题**
+
+1. **客户说“我得回去跟老公商量”**
+“应该的，买房是全家的事。这样，我把今天看的这两套的优缺点、价格、税费、月供，整理成一段话发您，您直接转给您先生看。他要是有什么疑问，随时让他加我或者您拉个群，我当面解释。您看这样行不行，省得您回去转述漏了信息。”
+
+2. **客户说“家里老人出钱，得他们拍板”**
+“明白，老人出钱肯定得尊重老人意见。您看这样，您把老人最在意的点告诉我——是总价、楼层，还是离医院近不近？我按老人的标准再筛一遍，有合适的我陪您带老人一起看。老人看房跟咱们不一样，他们更看重踏实，我当面给他们讲讲小区的物业和邻居情况，比您回去说十句都管用。”
+
+**第六类：产品认知问题**
+
+1. **客户说“二手房交易太复杂了，我搞不懂”**
+“您不用搞懂所有环节，您就记住一件事：您只管看房和签字，剩下的产调、贷款、过户、交税，我让专人陪着您跑。您把我当成您雇的一个懂行的朋友，有事您问我，我给您翻译成人话。上个月一个客户跟您一样，从头到尾就来门店签了两次字，房子就到手了。”
+
+2. **客户说“我自己再研究研究政策”**
+“您愿意研究是好事，但政策这东西更新快，网上很多是去年的老黄历。这样，我把咱们市最新的限购、贷款、税费政策整理成一页纸发您，您拿着这个去对，比您自己翻半天强。有拿不准的随时问我，我不收咨询费。”
+
+
+【当下成交促单话术】
+
+1. **（针对已看中房源但犹豫的客户）**
+“王哥，您今天看的那套三居，我跟您交个底：业主那边我探过了，他孩子明年要出国，急着用钱，价格上还有得谈。但这种事拖不得，他要是找到别的买家或者不急了，这个口子就没了。您要是觉得房子本身没问题，我今晚就去跟业主磨一轮，争取把价谈到您心理价位附近。您给我个授权，我去试，谈不下来您也不损失什么。”
+
+2. **（针对担心买贵了的客户）**
+“李姐，您怕买贵我特别理解。这样，我跟您签个‘保价协议’：您通过我成交的房子，三个月内同小区同户型如果有更低的成交价，差价我补给您，写进合同里。我敢这么签，是因为我对这个片区的价格心里有数。您看什么时候方便，来门店我把协议给您过一遍，您觉得踏实了咱再往下走。”
+
+
+【当下跟进维护话术】
+
+**（针对暂时未成交、需要保持联系的客户）**
+
+“刘哥，今天聊完您说再考虑考虑，没问题。我不催您，就跟您说一声：您之前关注的XX小区，我这周又新上了两套，其中一套的价格比您之前看的低了不少，业主也是诚心卖。我把链接发您，您有空瞄一眼，没兴趣就划过去，不用回我。另外我每周五会在朋友圈发一期‘本周成交和降价房源汇总’，您刷到了可以看看，有对眼的随时喊我。买房这事，您不急我不催，但信息我帮您盯着。”b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["私聊成交话术"," · 生成结果"]}]]}],false,["$","$Lf",null,{"agentKey":"private-chat-conversion","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["私聊成交话术","是什么"]}],["$","p",null,{"children":["这是一个面向“","房产中介与物业","”行业的","私聊成交话术","应用案例：","我是一家房产中介门店的店长，做中介这行十年了，现在带着八个经纪人。早几年行情好的时候大家都有肉吃，现在得拼服务拼专业，光靠磨嘴皮子不好使了。我每天除了盯带看和成交，还得带着团队维护房源、回访客户。这行淘汰快，能留下来的都是熬出来的。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","私聊成交话术是来财有方AI「成交转化」分类下的一款 AI 智能体，基于画像 + 客户所处阶段，生成一对一私聊的销转话术，帮你在微信等私域场景里把潜在客户聊成成交客户。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","二手房买卖、租房，也接新房代理。房源要么是业主挂牌，要么是我们主动去采盘。我们会帮业主做定价建议、包装推广，帮买家把关证件、贷款和过户流程。说到底是解决信息差，把交易做得透明、稳当。现在我也在琢磨怎么把服务做成口碑，而不是一锤子买卖。","，主要客群是","主要是周边有置换需求或者想买首套房的家庭，刚需的、改善的都有，很多是拖家带口来看房。他们对预算、学区、交通特别在意，问得也细。老客户转介绍占了不少，成交一个满意的，往往能带来一串。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","私聊成交难在\"分寸感\"——太急被反感、太慢被忘记，很多人不会根据客户阶段和信号推进。这个智能体解决的是私聊节奏与话术问题，针对不同客情给出对症的表达。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我是一家房产中介门店的店长，做中介这行十年了，现在带着八个经纪人。早几年行情好的时候大家都有肉吃，现在得拼服务拼专业，光","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁）+ 客户当前所处阶段（刚加好友、已了解、有异议、临近成交等）与客户的关键信息，可选补充最近一次聊天记录要点。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","私聊成交话术","输出的是面向","主要是周边有置换需求或者想买首套房的家庭，刚需的、改善的都有，很多是拖家带口来看","的落地方案（见上文“生成结果”），整体能力为：","输出针对性 1V1 私聊话术：结合客户阶段给出下一步该说什么、怎么推进、怎么回应常见异议，帮助你在不惹反感的前提下推动成交。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","本地生活/服务密集型","、","房产中介与物业","）类似的经营者都适用：","适合高度依赖私聊成交的销售、微商、保险/理财/房产/教育/美业/知识付费等行业从业者，以及做私域转化、一对一跟进的创业者。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","私聊成交话术","已内置对应的行业方法轮与输出规范，能结合“","二手房买卖、租房，也接新房代理。房源要么是业主挂牌，要么是我们主动去采盘。我们会帮业主做定价建议、包装推广，帮买家把关证件、贷款和过户流程。说到底是解决信息差，把交易做得透明、稳当。现在我也在琢磨怎么把服务做成口碑，而不是一锤子买卖。","、","主要是周边有置换需求或者想买首套房的家庭，刚需的、改善的都有，很多是拖家带口来看房。他们对预算、学区、交通特别在意，问得也细。老客户转介绍占了不少，成交一个满意的，往往能带来一串。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让大模型\"帮我回客户一句\"——会根据客户所处阶段和画像判断推进节奏，产出有分寸、有下一步的私聊话术，避免过度推销吓跑客户，也能在合适时机推进成交。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/private-chat-conversion","children":["立即试用","私聊成交话术"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","私聊成交话术"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/private-chat-conversion","agentName":"私聊成交话术"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

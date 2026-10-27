@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><link rel="stylesheet" href="/laicaiyoufang-ui-preview/ui-refinements.css"/><meta name="robots" content="noindex,nofollow"/>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>来财有方 · 小程序页面排版设计稿</title>
+<style>
+  :root {
+    --bg: #020617;           /* 页面底 */
+    --screen: #0f172a;       /* 手机屏底 */
+    --card: #1e293b;         /* 卡片 */
+    --line: #334155;         /* 边框 */
+    --muted: #94a3b8;        /* 次级文字 */
+    --dim: #64748b;          /* 更淡文字 */
+    --txt: #f1f5f9;          /* 主文字 */
+    --brand: linear-gradient(135deg, #3b82f6, #8b5cf6, #ec4899); /* 品牌渐变 */
+    --cyan: #22d3ee;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--txt); font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; padding: 32px; }
+  h1 { font-size: 20px; font-weight: 700; margin-bottom: 4px; }
+  .hint { color: var(--muted); font-size: 13px; margin-bottom: 28px; }
+
+  .stage { display: flex; gap: 28px; overflow-x: auto; padding-bottom: 16px; }
+  .col { flex: 0 0 auto; }
+  .col-title { text-align: center; color: var(--dim); font-size: 13px; margin-bottom: 12px; }
+
+  .phone {
+    width: 375px; height: 780px; border-radius: 40px;
+    border: 1px solid #1e293b; background: var(--screen);
+    overflow: hidden; display: flex; flex-direction: column;
+    box-shadow: 0 20px 60px rgba(0,0,0,.5);
+  }
+  .statusbar { height: 40px; display: flex; align-items: center; justify-content: space-between; padding: 0 20px; color: var(--muted); font-size: 12px; flex: 0 0 auto; }
+  .tabbar { height: 60px; display: flex; border-top: 1px solid var(--line); flex: 0 0 auto; background: #0b1220; }
+  .tab { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; font-size: 11px; color: var(--dim); }
+  .tab.on { color: var(--cyan); }
+  .tab .dot { width: 20px; height: 20px; border-radius: 6px; background: #334155; }
+  .tab.on .dot { background: var(--brand); }
+
+  .screen { flex: 1; overflow-y: auto; display: flex; flex-direction: column; padding: 14px 16px; gap: 14px; }
+  .screen::-webkit-scrollbar { display: none; }
+
+  .blk { border: 1.5px dashed #475569; border-radius: 14px; padding: 12px; position: relative; }
+  .blk .tag { position: absolute; top: -9px; left: 10px; background: #0f172a; padding: 0 6px; font-size: 10px; color: var(--dim); letter-spacing: .5px; }
+
+  .row { display: flex; align-items: center; gap: 10px; }
+  .avatar { width: 38px; height: 38px; border-radius: 12px; background: var(--brand); flex: 0 0 auto; }
+  .pill { border-radius: 999px; padding: 2px 8px; font-size: 10px; }
+
+  .title-lg { font-size: 16px; font-weight: 700; }
+  .title-sm { font-size: 14px; font-weight: 600; }
+  .muted { color: var(--muted); font-size: 12px; }
+  .dim { color: var(--dim); font-size: 11px; }
+
+  .search { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; color: var(--dim); font-size: 13px; }
+  .input { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; color: var(--muted); font-size: 13px; }
+  .label { font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+  .field { margin-bottom: 10px; }
+  .btn { border-radius: 12px; background: var(--brand); color: #fff; text-align: center; padding: 12px; font-size: 14px; font-weight: 600; }
+
+  .grid4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+  .grid4 .cell { display: flex; flex-direction: column; align-items: center; gap: 6px; }
+  .grid4 .ic { width: 44px; height: 44px; border-radius: 14px; background: var(--card); border: 1px solid var(--line); }
+  .grid4 .lbl { font-size: 11px; color: var(--muted); }
+
+  .hero { background: var(--card); border-radius: 16px; padding: 14px; border: 1.5px solid rgba(59,130,246,.35); }
+  .brand-txt { font-size: 17px; font-weight: 800; background: var(--brand); -webkit-background-clip: text; background-clip: text; color: transparent; }
+
+  .cat { display: flex; gap: 8px; overflow-x: auto; }
+  .cat .c { flex: 0 0 auto; padding: 7px 14px; border-radius: 999px; font-size: 12px; background: var(--card); color: var(--muted); border: 1px solid var(--line); }
+  .cat .c.on { background: var(--brand); color: #fff; border-color: transparent; }
+
+  .agent-list { display: flex; flex-direction: column; gap: 10px; }
+  .agent-card { display: flex; align-items: center; gap: 12px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 12px; }
+  .agent-ic { width: 42px; height: 42px; border-radius: 12px; background: var(--brand); flex: 0 0 auto; opacity: .85; }
+
+  .chat { display: flex; flex-direction: column; gap: 10px; }
+  .bubble { max-width: 86%; padding: 10px 12px; border-radius: 14px; font-size: 13px; line-height: 1.6; }
+  .bubble.ai { background: var(--card); border: 1px solid var(--line); align-self: flex-start; border-top-left-radius: 4px; }
+  .bubble.me { background: var(--brand); align-self: flex-end; border-top-right-radius: 4px; color: #fff; }
+  .typing { color: var(--dim); font-size: 12px; }
+
+  .output { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 12px; font-size: 13px; line-height: 1.7; }
+  .actionbar { display: flex; gap: 16px; color: var(--muted); font-size: 12px; }
+
+  .menu { display: flex; flex-direction: column; }
+  .menu .mi { display: flex; align-items: center; justify-content: space-between; padding: 14px 4px; border-bottom: 1px solid var(--line); font-size: 14px; }
+  .menu .mi:last-child { border-bottom: none; }
+  .menu .mi .r { color: var(--dim); display: flex; align-items: center; gap: 4px; }
+
+  .credit-card { border-radius: 16px; padding: 16px; background: linear-gradient(160deg, #1e293b, #0f172a); border: 1px solid var(--line); }
+  .num { font-size: 30px; font-weight: 800; }
+</style>
+</head>
+<body>
+  <h1>来财有方 · 小程序页面排版设计稿</h1>
+  <p class="hint">手机尺寸 mockup，共 5 屏：首页 / 智能体中心 / 智能体对话（Laicai）/ 智能体详情（表单式）/ 我的。虚线框为「区块」，左上角小字为区块名，确认后按此开发。</p>
+
+  <div class="stage">
+
+    <!-- ============ 屏 1：首页 ============ -->
+    <div class="col">
+      <div class="col-title">① 首页</div>
+      <div class="phone">
+        <div class="statusbar"><span>9:41</span><span>••• 5G ▮▮▮</span></div>
+        <div class="screen">
+          <div style="display:flex;justify-content:space-between;align-items:center;">
+            <span class="brand-txt">来财有方AI</span>
+          </div>
+
+          <div class="hero">
+            <div class="title-lg">一句话，AI 帮你做生意</div>
+            <div class="muted" style="margin-top:6px;">定位 · 获客 · 成交 · AI 品牌曝光</div>
+            <div class="search" style="margin-top:10px;color:#64748b;">说说你的生意，如：武汉开推拿馆…</div>
+            <div class="btn" style="margin-top:10px;">开始对话</div>
+          </div>
+
+          <div class="blk">
+            <span class="tag">快捷入口 4 宫格</span>
+            <div class="grid4">
+              <div class="cell"><div class="ic"></div><span class="lbl">个人画像</span></div>
+              <div class="cell"><div class="ic"></div><span class="lbl">知识库</span></div>
+              <div class="cell"><div class="ic"></div><span class="lbl">积分信息</span></div>
+              <div class="cell"><div class="ic"></div><span class="lbl">邀请好友</span></div>
+            </div>
+          </div>
+
+          <div class="blk">
+            <span class="tag">热门智能体 · 横向滚动</span>
+            <div class="row" style="margin-top:4px;">
+              <div style="flex:1;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;">
+                <div class="title-sm">强人设朋友圈</div><div class="dim" style="margin-top:4px;">复制销冠的朋友圈打法</div>
+              </div>
+              <div style="flex:1;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;">
+                <div class="title-sm">GEO 好文章</div><div class="dim" style="margin-top:4px;">让 AI 主动推荐你</div>
+              </div>
+              <div style="flex:1;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;">
+                <div class="title-sm">爆款选题</div><div class="dim" style="margin-top:4px;">18 个引流选题</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="blk">
+            <span class="tag">全部分类入口（可折叠）</span>
+            <div class="muted" style="margin-top:4px;">按业务环节分 11 类，点「查看全部智能体」去智能体中心</div>
+          </div>
+        </div>
+        <div class="tabbar">
+          <div class="tab on"><div class="dot"></div>首页</div>
+          <div class="tab"><div class="dot"></div>智能体</div>
+          <div class="tab"><div class="dot"></div>我的</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ 屏 2：智能体中心 ============ -->
+    <div class="col">
+      <div class="col-title">② 智能体中心</div>
+      <div class="phone">
+        <div class="statusbar"><span>9:41</span><span>••• 5G ▮▮▮</span></div>
+        <div class="screen">
+          <div class="title-lg" style="padding-top:4px;">智能体中心</div>
+
+          <div class="blk">
+            <span class="tag">Laicai 导航对话入口</span>
+            <div class="search" style="margin-top:4px;">对 Laicai 说：帮我找获客的智能体…</div>
+          </div>
+
+          <div class="blk">
+            <span class="tag">分类横向 Tab</span>
+            <div class="cat" style="margin-top:4px;">
+              <span class="c on">全部</span><span class="c">强人设</span><span class="c">信任流量</span><span class="c">GEO</span><span class="c">销售成交</span><span class="c">FDE</span>
+            </div>
+          </div>
+
+          <div class="blk">
+            <span class="tag">智能体卡片列表</span>
+            <div class="agent-list" style="margin-top:4px;">
+              <div class="agent-card"><div class="agent-ic"></div><div style="flex:1"><div class="title-sm">强人设朋友圈</div><div class="dim" style="margin-top:3px;">生成吸引客户自动成交的朋友圈</div></div><span class="dim">›</span></div>
+              <div class="agent-card"><div class="agent-ic"></div><div style="flex:1"><div class="title-sm">强人设爆款选题</div><div class="dim" style="margin-top:3px;">定制 18 个爆款引流选题</div></div><span class="dim">›</span></div>
+              <div class="agent-card"><div class="agent-ic"></div><div style="flex:1"><div class="title-sm">GEO 真正好文章</div><div class="dim" style="margin-top:3px;">生成 AI 引用的好内容</div></div><span class="dim">›</span></div>
+              <div class="agent-card"><div class="agent-ic"></div><div style="flex:1"><div class="title-sm">销转系统话术</div><div class="dim" style="margin-top:3px;">全流程各环节销转话术</div></div><span class="dim">›</span></div>
+            </div>
+          </div>
+        </div>
+        <div class="tabbar">
+          <div class="tab"><div class="dot"></div>首页</div>
+          <div class="tab on"><div class="dot"></div>智能体</div>
+          <div class="tab"><div class="dot"></div>我的</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ 屏 3：智能体对话（Laicai） ============ -->
+    <div class="col">
+      <div class="col-title">③ 智能体对话页（Laicai）</div>
+      <div class="phone">
+        <div class="statusbar"><span>9:41</span><span>••• 5G ▮▮▮</span></div>
+        <div class="screen" style="padding-top:8px;">
+          <div style="padding:8px 0;display:flex;align-items:center;gap:8px;">
+            <span class="dim">‹ 返回</span><span class="title-sm">Laicai · AI 助手</span>
+          </div>
+
+          <div class="blk">
+            <span class="tag">对话区 · 流式打字</span>
+            <div class="chat" style="margin-top:4px;">
+              <div class="bubble ai">Hi，我是 Laicai AI，帮老板和一人公司用 AI 做生意。先说说你是做什么的？<div class="typing" style="margin-top:4px;">正在输入…</div></div>
+              <div class="bubble me">我开推拿馆，想在同城获客</div>
+              <div class="bubble ai">明白。你可以先用「本地实体商家获客」批量出同城口播文案，再用「实体场景口播视频」把店内实景变成短视频…</div>
+            </div>
+          </div>
+        </div>
+        <div style="padding:10px 14px;border-top:1px solid var(--line);display:flex;gap:8px;flex:0 0 auto;">
+          <div class="input" style="flex:1;">输入你的问题…</div>
+          <div class="btn" style="padding:10px 16px;">发送</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ 屏 4：智能体详情（表单式） ============ -->
+    <div class="col">
+      <div class="col-title">④ 智能体详情页（表单式 · 以「强人设朋友圈」为例）</div>
+      <div class="phone">
+        <div class="statusbar"><span>9:41</span><span>••• 5G ▮▮▮</span></div>
+        <div class="screen" style="padding-top:8px;">
+          <div style="padding:8px 0;display:flex;align-items:center;gap:8px;">
+            <span class="dim">‹ 返回</span><span class="title-sm">强人设朋友圈</span>
+          </div>
+
+          <div class="blk">
+            <span class="tag">输入表单（通用表单引擎）</span>
+            <div style="margin-top:6px;">
+              <div class="field"><div class="label">我是谁 / 人设身份</div><div class="input">如：专注私域运营的实战教练</div></div>
+              <div class="field"><div class="label">我卖什么 / 核心产品</div><div class="input">如：私域代运营、陪跑课程</div></div>
+              <div class="field"><div class="label">我卖给谁 / 目标客户</div><div class="input">如：想搭私域的实体店主</div></div>
+              <div class="field"><div class="label" style="color:var(--dim);">3 个元标签（可选）</div><div class="input">如：北大毕业 · 最懂流量 · 拼命冲</div></div>
+            </div>
+            <div class="btn" style="margin-top:4px;">生成朋友圈</div>
+          </div>
+
+          <div class="blk">
+            <span class="tag">输出区 · 流式结果</span>
+            <div class="output" style="margin-top:4px;">
+              这里是生成的文案结果，流式打字机式输出…
+              <div class="typing" style="margin-top:4px;">▍</div>
+            </div>
+            <div class="actionbar" style="margin-top:10px;">
+              <span>复制全部</span><span>分享好友</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ 屏 5：我的 ============ -->
+    <div class="col">
+      <div class="col-title">⑤ 我的（积分无充值）</div>
+      <div class="phone">
+        <div class="statusbar"><span>9:41</span><span>••• 5G ▮▮▮</span></div>
+        <div class="screen">
+          <div style="display:flex;align-items:center;gap:12px;">
+            <div class="avatar"></div>
+            <div style="flex:1">
+              <div class="row"><span class="title-sm">萌社长</span><span class="pill" style="background:rgba(34,211,238,.15);color:var(--cyan);">高级会员</span></div>
+              <div class="dim" style="margin-top:3px;">138****429</div>
+            </div>
+          </div>
+
+          <div class="credit-card">
+            <div class="dim">可用积分</div>
+            <div class="num">1,280</div>
+            <div class="dim" style="margin-top:6px;">≈ ¥12.80 · 约可生成 256 次</div>
+            <div class="row" style="margin-top:12px;">
+              <div class="btn" style="flex:1;background:var(--card);border:1px solid var(--line);color:var(--txt);">积分明细</div>
+            </div>
+          </div>
+
+          <div class="blk">
+            <span class="tag">功能入口列表</span>
+            <div class="menu" style="margin-top:4px;">
+              <div class="mi"><span>个人画像</span><span class="r">›</span></div>
+              <div class="mi"><span>我的知识库</span><span class="r">›</span></div>
+              <div class="mi"><span>数智资产</span><span class="r">›</span></div>
+              <div class="mi"><span>邀请好友</span><span class="r">›</span></div>
+            </div>
+          </div>
+
+          <div class="btn" style="background:var(--card);border:1px solid var(--line);color:#f87171;">退出登录</div>
+        </div>
+        <div class="tabbar">
+          <div class="tab"><div class="dot"></div>首页</div>
+          <div class="tab"><div class="dot"></div>智能体</div>
+          <div class="tab on"><div class="dot"></div>我的</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>

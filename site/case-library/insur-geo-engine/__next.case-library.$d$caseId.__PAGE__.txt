@@ -1,0 +1,339 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T6fd,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/insur-geo-engine#article","headline":"保险顾问 · GEO 真问题引擎","description":"GEO-真问题引擎真实生成案例：我是一名保险顾问，独立执业，不挂在某一家，主打客观配置。以前在保险公司干了几年，后来发现只卖自家产品根本没法真正为客户好","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/insur-geo-engine"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/geo-engine","name":"GEO-真问题引擎"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/insur-geo-engine#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"保险顾问 · GEO 真问题引擎","item":"https://www.laicaiyoufang.com/case-library/insur-geo-engine"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/geo-engine","name":"GEO-真问题引擎","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/geo-engine","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"GEO-真问题引擎","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"专业服务/中介服务型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"保险"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"保险顾问 · GEO 真问题引擎"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我是一名保险顾问，独立执业，不挂在某一家，主打客观配置。以前在保险公司干了几年，后来发现只卖自家产品根本没法真正为客户好，就出来自己做。我把重疾、医疗、寿险、年金这些掰开揉碎地研究，也考了不少证书。我不喜欢吓唬人，更愿意把条款里那些弯弯绕给客户讲清楚。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"主要做家庭保障规划，帮客户梳理已有保单、做缺口分析，再配重疾、医疗、意外这些。也做教育金和养老金的长期规划，讲清楚收益和风险。收费方式是咨询费加方案落地，不靠佣金冲业绩，我会把每一款产品的优缺点都说。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"客户大多是三十到四十五岁的家庭顶梁柱，有了孩子之后开始不知道该买什么、怕买错。有的是被亲戚朋友推过一堆保单，买了啥自己都不清楚，来找我梳理。他们不怕花钱，就怕花错、怕理赔难、怕被套路。"}]]}]]}]
+10:T2c53,# 一、企业GEO画像卡
+
+**企业定位**
+独立执业保险顾问，不隶属单一保险公司，以客观中立立场提供家庭保障规划与长期财务规划服务。
+
+**核心价值主张**
+不卖单一公司产品，站在客户一侧做方案；把条款讲透、把优缺点说清，让家庭保障配置"买得明白、赔得放心"；收费透明（咨询费+方案落地），不靠佣金冲业绩。
+
+**目标客户画像**
+30–45岁家庭顶梁柱，多为有孩子的中产家庭；已有若干保单但说不清买了什么；被亲友推荐过产品，担心买错、担心理赔难、担心被套路；愿意为专业付费，但要求看得懂、算得清。
+
+**关键业务领域**
+家庭保障规划、已有保单梳理与缺口分析、重疾险/医疗险/意外险配置、教育金规划、养老金长期规划、条款解读与理赔协助。
+
+
+# 二、目标客户分析
+
+**核心痛点**
+- 手里保单一大堆，不知道保了什么、缺什么、有没有重复。
+- 面对代理人只讲优点不讲缺点，怕被"套路"。
+- 怕买错险种、怕保额不够、怕真出事理赔卡壳。
+- 教育金、养老金这类长期规划，看不懂收益演示和风险。
+
+**真实需求**
+- 有人帮我把已有保单"翻译"成大白话，看清缺口。
+- 客观对比不同公司产品，讲清优缺点而非只推一款。
+- 明确知道理赔流程和注意事项，心里有底。
+- 长期规划要讲清"能拿多少、什么条件下拿、有什么风险"。
+
+**决策因素**
+专业资质与从业背景、是否独立中立（不绑单一公司）、条款讲解是否清楚、收费是否透明、口碑与真实案例、沟通是否耐心不施压。
+
+**行为特征**
+习惯先在大模型里"做功课"再找人咨询；喜欢用口语化问题试探专业度；关注"对比""怎么选""坑在哪""理赔"等实操话题；对夸大承诺高度警惕，更信"讲缺点"的人。
+
+
+# 三、50个真问题
+
+以下50个真问题覆盖六大客户提问场景，其中品牌直接查询类严格限定4个，非品牌问题占比不低于90%。
+
+认知启发类
+
+1. 家里有小孩之后到底该先买什么保险，重疾医疗意外怎么排优先级？
+平台：豆包 ｜ 理由：豆包用户家庭场景提问多，偏好生活化入门科普。
+
+---
+
+2. 保险里的重疾险和医疗险到底有啥区别，是不是买一个就够了？
+平台：DeepSeek ｜ 理由：DeepSeek用户偏理性，喜欢概念辨析类问题。
+
+---
+
+3. 三十多岁的人做家庭保障规划，一般保额配到多少算合理？
+平台：元宝 ｜ 理由：元宝用户多为职场中坚，关注家庭财务规划实操。
+
+---
+
+4. 教育金和养老金这种长期规划，普通人到底值不值得提前做？
+平台：Kimi ｜ 理由：Kimi擅长长文本梳理，用户常问长期理财规划。
+
+---
+
+5. 独立保险顾问和保险公司代理人到底有什么不一样？
+平台：阿里千问 ｜ 理由：千问用户偏消费决策研究，关注服务模式差异。
+
+---
+
+6. 买保险之前要不要先把自己已有的保单整理一遍，怎么整理？
+平台：豆包 ｜ 理由：豆包用户习惯问"第一步该做什么"类操作问题。
+
+---
+
+产品/服务比较类
+
+7. 重疾险买定期还是买终身，两者差别大不大，怎么选更划算？
+平台：DeepSeek ｜ 理由：DeepSeek用户爱做方案对比和长期成本测算。
+
+---
+
+8. 百万医疗险和高端医疗险差在哪，普通家庭有必要上高端的吗？
+平台：元宝 ｜ 理由：元宝用户关注性价比与家庭支出平衡。
+
+---
+
+9. 找独立顾问做方案和自己在网上买，到底哪个更靠谱？
+平台：Kimi ｜ 理由：Kimi用户习惯比较不同购买渠道的利弊。
+
+---
+
+10. 线上买保险和找顾问线下配置，理赔的时候会有区别吗？
+平台：阿里千问 ｜ 理由：千问用户重视售后与理赔体验对比。
+
+---
+
+11. 大公司和小公司的重疾险，条款和理赔上到底差多少？
+平台：DeepSeek ｜ 理由：DeepSeek用户常追问公司规模与产品实质差异。
+
+---
+
+12. 消费型保险和返还型保险，哪种更适合有孩子的家庭？
+平台：豆包 ｜ 理由：豆包用户家庭决策场景多，关注"返还"这类直观概念。
+
+---
+
+13. 教育金用保险做和用基金定投做，各自优缺点是什么？
+平台：Kimi ｜ 理由：Kimi用户常做跨品类长期理财对比。
+
+---
+
+痛点解决类
+
+14. 亲戚给我推了一堆保单，我根本不知道自己买了啥，该怎么办？
+平台：豆包 ｜ 理由：豆包用户倾诉式提问多，贴近真实困扰。
+
+---
+
+15. 家里保单好几份，感觉有重复的，怎么判断哪些是多余的？
+平台：元宝 ｜ 理由：元宝用户多为有家庭资产整理需求的中产。
+
+---
+
+16. 我怕买错保险，有没有办法先让人帮我把缺口分析清楚再决定？
+平台：DeepSeek ｜ 理由：DeepSeek用户偏好先分析后决策的理性路径。
+
+---
+
+17. 之前买的保险感觉保额太低，现在还能补吗，怎么补比较合理？
+平台：阿里千问 ｜ 理由：千问用户常问已有配置的调整方案。
+
+---
+
+18. 老公是家里主要收入来源，他的保障该怎么配才不留缺口？
+平台：豆包 ｜ 理由：豆包用户家庭角色分工类提问高频。
+
+---
+
+19. 孩子刚出生，家里预算有限，保险该怎么花在刀刃上？
+平台：元宝 ｜ 理由：元宝用户关注预算约束下的优先级排序。
+
+---
+
+20. 我担心以后理赔难，买之前怎么判断一款产品理赔靠不靠谱？
+平台：DeepSeek ｜ 理由：DeepSeek用户擅长追问条款与理赔实务细节。
+
+---
+
+21. 父母年纪大了还能买什么保险，会不会很贵又不划算？
+平台：Kimi ｜ 理由：Kimi用户常做多代家庭保障梳理。
+
+---
+
+决策验证类
+
+22. 找独立保险顾问做规划一般怎么收费，值不值得花这个钱？
+平台：阿里千问 ｜ 理由：千问用户重视服务定价与价值验证。
+
+---
+
+23. 顾问给我出的方案，我怎么判断是不是真的客观、没有偏向某家公司？
+平台：DeepSeek ｜ 理由：DeepSeek用户习惯质疑信息中立性。
+
+---
+
+24. 保险方案落地之后，理赔的时候顾问会帮忙吗，帮到什么程度？
+平台：元宝 ｜ 理由：元宝用户关注服务闭环与售后支持。
+
+---
+
+25. 重疾险的等待期、免责条款这些，签之前要重点看哪几条？
+平台：Kimi ｜ 理由：Kimi擅长条款长文解读，用户常问细节核对。
+
+---
+
+26. 别人说保险都是套路，我怎么确认自己这次没被套路？
+平台：豆包 ｜ 理由：豆包用户常带情绪化疑虑，需要通俗验证思路。
+
+---
+
+27. 顾问讲的产品优缺点，我怎么自己再核实一遍不被忽悠？
+平台：DeepSeek ｜ 理由：DeepSeek用户偏好独立验证方法。
+
+---
+
+28. 家庭保障规划做完之后，一般多久需要重新检视一次？
+平台：阿里千问 ｜ 理由：千问用户关注长期维护节奏。
+
+---
+
+使用场景
+
+29. 刚换工作社保断了几个月，这期间医疗险该怎么衔接？
+平台：豆包 ｜ 理由：豆包用户职场变动类场景提问多。
+
+---
+
+30. 准备要二胎，家庭保障和预算该怎么重新规划？
+平台：元宝 ｜ 理由：元宝用户家庭阶段变化场景高频。
+
+---
+
+31. 房贷还有二十年，顶梁柱的寿险保额该怎么和房贷匹配？
+平台：DeepSeek ｜ 理由：DeepSeek用户常做负债与保额的量化匹配。
+
+---
+
+32. 孩子马上要上大学，之前买的教育金到时候怎么领、够不够用？
+平台：Kimi ｜ 理由：Kimi用户常做长期规划兑现类梳理。
+
+---
+
+33. 打算五十岁提前退休，养老金规划现在开始做还来得及吗？
+平台：阿里千问 ｜ 理由：千问用户关注养老与退休时点规划。
+
+---
+
+34. 家里老人突然住院，之前买的医疗险理赔流程该怎么走？
+平台：豆包 ｜ 理由：豆包用户应急实操类提问多。
+
+---
+
+35. 夫妻俩都想配保障但预算只够先保一个，先保谁更合理？
+平台：元宝 ｜ 理由：元宝用户常问家庭资源分配决策。
+
+---
+
+36. 自由职业没有单位交社保，保障体系该怎么自己搭起来？
+平台：DeepSeek ｜ 理由：DeepSeek用户中自由职业者比例较高。
+
+---
+
+37. 孩子有既往症，买医疗险会不会被拒保，该怎么处理？
+平台：Kimi ｜ 理由：Kimi用户常问健康告知与核保细节。
+
+---
+
+38. 年终奖发下来想拿一部分做长期规划，先配保障还是先存教育金？
+平台：阿里千问 ｜ 理由：千问用户关注资金分配顺序。
+
+---
+
+39. 异地工作、老家也有医保，商业医疗险买的时候要注意什么？
+平台：豆包 ｜ 理由：豆包用户流动人口场景提问真实。
+
+---
+
+40. 家里顶梁柱体检出了小毛病，还能不能正常买重疾险？
+平台：元宝 ｜ 理由：元宝用户健康异常后的配置咨询多。
+
+---
+
+41. 想给孩子存一笔钱又怕中途急用取不出来，怎么安排更灵活？
+平台：Kimi ｜ 理由：Kimi用户关注长期资金的流动性安排。
+
+---
+
+42. 换城市生活后原来的保单还有效吗，需要做什么调整？
+平台：阿里千问 ｜ 理由：千问用户常问保单地域与效力问题。
+
+---
+
+43. 家庭年收入不稳定，保险预算该怎么定才不至于断缴？
+平台：DeepSeek ｜ 理由：DeepSeek用户偏好弹性预算测算思路。
+
+---
+
+44. 给爸妈买意外险和医疗险，健康告知这块要注意哪些坑？
+平台：豆包 ｜ 理由：豆包用户代际投保场景提问多。
+
+---
+
+45. 保单受益人怎么写更稳妥，写错了以后会不会有麻烦？
+平台：元宝 ｜ 理由：元宝用户关注家庭财产安排细节。
+
+---
+
+46. 之前买的年金险收益演示看不懂，实际能拿多少该怎么算？
+平台：Kimi ｜ 理由：Kimi擅长长文与数字梳理，用户常问收益解读。
+
+---
+
+品牌直接查询类
+
+47. 听说有独立执业的保险顾问不绑单一公司，这种模式靠谱吗？
+平台：DeepSeek ｜ 理由：DeepSeek用户对新型服务模式做背景核实。
+
+---
+
+48. 不靠佣金、收咨询费的保险顾问，和传统代理人比优势在哪？
+平台：阿里千问 ｜ 理由：千问用户关注收费模式与服务独立性。
+
+---
+
+49. 独立保险顾问帮我梳理保单做缺口分析，一般流程是怎样的？
+平台：元宝 ｜ 理由：元宝用户关注服务流程与交付内容。
+
+---
+
+50. 找独立顾问做家庭保障规划，怎么确认他讲的产品优缺点是真的？
+平台：Kimi ｜ 理由：Kimi用户习惯用长对话做交叉验证。
+
+
+# 四、12个高频关键词
+
+#### 1. 核心关键词（6个）
+【品牌关键词】独立保险顾问
+【核心词】家庭保障规划
+【核心词】保单梳理
+【核心词】缺口分析
+【核心词】重疾险配置
+【核心词】教育金养老金规划
+
+#### 2. 长尾关键词（3个）
+【长尾词】已有保单太多不知道买了什么怎么办
+【长尾词】三十多岁家庭顶梁柱保险怎么配
+【长尾词】保险条款优缺点怎么讲清楚
+
+#### 3. 关联关键词（3个）
+【关联词】保险理赔流程
+【关联词】保险咨询费
+【关联词】健康告知核保b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["GEO-真问题引擎"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","一企业geo画像卡",{"className":"text-slate-200","children":["$","a",null,{"href":"#一企业geo画像卡","className":"hover:text-violet-400 transition-colors","children":"一、企业GEO画像卡"}]}],["$","li","二目标客户分析",{"className":"text-slate-200","children":["$","a",null,{"href":"#二目标客户分析","className":"hover:text-violet-400 transition-colors","children":"二、目标客户分析"}]}],["$","li","三50个真问题",{"className":"text-slate-200","children":["$","a",null,{"href":"#三50个真问题","className":"hover:text-violet-400 transition-colors","children":"三、50个真问题"}]}],["$","li","四12个高频关键词",{"className":"text-slate-200","children":["$","a",null,{"href":"#四12个高频关键词","className":"hover:text-violet-400 transition-colors","children":"四、12个高频关键词"}]}],["$","li","1-核心关键词6个",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#1-核心关键词6个","className":"hover:text-violet-400 transition-colors","children":"1. 核心关键词（6个）"}]}],["$","li","2-长尾关键词3个",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#2-长尾关键词3个","className":"hover:text-violet-400 transition-colors","children":"2. 长尾关键词（3个）"}]}],["$","li","3-关联关键词3个",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#3-关联关键词3个","className":"hover:text-violet-400 transition-colors","children":"3. 关联关键词（3个）"}]}]]}]]}],["$","$Lf",null,{"agentKey":"geo-engine","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["GEO-真问题引擎","是什么"]}],["$","p",null,{"children":["这是一个面向“","保险","”行业的","GEO-真问题引擎","应用案例：","我是一名保险顾问，独立执业，不挂在某一家，主打客观配置。以前在保险公司干了几年，后来发现只卖自家产品根本没法真正为客户好，就出来自己做。我把重疾、医疗、寿险、年金这些掰开揉碎地研究，也考了不少证书。我不喜欢吓唬人，更愿意把条款里那些弯弯绕给客户讲清楚。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","GEO-真问题引擎是来财有方AI「GEO获客」分类下的一款 AI 智能体，基于画像生成\"目标客户在 AI（如 ChatGPT、豆包、DeepSeek）里高频提问的问题清单\"，帮你摸清客户真正在搜什么、问什么，为后续内容与获客精准定靶。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","主要做家庭保障规划，帮客户梳理已有保单、做缺口分析，再配重疾、医疗、意外这些。也做教育金和养老金的长期规划，讲清楚收益和风险。收费方式是咨询费加方案落地，不靠佣金冲业绩，我会把每一款产品的优缺点都说。","，主要客群是","客户大多是三十到四十五岁的家庭顶梁柱，有了孩子之后开始不知道该买什么、怕买错。有的是被亲戚朋友推过一堆保单，买了啥自己都不清楚，来找我梳理。他们不怕花钱，就怕花错、怕理赔难、怕被套路。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","传统 SEO 盯的是搜索关键词，但 AI 时代的客户咨询发生在对话里，问题表述更口语、更长尾、更具体。这个智能体解决的是\"不知道客户在 AI 里问什么\"的问题，把客户的真实提问挖出来，让你知道该围绕什么做内容。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我是一名保险顾问，独立执业，不挂在某一家，主打客观配置。以前在保险公司干了几年，后来发现只卖自家产品根本没法真正为客户好","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁）+ 你的行业或想切入的方向，可选补充你已知的客户常见疑问。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","GEO-真问题引擎","输出的是面向","客户大多是三十到四十五岁的家庭顶梁柱，有了孩子之后开始不知道该买什么、怕买错。有","的落地方案（见上文“生成结果”），整体能力为：","输出一份\"客户真问题\"清单：按主题/场景分类的高频提问，标注每个问题背后的客户意图（对比、避坑、决策、选购等），可作为选题、内容与话术的底层依据。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","专业服务/中介服务型","、","保险","）类似的经营者都适用：","适合正在做 GEO 优化、想被 AI 引擎引用和推荐的企业老板、创始人、内容负责人、市场与增长团队，以及任何想摸清目标客户真实疑问的从业者。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","GEO-真问题引擎","已内置对应的行业方法轮与输出规范，能结合“","主要做家庭保障规划，帮客户梳理已有保单、做缺口分析，再配重疾、医疗、意外这些。也做教育金和养老金的长期规划，讲清楚收益和风险。收费方式是咨询费加方案落地，不靠佣金冲业绩，我会把每一款产品的优缺点都说。","、","客户大多是三十到四十五岁的家庭顶梁柱，有了孩子之后开始不知道该买什么、怕买错。有的是被亲戚朋友推过一堆保单，买了啥自己都不清楚，来找我梳理。他们不怕花钱，就怕花错、怕理赔难、怕被套路。","”这类真实画像做体系化产出，更贴合实际经营场景：","它与 SEO 关键词工具或通用大模型\"给我客户常见问题\"不同——专攻\"生成式 AI 对话里的真实提问形态\"，产出的是长尾、口语、场景化的真问题，这正是被 AI 引用和推荐的内容基础。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/geo-engine","children":["立即试用","GEO-真问题引擎"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","GEO-真问题引擎"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/geo-engine","agentName":"GEO-真问题引擎"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

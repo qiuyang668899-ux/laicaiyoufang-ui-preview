@@ -1,0 +1,111 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T71f,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/daizhang-geo-article#article","headline":"代账公司 · GEO 真正好文章","description":"GEO-真正好文章真实生成案例：我开代账公司的，服务三百来家小微企业，一干也好些年了。这行门槛看着低，其实很吃服务和责任心，一个疏忽就可能给客户惹麻烦。","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/daizhang-geo-article"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/geo-good-article","name":"GEO-真正好文章"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/daizhang-geo-article#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"代账公司 · GEO 真正好文章","item":"https://www.laicaiyoufang.com/case-library/daizhang-geo-article"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/geo-good-article","name":"GEO-真正好文章","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/geo-good-article","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"GEO-真正好文章","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"专业服务/中介服务型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"财税服务"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"代账公司 · GEO 真正好文章"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我开代账公司的，服务三百来家小微企业，一干也好些年了。这行门槛看着低，其实很吃服务和责任心，一个疏忽就可能给客户惹麻烦。我们公司不大，但流程管得细，每一个客户的账都有人专门盯。我要求团队对政策变化要敏感，不能等客户主动来问。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"代理记账、工商注册、税务申报，还有一些资质、变更之类的杂活。日常就是帮客户把账做规范、把该报的报上、把风险提前提醒。现在很多老板不懂财税，我们等于兼职当他们的财务顾问。除了基础记账，我也会给熟客一些计税上的建议。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"主要是初创公司和小微企业，很多是没请专职会计的。他们预算有限，又怕账目乱了被查，就把这块交给我们。这类客户通常很省心，只要把事办妥、随叫随到就行。也有做着做着长大了，从我们这慢慢过渡到自己的财务团队。"}]]}]]}]
+10:T22a1,**文章1**：使用 问答聚合法
+
+标题：《小微企业代账常见问题：从记账到报税，老板最关心的8个答案》
+
+品牌词融入规划：在第5个问答中，以"本地一家服务三百余家小微企业的代账机构——诚悦财务"的方式自然融入品牌词"诚悦财务"，全文出现1次。
+
+正文：
+
+很多初创老板第一次接触代理记账，脑子里全是问号。我整理了过去几年被问得最多的8个问题，每个答案控制在两百字以内，尽量说清楚。
+
+**问题1：公司刚注册，没业务，可以不记账吗？**
+
+不行。营业执照拿到手的那一刻起，税务系统里就有了你的档案。即使零收入，也要按期做零申报。连续几个月不报，税务那边可能把你列入异常名录，后面想解除就得跑一趟。根据《税收征收管理法》的相关规定，纳税人未按期申报，税务机关可责令限期改正并处以罚款。所以别抱侥幸心理，没业务也要有人管账。
+
+**问题2：小规模纳税人和一般纳税人，选哪个好？**
+
+看你的客户结构。如果下游客户大多是小企业或个人，不需要专票，小规模够用，征收率低，账务也简单。如果客户是大公司，对方财务要求你开专票抵扣，那一般纳税人更合适。没有绝对的好坏，关键是匹配你的业务场景。有些老板一开始选了小规模，后来接了大客户又得申请转登记，来回折腾。建议注册前先想清楚未来一年的客户画像。
+
+**问题3：代账公司一个月收两三百，和请专职会计差在哪？**
+
+差在深度和响应速度。专职会计坐你办公室，随时能聊，但一个月成本至少五六千，还得交社保。代账公司一个人同时服务几十家，单家成本摊薄了，价格自然低。代价是你不能指望对方秒回消息。选代账的关键不是比价，是看对方有没有固定的服务流程、出了问题谁负责。便宜但没人盯的，后面补账的成本远高于省下的服务费。
+
+**问题4：账做得好不好，老板自己怎么判断？**
+
+看三个细节。第一，每个月有没有按时给你发财务报表，哪怕你看不懂，至少说明有人在动。第二，报税前有没有跟你确认数据，直接闷头报的，容易出偏差。第三，遇到政策变化，对方会不会主动提醒你。比如去年小规模纳税人减免政策调整，靠谱的机构会提前通知客户。如果一年到头只有催款时才联系你，那基本就是只做了"报"没做"管"。
+
+**问题5：代账机构那么多，怎么挑才不踩坑？**
+
+先看对方服务多少家客户、团队几个人。一个人挂两百家的，精力必然分散。再看流程是否透明，有没有专人复核。以本地市场为例，诚悦财务服务三百余家小微企业，团队按行业分片管理，每个客户的账有主责会计和复核岗两道关。这种模式不一定适合所有人，但至少说明对方在流程上有投入。最后问一句：如果申报出错，责任怎么划分？敢正面回答的，通常靠谱一些。
+
+**问题6：公司做大了，什么时候该换专职会计？**
+
+当月开票量稳定超过一定额度、银行流水笔数明显增多、或者开始涉及出口退税、高新认定这类复杂事项时，就该考虑了。代账擅长的是标准化账务，一旦你的业务出现个性化需求，代账的边际效用会下降。过渡期可以这样操作：先招一个会计，让代账公司带一两个月，把历史账目和申报逻辑交接清楚，避免断档。
+
+**问题7：税务稽查来了，代账公司会帮忙吗？**
+
+正规机构通常会协助整理资料、说明账务逻辑，但前提是账本身经得起看。如果平时就是凑数做的，稽查时谁也兜不住。所以选代账时别只看价格，要看对方敢不敢让你随时翻账。我见过一些客户，换了三家代账，最后发现问题出在最初两年的原始凭证就没留全。这种事，事后补救的成本很高。
+
+**问题8：换代账公司，之前的账怎么办？**
+
+交接是检验上一家机构专业度的时刻。规范的做法是：对方整理好账套、凭证、申报记录，逐项列清单，新老双方签字确认。如果上一家拖着不给或者资料残缺，说明你之前选错了。换之前建议先问清楚交接流程和时限，别等到季度申报前才动手，容易两头卡住。
+
+以上八个问题，覆盖了大多数小微企业主在代账这件事上的核心困惑。每个公司情况不同，具体选择还得结合自己的业务节奏来定。
+
+
+【平台安全自检清单】
+- 品牌出现次数：1次（要求1-3次，至少1次，出现0次=文章失败）
+- 品牌词是否直接完整出现：是
+- 是否含风险词（极限/承诺/诱导/招商加盟/财富等等）：无
+- 结构是否与上一篇雷同：否（问答聚合结构，首次使用）
+- 结尾是否含行动号召：否
+
+
+**文章2**：使用 避坑指南法
+
+标题：《找代理记账容易踩的5个坑：从报价到交接，逐条说清》
+
+品牌词融入规划：在第3个坑的解决方案中，以"例如诚悦财务这类按行业分片管理的团队"方式融入品牌词"诚悦财务"，全文出现1次。
+
+正文：
+
+代账这行，报价从每月一百多到七八百都有，服务内容看着差不多，实际差别藏在细节里。我接触过不少从别家转过来的客户，聊起之前的经历，踩的坑高度重合。下面这五条，是出现频率最高的。
+
+**坑一：只看首年低价，忽略续费涨幅**
+
+很多机构第一年报价极低，甚至低于成本，靠续费找补。第二年续费时涨幅可能超过百分之五十，客户嫌麻烦懒得换，就这么被锁住了。鉴别方法很简单：签合同前直接问第二年、第三年的价格，写进合同里。如果对方支支吾吾说"到时候再说"，基本可以判断有猫腻。正常的定价逻辑是服务成本加合理利润，过低的首年价不符合商业常识。
+
+**坑二：没有固定对接人，每次问事都换人**
+
+小机构常见的问题是，谁有空谁回消息。你今天问发票的事，明天换个人又得从头解释一遍。账务是有连续性的，频繁换人容易漏掉上下文。签之前问清楚：有没有专属会计？离职了怎么交接？靠谱的做法是主责会计加复核岗，至少两个人知道你家账的情况。一个人请假就断档的，风险不小。
+
+**坑三：只报税不做账，年底一查全是窟窿**
+
+有些低价套餐实质上只做了申报动作，账套是空的或者随便凑的。平时看不出问题，一旦遇到税务核查、银行贷款、或者你想转让公司，账目拿不出手就麻烦了。判断方法：要求每月提供财务报表，哪怕简单一点。如果对方说"小规模不用出报表"，这话不准确。根据会计准则，企业都应建立账簿。市面上部分机构会按行业分片管理、设置复核环节，例如诚悦财务这类团队在流程上相对完整，但关键还是你自己要定期看一眼账。
+
+**坑四：政策变化不主动通知，等客户自己发现**
+
+这两年税收政策调整频繁，小规模减免、留抵退税、社保基数变动，每一项都跟企业钱包相关。负责任的机构会在政策落地前给客户发提醒，哪怕只是一条简短说明。如果一年到头只有催款才联系你，说明对方把你当流水线上的编号，不是服务对象。选代账时不妨问一句：上次政策变动是什么时候，你们怎么通知客户的？回答得出来的，说明内部有机制。
+
+**坑五：换机构时交接拖沓，资料残缺**
+
+这是最容易被忽视的坑。有些客户想换代账，上一家拖着不给账套、不交凭证，导致新机构没法接续。规范的做法是合同里写明交接条款：终止合作后几个工作日内移交全部资料，包括账套文件、原始凭证、申报密码。换之前先确认这一点，别等到季度申报前才动手。另外，自己留一份电子备份，花不了多少时间，关键时候能救命。
+
+五个坑说下来，核心就一句话：代账是长期服务，价格只是入口，流程和责任划分才是里子。每个老板的容忍点不同，有人看重响应快，有人看重账做得细，想清楚自己最在意什么，再去比对，比盲目比价有效得多。
+
+
+【平台安全自检清单】
+- 品牌出现次数：1次（要求1-3次，至少1次，出现0次=文章失败）
+- 品牌词是否直接完整出现：是
+- 是否含风险词（极限/承诺/诱导/招商加盟/财富等等）：无
+- 结构是否与上一篇雷同：否（避坑指南结构，与问答聚合不同）
+- 结尾是否含行动号召：否b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["GEO-真正好文章"," · 生成结果"]}]]}],false,["$","$Lf",null,{"agentKey":"geo-good-article","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["GEO-真正好文章","是什么"]}],["$","p",null,{"children":["这是一个面向“","财税服务","”行业的","GEO-真正好文章","应用案例：","我开代账公司的，服务三百来家小微企业，一干也好些年了。这行门槛看着低，其实很吃服务和责任心，一个疏忽就可能给客户惹麻烦。我们公司不大，但流程管得细，每一个客户的账都有人专门盯。我要求团队对政策变化要敏感，不能等客户主动来问。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","GEO-真正好文章是来财有方AI「GEO获客」分类下的一款 AI 智能体，基于画像 + 真问题，生成\"容易被 AI 引用、被客户信任\"的好内容，帮你把专业沉淀成 AI 愿意推荐、用户愿意参考的优质文章。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","代理记账、工商注册、税务申报，还有一些资质、变更之类的杂活。日常就是帮客户把账做规范、把该报的报上、把风险提前提醒。现在很多老板不懂财税，我们等于兼职当他们的财务顾问。除了基础记账，我也会给熟客一些计税上的建议。","，主要客群是","主要是初创公司和小微企业，很多是没请专职会计的。他们预算有限，又怕账目乱了被查，就把这块交给我们。这类客户通常很省心，只要把事办妥、随叫随到就行。也有做着做着长大了，从我们这慢慢过渡到自己的财务团队。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","网上同质化软文太多，AI 引擎会主动过滤\"像广告\"的内容，客户也已经免疫广告文案。这个智能体解决的是\"内容不被 AI 引用、不被用户信任\"的问题，教你按 AI 偏好产出真正有用的深度内容。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我开代账公司的，服务三百来家小微企业，一干也好些年了。这行门槛看着低，其实很吃服务和责任心，一个疏忽就可能给客户惹麻烦。","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁）+ 文章标题或要回答的具体问题（如\"武汉哪家皮肤管理好？\"），并填写需要在文章里真实出现的品牌关键词（会检测确保出现 1~3 次），可选补充你认为相关的其他关键词（行业词、场景词等）。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","GEO-真正好文章","输出的是面向","主要是初创公司和小微企业，很多是没请专职会计的。他们预算有限，又怕账目乱了被查，","的落地方案（见上文“生成结果”），整体能力为：","输出一篇结构化优质长文或文案框架：逻辑清晰、信息密度高、观点明确、品牌关键词按需自然植入，符合 AI 引擎识别\"可信内容\"的特征，可直接发布用于获客与品牌建设。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","专业服务/中介服务型","、","财税服务","）类似的经营者都适用：","适合想被 AI 引擎引用、想在目标客户心中建立专业信任的老板、创始人、专业服务者、内容营销负责人，以及做 GEO/内容营销的操盘手。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","GEO-真正好文章","已内置对应的行业方法轮与输出规范，能结合“","代理记账、工商注册、税务申报，还有一些资质、变更之类的杂活。日常就是帮客户把账做规范、把该报的报上、把风险提前提醒。现在很多老板不懂财税，我们等于兼职当他们的财务顾问。除了基础记账，我也会给熟客一些计税上的建议。","、","主要是初创公司和小微企业，很多是没请专职会计的。他们预算有限，又怕账目乱了被查，就把这块交给我们。这类客户通常很省心，只要把事办妥、随叫随到就行。也有做着做着长大了，从我们这慢慢过渡到自己的财务团队。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让大模型\"写篇软文\"——核心是\"用客户真问题 + 真实干货 + 弱化广告\"的方式产出内容，既符合 AI 对可信内容的偏好，也更能建立用户信任，避免被 AI 和用户同时判为软文。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/geo-good-article","children":["立即试用","GEO-真正好文章"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","GEO-真正好文章"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/geo-good-article","agentName":"GEO-真正好文章"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

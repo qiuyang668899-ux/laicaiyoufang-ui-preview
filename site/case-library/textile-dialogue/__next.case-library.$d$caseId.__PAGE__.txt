@@ -1,0 +1,135 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T722,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/textile-dialogue#article","headline":"纺织厂 · 1 天 30 条提问视频","description":"对话操盘手/1天30条真实生成案例：我开纺织厂的，做面料和坯布，厂子在乡镇，工人都是老员工。现在想在网上找订单，听说做短视频有用，但我不会写文案，也不知道拍","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/textile-dialogue"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/dialogue-master","name":"对话操盘手/1天30条"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/textile-dialogue#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"纺织厂 · 1 天 30 条提问视频","item":"https://www.laicaiyoufang.com/case-library/textile-dialogue"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/dialogue-master","name":"对话操盘手/1天30条","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/dialogue-master","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"对话操盘手/1天30条","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"生产制造与供应链型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"纺织服装"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"纺织厂 · 1 天 30 条提问视频"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我开纺织厂的，做面料和坯布，厂子在乡镇，工人都是老员工。现在想在网上找订单，听说做短视频有用，但我不会写文案，也不知道拍什么。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"各种面料、坯布，也接来料加工和定制订单。卖点就是老厂、质量稳、价格实在。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"服装厂、贸易商、电商卖家这些要批量拿面料的下游。"}]]}]]}]
+10:T16ae,# 50个短视频提问问题（按类别）
+
+
+## 一、流量破圈类（10个）
+
+1. 一个开纺织厂的老板，突然跑去做短视频，你觉得同行背地里会怎么笑话你？
+
+2. 你厂子在乡镇，工人都是老员工——这件事放到网上，为什么反而成了别人学不来的优势？
+
+3. 现在很多厂子都在网上喊"厂家直销"，你觉得客户心里真正怕的，到底是价格高，还是别的什么？
+
+4. 如果一个服装厂老板刷到你的视频，他凭什么相信一个乡镇小厂，而不是那些展厅漂亮的大贸易商？
+
+5. 你有没有发现，越是"不会写文案"的老板，拍出来的视频反而越有人信？这是为什么？
+
+6. 你做了这么多年面料，你觉得客户嘴上说"再看看"，心里真正在盘算的是什么？
+
+7. 很多纺织厂拍短视频，拍的全是机器和布卷，你觉得客户看完之后，心里会冒出哪句话？
+
+8. 如果我说"纺织厂做短视频，拍机器是最没用的"，你会不会想反驳我？为什么？
+
+9. 你见过那种合作了十年、突然换了供应商的客户吗？他换的真的是价格吗？
+
+10. 一个采购员来你厂里看货，他在车间里走来走去，其实是在看什么？他嘴上不会说的那个东西是什么？
+
+
+## 二、精准获客类（18个）
+
+1. 一个服装厂老板最怕的，不是面料贵，是什么？你有没有接过那种"救火"的单子？
+
+2. 客户第一次跟你合作，他心里最没底的那件事是什么？你一般怎么让他放心？
+
+3. 你有没有遇到过那种"样品看了很满意，大货却出问题"的客户？他后来为什么还继续找你？
+
+4. 一个电商卖家找你拿面料，他最焦虑的其实不是质量，是什么？你懂那种焦虑吗？
+
+5. 你觉得客户在找新供应商的时候，真正在"换"的是什么？是价格，还是那种说不出口的担心？
+
+6. 你接过那种"别的厂做不出来、找到你"的单子吗？客户当时是什么状态？
+
+7. 一个贸易商跟你说"我再比比价"，你心里清楚他真正在比的是什么？你会怎么接这句话？
+
+8. 你有没有发现，老客户回头找你，往往不是因为便宜，而是因为别的什么？
+
+9. 客户最怕供应商哪句话？你是不是从来不说那句话？
+
+10. 一个服装厂因为一批面料出了问题，整批货砸手里——你见过这种事吗？那一刻客户是什么表情？
+
+11. 你觉得你的客户里，有多少人是"被上一个供应商伤过"才找到你的？他们伤在哪？
+
+12. 你厂里那些干了十几年的老工人，对客户来说意味着什么？这件事客户自己意识到了吗？
+
+13. 一个客户把订单交给你，他最想听到你跟他保证的，是哪一句话？不是"便宜"，是什么？
+
+14. 你有没有拒绝过那种"价格压到离谱"的订单？拒绝的时候你怎么想的？
+
+15. 客户来验厂，你最想让他看的是哪台机器、哪个人？为什么是那个？
+
+16. 你觉得"老厂"这两个字，对客户来说到底值多少钱？他愿意为这两个字多付什么？
+
+17. 一个客户跟你合作三年了，他突然跟你说"我要的量少一半"，你会先问什么？
+
+18. 你见过那种"交期赶得要命、别的厂都不敢接"的单子吗？你接了之后客户说了什么？
+
+
+## 三、人设温度类（8个）
+
+1. 你当初为什么把厂子开在乡镇，而不是去大城市？这个决定背后，你放弃了什么？
+
+2. 厂里那些老员工，有没有哪个人是跟着你从最难的时候熬过来的？他现在还在吗？
+
+3. 你有没有哪一年，账上差点撑不下去？那段时间你晚上睡得着吗？
+
+4. 你父母或者家里人，怎么看你现在"一边开厂一边拍短视频"这件事？他们理解吗？
+
+5. 如果回到刚开厂那年，你会对当时的自己说一句什么话？那句你最想说的。
+
+6. 你有没有因为一批货、一个客户，自己偷偷难受过？那件事你后来跟谁说过吗？
+
+7. 你觉得自己身上哪个特点，是让这些老员工愿意一直跟着你的，但你自己从来没当回事？
+
+8. 你办这个厂，最初到底是为了赚钱，还是为了别的什么？那个"别的什么"是什么？
+
+
+## 四、活人感/趣味类（6个）
+
+1. 你在车间里最常待的地方是哪儿？为什么是那儿，不是办公室？
+
+2. 你摸一块面料，一上手就知道好坏——这个本事你是怎么练出来的？第一次摸错是什么时候？
+
+3. 你手机相册里，存得最多的是什么照片？为什么舍不得删？
+
+4. 厂里那台最老的机器，你有没有想过把它卖了？为什么一直留着？
+
+5. 如果现在不让你开厂了，让你干一件完全不相干的事，你想干什么？认真的。
+
+6. 你有没有在车间里，被工人"教育"过一回？当时是什么情况？
+
+
+## 五、行业深度类（8个）
+
+1. 你觉得现在纺织行业里，最坑下游客户的一种"潜规则"是什么？你敢不敢说？
+
+2. 为什么很多客户"比了一圈价，最后还是回来找老厂"？这背后客户心里到底在想什么？
+
+3. 面料这个行当，为什么"便宜"往往是最贵的？你能不能给一个具体的例子？
+
+4. 你觉得未来三年，服装厂和贸易商选供应商的标准，会发生什么变化？为什么？
+
+5. 现在很多中间商在消失，工厂直接对接客户——你觉得这对下游客户来说，是好事还是坏事？为什么？
+
+6. 你见过很多小厂做不大，也见过大厂突然垮掉——你觉得根源分别出在哪？
+
+7. 一块面料从你厂里出去，到变成客户身上那件衣服，中间最容易被"糊弄"的环节是哪个？
+
+8. 如果让你给整个纺织行业提一个最尖锐的批评，你会说什么？别客气。b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["对话操盘手/1天30条"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","50个短视频提问问题按类别",{"className":"text-slate-200","children":["$","a",null,{"href":"#50个短视频提问问题按类别","className":"hover:text-violet-400 transition-colors","children":"50个短视频提问问题（按类别）"}]}],["$","li","一流量破圈类10个",{"className":"text-slate-200","children":["$","a",null,{"href":"#一流量破圈类10个","className":"hover:text-violet-400 transition-colors","children":"一、流量破圈类（10个）"}]}],["$","li","二精准获客类18个",{"className":"text-slate-200","children":["$","a",null,{"href":"#二精准获客类18个","className":"hover:text-violet-400 transition-colors","children":"二、精准获客类（18个）"}]}],["$","li","三人设温度类8个",{"className":"text-slate-200","children":["$","a",null,{"href":"#三人设温度类8个","className":"hover:text-violet-400 transition-colors","children":"三、人设温度类（8个）"}]}],["$","li","四活人感趣味类6个",{"className":"text-slate-200","children":["$","a",null,{"href":"#四活人感趣味类6个","className":"hover:text-violet-400 transition-colors","children":"四、活人感/趣味类（6个）"}]}],["$","li","五行业深度类8个",{"className":"text-slate-200","children":["$","a",null,{"href":"#五行业深度类8个","className":"hover:text-violet-400 transition-colors","children":"五、行业深度类（8个）"}]}]]}]]}],["$","$Lf",null,{"agentKey":"dialogue-master","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["对话操盘手/1天30条","是什么"]}],["$","p",null,{"children":["这是一个面向“","纺织服装","”行业的","对话操盘手/1天30条","应用案例：","我开纺织厂的，做面料和坯布，厂子在乡镇，工人都是老员工。现在想在网上找订单，听说做短视频有用，但我不会写文案，也不知道拍什么。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","对话操盘手/1天30条是来财有方AI「内容获客」分类下的一款 AI 智能体，通过\"找位朋友按题问你、你即兴回答\"的对话方式，帮你 2 小时产出 30 条真人出镜短视频的口播素材，解决\"对着镜头不会说\"的难题。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","各种面料、坯布，也接来料加工和定制订单。卖点就是老厂、质量稳、价格实在。","，主要客群是","服装厂、贸易商、电商卖家这些要批量拿面料的下游。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多人拍真人视频最大的障碍是\"面对镜头紧张、不知道说什么、一条要录几十遍\"。这个智能体解决的是表达卡壳与产出效率低的问题，把\"写稿念稿\"变成\"聊天问答\"，让表达自然、产能翻倍。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我开纺织厂的，做面料和坯布，厂子在乡镇，工人都是老员工。现在想在网上找订单，听说做短视频有用，但我不会写文案，也不知道拍","…… 具体输入项包括：","你只需提供画像（我是谁、卖什么、卖给谁），它会给出一连串拟好的提问清单，找位朋友照着问你，你即兴回答并录下来即可；无需提前写稿。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","对话操盘手/1天30条","输出的是面向","服装厂、贸易商、电商卖家这些要批量拿面料的下游。","的落地方案（见上文“生成结果”），整体能力为：","输出一套可批量执行的问题清单 + 拍摄流程建议：几十个贴合你业务的高质量提问，按你的真实回答可直接剪辑成 30 条短视频，2 小时搞定。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","生产制造与供应链型","、","纺织服装","）类似的经营者都适用：","适合需要高频真人出镜、但又怕镜头、写稿困难或时间紧张的老板、销售、顾问、教练、知识博主，以及想用\"人设真实性\"建立信任的内容创作者。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","对话操盘手/1天30条","已内置对应的行业方法轮与输出规范，能结合“","各种面料、坯布，也接来料加工和定制订单。卖点就是老厂、质量稳、价格实在。","、","服装厂、贸易商、电商卖家这些要批量拿面料的下游。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让大模型\"帮我写 30 条脚本\"——而是用\"提问 → 你答\"的方式把脚本权交还给你，产出的是你亲口说出的、最真实有温度的内容，避免念稿的僵硬感，也更能体现你本人的专业与性格。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/dialogue-master","children":["立即试用","对话操盘手/1天30条"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","对话操盘手/1天30条"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/dialogue-master","agentName":"对话操盘手/1天30条"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

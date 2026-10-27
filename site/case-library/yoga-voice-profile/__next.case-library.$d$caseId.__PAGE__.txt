@@ -1,0 +1,199 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+1c:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+1d:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+1e:I[23349,[],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+2:T73c,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/yoga-voice-profile#article","headline":"瑜伽工作室 · 强人设画像语音总结","description":"强人设画像语音生成真实生成案例：我是一名瑜伽老师，做了十二年，以前在别人的馆里上课，四年前自己开了一间小工作室。我最早是练舞蹈出身的，后来腰受伤了才转的","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/yoga-voice-profile"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/voice-profile","name":"强人设画像语音生成"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/yoga-voice-profile#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"瑜伽工作室 · 强人设画像语音总结","item":"https://www.laicaiyoufang.com/case-library/yoga-voice-profile"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/voice-profile","name":"强人设画像语音生成","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/voice-profile","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"强人设画像语音生成","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"本地生活/服务密集型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"健身瑜伽"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"瑜伽工作室 · 强人设画像语音总结"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我是一名瑜伽老师，做了十二年，以前在别人的馆里上课，四年前自己开了一间小工作室。我最早是练舞蹈出身的，后来腰受伤了才转的瑜伽，算是被瑜伽救回来的那批人。这么多年我一直坚持自我练习，也带教培，带过的学员有些已经出去自己开馆了。我不是那种只喊口令的老师，会把手搭到学员身上一点点给她调，讲清楚为什么这么练、练的是哪块肌肉、呼吸怎么配。我比较较真，看到学员动作变形一定会停下来纠正，宁可进度慢一点，也不想她们练出伤。工作室不大，但每一节课我都认真备课，按当天来的人的身体状态临时调整序列。我把这行当成一辈子要做的事，不是赚快钱的营生。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我主要卖的是小班课和一对一私教，跟大课那种流水线完全不一样。小班最多六个人，我能看到每个人，能一对一上手调整。私教主要是给那些有腰背肩颈问题、产后需要修复，或者零基础怕受伤的人做定制方案。我也教教培，把自己的练习心得和排课逻辑系统地传给想入行的人。此外还有一些小型的主题课，比如肩颈调理、睡眠放松、核心稳定，都是围绕现代人的常见问题来设计的。我不卖那种年卡让你冲动消费，更愿意先让你上一节体验课，看看彼此合不合适再决定。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我的学员大多是二十五到四十五的女性，有长期久坐、体态有问题的白领，也有产后想恢复的宝妈，还有压力大想找个地方安静移动一下的人。她们不是来拍照打卡的，是真的想解决身体问题、想在练习里找到一点平静。很多人一开始是抱着「试试看能不能瘦」的心态来的，练着练着就发现腰不酸了、睡眠变好了、情绪也没那么紧绷了。她们要的不是被推销，是被看见、被认真对待，我给的恰恰是这个。"}]]}]]}]
+b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["强人设画像语音生成"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","口播人设打造文档",{"className":"text-slate-200","children":["$","a",null,{"href":"#口播人设打造文档","className":"hover:text-violet-400 transition-colors","children":"口播人设打造文档"}]}],["$","li","①-人设定位与差异化标签",{"className":"text-slate-200","children":["$","a",null,{"href":"#①-人设定位与差异化标签","className":"hover:text-violet-400 transition-colors","children":"① 人设定位与差异化标签"}]}],["$","li","一句话人设定位",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#一句话人设定位","className":"hover:text-violet-400 transition-colors","children":"一句话人设定位"}]}],["$","li","核心人设三要素",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#核心人设三要素","className":"hover:text-violet-400 transition-colors","children":"核心人设三要素"}]}],["$","li","差异化标签记忆锚点",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#差异化标签记忆锚点","className":"hover:text-violet-400 transition-colors","children":"差异化标签（记忆锚点）"}]}],["$","li","人设关键词云",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#人设关键词云","className":"hover:text-violet-400 transition-colors","children":"人设关键词云"}]}],["$","li","②-账号内容定位",{"className":"text-slate-200","children":["$","a",null,{"href":"#②-账号内容定位","className":"hover:text-violet-400 transition-colors","children":"② 账号内容定位"}]}],["$","li","账号定位一句话",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#账号定位一句话","className":"hover:text-violet-400 transition-colors","children":"账号定位一句话"}]}],["$","li","内容三大支柱",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#内容三大支柱","className":"hover:text-violet-400 transition-colors","children":"内容三大支柱"}]}],["$","li","目标受众画像",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#目标受众画像","className":"hover:text-violet-400 transition-colors","children":"目标受众画像"}]}],["$","li","内容调性",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#内容调性","className":"hover:text-violet-400 transition-colors","children":"内容调性"}]}],["$","li","③-核心价值主张",{"className":"text-slate-200","children":["$","a",null,{"href":"#③-核心价值主张","className":"hover:text-violet-400 transition-colors","children":"③ 核心价值主张"}]}],["$","li","主价值主张对外一句话",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#主价值主张对外一句话","className":"hover:text-violet-400 transition-colors","children":"主价值主张（对外一句话）"}]}],["$","li","价值三层拆解",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#价值三层拆解","className":"hover:text-violet-400 transition-colors","children":"价值三层拆解"}]}],["$","li","价值主张支撑句口播可用",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#价值主张支撑句口播可用","className":"hover:text-violet-400 transition-colors","children":"价值主张支撑句（口播可用）"}]}],["$","li","④-常用口播开场与口头禅",{"className":"text-slate-200","children":["$","a",null,{"href":"#④-常用口播开场与口头禅","className":"hover:text-violet-400 transition-colors","children":"④ 常用口播开场与口头禅"}]}],["$","li","5个高频开场钩子按场景轮换",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#5个高频开场钩子按场景轮换","className":"hover:text-violet-400 transition-colors","children":"5个高频开场钩子（按场景轮换）"}]}],"$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]]}],"$L1b"]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["强人设画像语音生成","是什么"]}],["$","p",null,{"children":["这是一个面向“","健身瑜伽","”行业的","强人设画像语音生成","应用案例：","我是一名瑜伽老师，做了十二年，以前在别人的馆里上课，四年前自己开了一间小工作室。我最早是练舞蹈出身的，后来腰受伤了才转的瑜伽，算是被瑜伽救回来的那批人。这么多年我一直坚持自我练习，也带教培，带过的学员有些已经出去自己开馆了。我不是那种只喊口令的老师，会把手搭到学员身上一点点给她调，讲清楚为什么这么练、练的是哪块肌肉、呼吸怎么配。我比较较真，看到学员动作变形一定会停下来纠正，宁可进度慢一点，也不想她们练出伤。工作室不大，但每一节课我都认真备课，按当天来的人的身体状态临时调整序列。我把这行当成一辈子要做的事，不是赚快钱的营生。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","强人设画像语音生成是来财有方AI「人设画像」分类下的一款对话式 AI 智能体，用\"语音问答\"替代\"打字填表\"，通过一轮轮的语音提问引导你把过往经历、专业判断、性格特质讲出来，再由 AI 沉淀成一份可复用的强人设 IP 画像。它把原本需要一次成稿、很容易写崩的\"自我介绍\"，拆解成顺着聊就能完成的轻松过程。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","我主要卖的是小班课和一对一私教，跟大课那种流水线完全不一样。小班最多六个人，我能看到每个人，能一对一上手调整。私教主要是给那些有腰背肩颈问题、产后需要修复，或者零基础怕受伤的人做定制方案。我也教教培，把自己的练习心得和排课逻辑系统地传给想入行的人。此外还有一些小型的主题课，比如肩颈调理、睡眠放松、核心稳定，都是围绕现代人的常见问题来设计的。我不卖那种年卡让你冲动消费，更愿意先让你上一节体验课，看看彼此合不合适再决定。","，主要客群是","我的学员大多是二十五到四十五的女性，有长期久坐、体态有问题的白领，也有产后想恢复的宝妈，还有压力大想找个地方安静移动一下的人。她们不是来拍照打卡的，是真的想解决身体问题、想在练习里找到一点平静。很多人一开始是抱着「试试看能不能瘦」的心态来的，练着练着就发现腰不酸了、睡眠变好了、情绪也没那么紧绷了。她们要的不是被推销，是被看见、被认真对待，我给的恰恰是这个。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多人想做个人 IP，却卡在\"你到底是谁、凭什么让人信你\"这一步——不是没东西写，而是说不清、写不顺。这个智能体解决的问题是：用对话代替苦思冥想，先把脑子里零散的从业经历、客户故事和真实观点抽出来，再结构化成一份有说服力的人设。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我是一名瑜伽老师，做了十二年，以前在别人的馆里上课，四年前自己开了一间小工作室。我最早是练舞蹈出身的，后来腰受伤了才转的","…… 具体输入项包括：","只需开口说话：按它的提问回答你的从业年限、做过哪些项目、服务过哪些客户、踩过哪些坑、最擅长解决什么问题、你相信什么等。全程语音即可，无需手动组织文案，也不需要提示词技巧。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","强人设画像语音生成","输出的是面向","我的学员大多是二十五到四十五的女性，有长期久坐、体态有问题的白领，也有产后想恢复","的落地方案（见上文“生成结果”），整体能力为：","输出一份结构化强人设 IP 画像：你是谁、你相信什么、你的差异化专业主张、你服务的对象与他们的痛点、你的核心故事与口头禅等，可直接作为短视频、朋友圈、公众号、自我介绍页等多平台的人设底稿。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","本地生活/服务密集型","、","健身瑜伽","）类似的经营者都适用：","适合正在做或想做个人 IP、但迟迟写不出\"我是谁\"的老板、创始人、顾问、教练、操盘手，以及需要把多年专业经验系统化沉淀下来、却不知从何下手的行业专家。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","强人设画像语音生成","已内置对应的行业方法轮与输出规范，能结合“","我主要卖的是小班课和一对一私教，跟大课那种流水线完全不一样。小班最多六个人，我能看到每个人，能一对一上手调整。私教主要是给那些有腰背肩颈问题、产后需要修复，或者零基础怕受伤的人做定制方案。我也教教培，把自己的练习心得和排课逻辑系统地传给想入行的人。此外还有一些小型的主题课，比如肩颈调理、睡眠放松、核心稳定，都是围绕现代人的常见问题来设计的。我不卖那种年卡让你冲动消费，更愿意先让你上一节体验课，看看彼此合不合适再决定。","、","我的学员大多是二十五到四十五的女性，有长期久坐、体态有问题的白领，也有产后想恢复的宝妈，还有压力大想找个地方安静移动一下的人。她们不是来拍照打卡的，是真的想解决身体问题、想在练习里找到一点平静。很多人一开始是抱着「试试看能不能瘦」的心态来的，练着练着就发现腰不酸了、睡眠变好了、情绪也没那么紧绷了。她们要的不是被推销，是被看见、被认真对待，我给的恰恰是这个。","”这类真实画像做体系化产出，更贴合实际经营场景：","与直接问通用大模型\"帮我写个人设\"不同，它内置了 IP 画像的结构化框架和追问逻辑，会一步步把你\"聊\"出真实素材，而不是凭空编一个华丽但没有根据的人设，产出也更贴合你本人的真实经历与表达习惯。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/voice-profile","children":["立即试用","强人设画像语音生成"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","强人设画像语音生成"," 帮你生成"]}],["$","$L1c",null,{"agentPath":"/agent/voice-profile","agentName":"强人设画像语音生成"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L1d",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+f:["$","li","口头禅--记忆句反复强化人设",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#口头禅--记忆句反复强化人设","className":"hover:text-violet-400 transition-colors","children":"口头禅 / 记忆句（反复强化人设）"}]}]
+10:["$","li","结尾引导话术软转化",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#结尾引导话术软转化","className":"hover:text-violet-400 transition-colors","children":"结尾引导话术（软转化）"}]}]
+11:["$","li","⑤-典型内容选题清单12条可直接拍",{"className":"text-slate-200","children":["$","a",null,{"href":"#⑤-典型内容选题清单12条可直接拍","className":"hover:text-violet-400 transition-colors","children":"⑤ 典型内容选题清单（12条，可直接拍）"}]}]
+12:["$","li","⑥-内容发布节奏与运营动作",{"className":"text-slate-200","children":["$","a",null,{"href":"#⑥-内容发布节奏与运营动作","className":"hover:text-violet-400 transition-colors","children":"⑥ 内容发布节奏与运营动作"}]}]
+13:["$","li","发布节奏建议",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#发布节奏建议","className":"hover:text-violet-400 transition-colors","children":"发布节奏（建议）"}]}]
+14:["$","li","单条结构节奏",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#单条结构节奏","className":"hover:text-violet-400 transition-colors","children":"单条结构节奏"}]}]
+15:["$","li","运营动作清单",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#运营动作清单","className":"hover:text-violet-400 transition-colors","children":"运营动作清单"}]}]
+16:["$","li","⑦-可复制的爆款内容结构万能模板",{"className":"text-slate-200","children":["$","a",null,{"href":"#⑦-可复制的爆款内容结构万能模板","className":"hover:text-violet-400 transition-colors","children":"⑦ 可复制的爆款内容结构（万能模板）"}]}]
+17:["$","li","模板a痛点纠正型干货主力",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#模板a痛点纠正型干货主力","className":"hover:text-violet-400 transition-colors","children":"模板A：痛点纠正型（干货主力）"}]}]
+18:["$","li","模板b故事人设型信任建立",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#模板b故事人设型信任建立","className":"hover:text-violet-400 transition-colors","children":"模板B：故事人设型（信任建立）"}]}]
+19:["$","li","模板c反常识观点型涨粉破圈",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#模板c反常识观点型涨粉破圈","className":"hover:text-violet-400 transition-colors","children":"模板C：反常识观点型（涨粉破圈）"}]}]
+1a:["$","li","爆款三原则",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#爆款三原则","className":"hover:text-violet-400 transition-colors","children":"爆款三原则"}]}]
+22:T22a8,# 口播人设打造文档
+
+**人物**：瑜伽老师（12年教龄 / 自有工作室4年 / 舞蹈出身 / 腰伤转瑜伽）
+**生成时间**：2025年
+**用途**：短视频口播账号人设定位与内容运营执行手册
+
+
+## ① 人设定位与差异化标签
+
+### 一句话人设定位
+> **"被瑜伽救回来的舞蹈生，用12年教龄和一双会调身体的手，专治都市女性的腰、肩、颈和焦虑。"**
+
+### 核心人设三要素
+| 维度 | 内容 |
+|---|---|
+| **身份** | 12年瑜伽老师、4年工作室主理人、教培导师（学员已开馆） |
+| **来路** | 舞蹈出身 → 腰伤 → 被瑜伽救回 → 较真教学 |
+| **态度** | 宁可慢，不让学员练出伤；不卖年卡，先体验再决定 |
+
+### 差异化标签（记忆锚点）
+1. **"被瑜伽救回来的人"** —— 有故事、有共情，区别于科班速成老师
+2. **"会用手调身体的老师"** —— 上手纠正、讲清肌肉与呼吸，区别于只喊口令的流水线老师
+3. **"较真老师"** —— 动作变形必停，宁慢不伤，建立专业信任
+4. **"小班6人上限"** —— 看得见每个人，反大课流水线
+5. **"不卖年卡"** —— 反冲动消费，先体验后决定，立"真诚不推销"人设
+
+### 人设关键词云
+`舞蹈底子` `腰伤亲历者` `较真` `上手调整` `小班6人` `不卖年卡` `一辈子的事` `备课型老师`
+
+
+## ② 账号内容定位
+
+### 账号定位一句话
+> **一个较真瑜伽老师的"身体修复课堂 + 教学现场"**——既教你怎么练对，也让你看见一个老师是怎么认真对待每个身体的。
+
+### 内容三大支柱
+| 支柱 | 占比 | 说明 |
+|---|---|---|
+| **专业干货（教对动作）** | 50% | 腰肩颈问题纠正、呼吸配合、肌肉讲解、体态自测 |
+| **人设故事（我是谁）** | 25% | 舞蹈腰伤经历、较真教学现场、学员变化故事 |
+| **观点态度（反常识）** | 25% | 反流水线大课、反年卡、反"练出伤"、反打卡式瑜伽 |
+
+### 目标受众画像
+- 25–45岁女性为主
+- 久坐白领 / 产后宝妈 / 高压想静下来的人
+- 心态：从"试试能不能瘦"到"想解决身体问题、找平静"
+- 痛点：腰酸、肩颈紧、睡不好、情绪紧绷、怕练错受伤、反感被推销
+
+### 内容调性
+亲切、专业、耐心；说人话不讲玄学；有温度但不煽情；较真但不严厉。
+
+
+## ③ 核心价值主张
+
+### 主价值主张（对外一句话）
+> **"我不教你摆姿势拍照，我教你把身体练对、练不伤。"**
+
+### 价值三层拆解
+1. **功能价值**：解决腰背肩颈问题、产后修复、零基础安全入门——**"练对，不练伤"**
+2. **情感价值**：被看见、被认真对待、在练习里找到平静——**"这里没人推销你，只有人认真对你"**
+3. **信任价值**：12年教龄 + 上手调整 + 小班6人 + 不卖年卡——**"较真，是我对你身体的负责"**
+
+### 价值主张支撑句（口播可用）
+- "宁可这节课进度慢一点，也不让你练出伤。"
+- "我不是只喊口令的老师，我会把手搭到你身上，告诉你练的是哪块肌肉。"
+- "先上一节体验课，合适我们再谈，不合适你别花这个钱。"
+
+
+## ④ 常用口播开场与口头禅
+
+### 5个高频开场钩子（按场景轮换）
+1. **痛点直击型**："如果你每天坐8小时，腰越来越酸——先别急着拉伸，你可能练反了。"
+2. **身份背书型**："教了12年瑜伽，我带过的学员有的已经自己开馆了，但今天我想说个最基础的动作。"
+3. **反常识型**："很多瑜伽课让你越练越伤，问题不在你，在老师没上手调你。"
+4. **故事共情型**："我是被瑜伽救回来的人，腰伤那年我以为自己再也动不了了……"
+5. **现场教学型**："来，看我这个学员的动作——这里变形了，我必须停下来。"
+
+### 口头禅 / 记忆句（反复强化人设）
+- "**练对，比练多重要。**"
+- "**宁可慢一点，不让你练出伤。**"
+- "**我会把手搭到你身上，告诉你练的是哪块肌肉。**"
+- "**小班最多6个人，因为我得看得见你。**"
+- "**先体验，合适再决定，我不卖年卡。**"
+- "**这行是我一辈子要做的事，不是赚快钱的营生。**"
+
+### 结尾引导话术（软转化）
+- "评论区告诉我你哪里最紧，下条视频我拆给你看。"
+- "想知道自己动作对不对，来上节体验课，我上手给你调一次。"
+
+
+## ⑤ 典型内容选题清单（12条，可直接拍）
+
+| # | 选题 | 类型 | 钩子示例 |
+|---|---|---|---|
+| 1 | 久坐白领的腰为什么越拉越酸？ | 干货 | "腰酸别乱拉，先看是不是这个原因" |
+| 2 | 肩颈僵硬3个自测动作，你在第几个中招 | 干货 | "抬个手就知道你肩颈堵不堵" |
+| 3 | 产后修复最容易踩的3个坑 | 干货 | "产后别急着瘦，先修这个" |
+| 4 | 呼吸怎么配动作？一个动作讲透 | 干货 | "呼吸配错，练了等于白练" |
+| 5 | 我为什么坚持小班只收6个人 | 人设 | "大课我实在看不见每个人" |
+| 6 | 舞蹈出身、腰伤转瑜伽：我的来时路 | 故事 | "腰伤那年，我以为自己废了" |
+| 7 | 学员动作变形，我一定会停下来 | 人设 | "较真，是我对你身体的负责" |
+| 8 | 我为什么不卖年卡 | 观点 | "年卡是让你冲动，体验课是让你清醒" |
+| 9 | 零基础怕受伤，第一节课该怎么上 | 干货 | "第一次练瑜伽，别做这几个动作" |
+| 10 | 睡眠差、情绪紧绷？试试这个放松序列 | 干货 | "睡前10分钟，把紧绷放下来" |
+| 11 | 学员真实变化：从"想瘦"到"腰不酸了" | 故事 | "她本来只想瘦，结果睡眠好了" |
+| 12 | 教培学员出去开馆了，我教了什么 | 背书 | "我的排课逻辑，她们带去了自己的馆" |
+
+
+## ⑥ 内容发布节奏与运营动作
+
+### 发布节奏（建议）
+| 频率 | 内容类型 | 说明 |
+|---|---|---|
+| **每周3–4条** | 干货 : 人设 : 观点 ≈ 5:3:2 | 稳定输出，专业打底 |
+| **每周1条** | 学员变化 / 教学现场 | 真实感、信任转化 |
+| **每月1条** | 来时路 / 深度故事 | 强化人设记忆点 |
+
+### 单条结构节奏
+钩子（前3秒痛点/反常识）→ 讲解/故事（15–40秒）→ 上手示范或画面佐证 → 口头禅强化 → 软引导（评论/体验课）
+
+### 运营动作清单
+1. **评论区运营**：每条视频固定回复"你哪里最紧"，收集痛点做下期选题
+2. **私信承接**：咨询统一引导"先约体验课"，不硬推年卡（呼应人设）
+3. **选题库滚动**：把评论区高频问题沉淀成选题表，每周补2条
+4. **人设一致性**：所有视频保留"较真/上手/小班/不卖年卡"至少一个标签
+5. **转化路径**：短视频 → 体验课 → 小班/私教/教培，分层承接
+6. **数据复盘**：每周看3秒完播率与评论互动，保留高效钩子模板
+
+
+## ⑦ 可复制的爆款内容结构（万能模板）
+
+### 模板A：痛点纠正型（干货主力）
+```
+【钩子 0–3s】"如果你____（痛点场景），先别____，你可能练反了。"
+【共情 3–8s】"我带过太多这样的学员，一进来就说____。"
+【拆解 8–30s】"问题在这——（讲肌肉/呼吸/动作），你看这里变形了。"
+【上手示范 30–45s】"我会这样把手搭上去，帮她调回来。"
+【口头禅 45–50s】"练对，比练多重要。"
+【引导 50–55s】"你哪里最紧？评论区告诉我。"
+```
+
+### 模板B：故事人设型（信任建立）
+```
+【钩子】"我是被瑜伽救回来的人。"
+【冲突】"腰伤那年，我是跳舞的，以为自己再也动不了。"
+【转折】"是瑜伽一点点把我救回来，所以我教得特别较真。"
+【落点】"宁可慢，不让你练出伤——这是我12年没变过的原则。"
+【引导】"想被认真对待一次，来上节体验课。"
+```
+
+### 模板C：反常识观点型（涨粉破圈）
+```
+【钩子】"我开工作室4年，从来不卖年卡。"
+【反常识】"别人靠年卡锁客，我偏让你先体验。"
+【理由】"冲动消费练不长，合适才练得久。"
+【背书】"小班6个人，我得看得见每个人。"
+【口头禅】"这行是我一辈子的事，不是赚快钱。"
+【引导】"认同的，评论区扣个1。"
+```
+
+### 爆款三原则
+1. **前3秒必给痛点或反常识**，不铺垫
+2. **每条至少一个"人设锚点"**（上手/较真/小班/不卖年卡/来时路）
+3. **结尾必留互动钩子**，把流量导进体验课
+
+
+**文档说明**：本人设文档基于老板真实画像提炼，所有标签、口头禅、选题均来自其原话逻辑，可直接用于账号搭建、脚本撰写与口播执行。建议先按模板A/B/C各拍1条测试，跑出数据后批量复制高效结构。1b:["$","$L21",null,{"agentKey":"voice-profile","messageContent":"$22"}]
+20:null

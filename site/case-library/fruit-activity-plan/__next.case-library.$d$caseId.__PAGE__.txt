@@ -1,0 +1,146 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T70d,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/fruit-activity-plan#article","headline":"社区水果店 · 晚市营销活动策划","description":"营销活动策划真实生成案例：开水果店的，就在这个路口，一干五年，大半条街的邻居都认识我。没啥大本事，就靠个实在厚道。","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/fruit-activity-plan"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/marketing-activity-plan","name":"营销活动策划"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/fruit-activity-plan#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"社区水果店 · 晚市营销活动策划","item":"https://www.laicaiyoufang.com/case-library/fruit-activity-plan"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/marketing-activity-plan","name":"营销活动策划","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/marketing-activity-plan","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"营销活动策划","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"本地生活/服务密集型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"零售"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"社区水果店 · 晚市营销活动策划"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"开水果店的，就在这个路口，一干五年，大半条街的邻居都认识我。没啥大本事，就靠个实在厚道。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"卖时令水果、果切、现榨果汁，也搭点干果零食。水果都是当季的，进啥卖啥。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"附近居民和过路的，下班顺路买的特别多。天热时果切果汁走得快。"}]]}]]}]
+10:T1d2e,# 营销活动策划方案
+
+## 基本信息
+- **活动目的**：拉新 + 促活 + 裂变（顺带带成交）
+- **活动平台**：微信群 + 朋友圈 + 线下场地
+
+
+## 一、活动主题
+
+**主题名称**：【街坊水果日·第五年老店请你吃】
+**主题口号**：这条街我卖了五年水果，今天想请100个邻居免费吃一口，你敢来吗？
+**调性说明**：热乎、实在、不整虚的。就像街坊串门，主打一个"老板人厚道、水果新鲜、价格不坑人"。不搞花里胡哨的营销腔，全是街里街坊的人情味儿。
+
+
+## 二、活动形式与机制
+
+**推荐形式**：线下"免费尝鲜"引流 + 微信群"街坊福利群"沉淀 + 转发裂变解锁福利 + 限时果切果汁特价成交
+
+**参与规则**：
+1. **到店免费尝**：活动期间到店，报"街坊水果日"，免费领一份当日果切小份（价值5-8元，成本可控，每人限领1次）。扫码进"街坊水果福利群"即可领取。
+2. **转发解锁福利**：把活动海报/朋友圈转发到自己的朋友圈或小区群，截图给老板，额外解锁"果汁第二杯半价"或"满20减5"券一张。
+3. **老带新裂变**：老客带1位新邻居进群，双方各得一张"5元无门槛券"（下次消费可用，7天有效）。
+4. **限时成交**：活动期间每天下午5-7点（下班高峰），果切+果汁组合特价"10元套餐"（原价14-15元），只限群里街坊。
+
+**奖励机制**：
+- 新客：免费果切小份 + 进群即得新人券
+- 转发者：果汁半价券/满减券
+- 推荐人+被推荐人：各得5元无门槛券
+- 群内每日抽3人送"当日鲜果一份"（促活+保持群热度）
+
+
+## 三、分平台话术
+
+### 微信群话术
+
+**群公告模板**：
+> 街坊们好！我是路口水果店的老[姓]，在这条街卖了五年水果，感谢大伙儿照顾。
+> 这周搞个"街坊水果日"——到店免费领一份果切，进群就能领，不玩套路。
+> 群里每天下午5点发"下班特价"，果切果汁10元套餐，就限咱群里的邻居。
+> 规矩就一条：实在。水果不新鲜你拿回来，我退。🙏
+
+**邀请进群话术**（到店领果切时）：
+> "姐/哥，果切拿着，顺手扫个码进咱街坊群呗。群里每天下午有下班特价，比店里便宜，就咱这条街的人。不刷屏，就发发当天啥新鲜、啥特价。"
+
+**每日互动话题**（下午发，配合特价）：
+> "今天到的[水果名]特别甜，我先替大伙儿尝了一个😋 下午5点群里发特价套餐，想要的扣个1，我给你们留着。"
+
+**活动规则说明**：
+> "简单说三件事：①到店报'街坊水果日'免费领果切；②转发朋友圈截图给我，果汁第二杯半价；③带个新邻居进群，你俩各得5元券。就这，没别的套路。"
+
+**成交引导话术**：
+> "今天果切就备了30份，群里先到先得哈。下班路过的直接说'群里的'，我给你留好。"
+
+
+### 朋友圈系列文案
+
+**预热文案**（活动前2天）：
+> 在这路口卖了五年水果，认识了大半条街的邻居。
+> 这周想请大家免费吃口果切，不为别的，就想多认识几个新街坊。
+> 后天开始，到店报"街坊水果日"就送。老邻居们帮我转告一声🙏
+
+**开始文案**（活动第1天）：
+> 开送了！到店报"街坊水果日"，免费领一份果切，进群就能拿。
+> 今天备了50份，先到先得。
+> 地址就是路口这家开了五年的水果店，认准我这个厚道老板😄
+
+**进行中文案**（活动中期）：
+> 第三天了，群里已经进了80多个街坊。
+> 说个实在的：下午5-7点群里发10元果切+果汁套餐，比单买省四五块。
+> 下班顺路的，进群瞅一眼，不亏。
+
+**倒计时文案**（活动最后2天）：
+> 街坊水果日还剩最后2天。
+> 免费果切、果汁半价、带邻居各得5元券——过了这村没这店。
+> 还没进群的邻居抓紧，群里每天下午还有特价。
+
+**结束文案**（活动结束）：
+> 街坊水果日圆满收摊，谢谢大伙儿捧场！
+> 群我留着，以后每天下午照发下班特价，水果新鲜不新鲜群里先说。
+> 没赶上的邻居别急，进群照样有福利。这条街，咱慢慢处🙏
+
+
+### 线下场地话术
+
+**活动流程安排**：
+- 店门口摆一张小桌，放试吃果切盘 + 活动海报（手写大字最接地气）
+- 顾客路过/进店 → 主动招呼"街坊水果日，免费尝一份" → 递果切 → 引导扫码进群 → 介绍转发/带新福利 → 顺势推下午特价套餐
+
+**现场互动环节设计**：
+- "猜甜度"小游戏：猜中今日主打水果甜度，送果汁一杯（成本低、有人气、适合拍视频发群）
+- 下午5点现场摆"下班特价"牌，营造"就这会儿便宜"的氛围
+
+**签到引导话术**：
+> "来，果切拿着先尝。顺手扫个码进咱街坊群，以后每天下午有特价，就咱这条街的人。"
+
+**现场成交话术**：
+> "尝尝这个[水果]，今早刚到的，甜得很。下午5点群里发10元套餐，果切加果汁，单买得十四五块。你现在进群，5点直接来拿就行。"
+
+
+## 四、活动时间规划
+
+- **预热期**：2天（动作：朋友圈发预热文案、店里贴手写海报、老客口头预告；目标：让老邻居知道、攒一波期待）
+- **活动期**：5天（节奏：每天上午备货+发群互动，下午5-7点发特价套餐冲成交，每天群里抽3人送鲜果保持热度；关键节点：第1天开送造势、第3天中期晒群人数、第5天最后冲刺）
+- **收尾期**：2天（动作：发结束感谢文案、群内转为日常运营、私聊回访领券未用的街坊、复盘数据）
+
+
+## 五、执行SOP清单
+
+**Day -2**：写活动海报（手写大字）、朋友圈发预热文案、跟熟客口头预告"这周有活动"
+**Day -1**：备好果切原料和试吃份、建好"街坊水果福利群"、把海报摆到店门口、朋友圈再发一条提醒
+**Day 1**：开送！主动招呼每个进店/路过的人、引导扫码进群、下午5点发首条特价、群里抽3人送鲜果、晚上发朋友圈"开始文案"
+**Day 2**：维持免费尝鲜+进群、下午发特价、群里互动话题、记录进群人数
+**Day 3**：发"进行中"朋友圈晒群人数造势、重点推转发裂变（果汁半价）、下午特价照常
+**Day 4**：推"带新邻居各得5元券"、群里提醒券的使用、下午特价
+**Day 5**：最后冲刺！朋友圈发倒计时、群里强调"最后一天"、下午特价加量、晚上发结束感谢文案
+**Day 6-7**：私聊回访领了券没用的街坊、群转为日常"每天下午特价"运营、复盘：进群多少人、核销多少券、成交多少单
+
+
+## 六、效果预估
+
+- **预估参与**：到店尝鲜 150-250人次，进群 100-150人（按社区小店辐射范围保守估）
+- **预估转化**：新客首次成交率 40-50%（免费尝+特价套餐降低决策门槛），券的二次核销率 30-40%
+- **关键指标**：进群人数、果切/果汁套餐日均销量、优惠券发放数与核销率、老带新成功数、活动期日均营业额对比平时增幅
+
+---
+
+**一句实在话**：你这店最大的本钱就是"五年老店+厚道"这个人设，活动别整复杂，把"免费尝一口"和"进群有特价"这两件事做扎实，街坊自然帮你传。群里养住了，往后每天下午的下班特价就是你的稳定流水。b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["营销活动策划"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","营销活动策划方案",{"className":"text-slate-200","children":["$","a",null,{"href":"#营销活动策划方案","className":"hover:text-violet-400 transition-colors","children":"营销活动策划方案"}]}],["$","li","基本信息",{"className":"text-slate-200","children":["$","a",null,{"href":"#基本信息","className":"hover:text-violet-400 transition-colors","children":"基本信息"}]}],["$","li","一活动主题",{"className":"text-slate-200","children":["$","a",null,{"href":"#一活动主题","className":"hover:text-violet-400 transition-colors","children":"一、活动主题"}]}],["$","li","二活动形式与机制",{"className":"text-slate-200","children":["$","a",null,{"href":"#二活动形式与机制","className":"hover:text-violet-400 transition-colors","children":"二、活动形式与机制"}]}],["$","li","三分平台话术",{"className":"text-slate-200","children":["$","a",null,{"href":"#三分平台话术","className":"hover:text-violet-400 transition-colors","children":"三、分平台话术"}]}],["$","li","微信群话术",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#微信群话术","className":"hover:text-violet-400 transition-colors","children":"微信群话术"}]}],["$","li","朋友圈系列文案",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#朋友圈系列文案","className":"hover:text-violet-400 transition-colors","children":"朋友圈系列文案"}]}],["$","li","线下场地话术",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#线下场地话术","className":"hover:text-violet-400 transition-colors","children":"线下场地话术"}]}],["$","li","四活动时间规划",{"className":"text-slate-200","children":["$","a",null,{"href":"#四活动时间规划","className":"hover:text-violet-400 transition-colors","children":"四、活动时间规划"}]}],["$","li","五执行sop清单",{"className":"text-slate-200","children":["$","a",null,{"href":"#五执行sop清单","className":"hover:text-violet-400 transition-colors","children":"五、执行SOP清单"}]}],["$","li","六效果预估",{"className":"text-slate-200","children":["$","a",null,{"href":"#六效果预估","className":"hover:text-violet-400 transition-colors","children":"六、效果预估"}]}]]}]]}],["$","$Lf",null,{"agentKey":"marketing-activity-plan","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["营销活动策划","是什么"]}],["$","p",null,{"children":["这是一个面向“","零售","”行业的","营销活动策划","应用案例：","开水果店的，就在这个路口，一干五年，大半条街的邻居都认识我。没啥大本事，就靠个实在厚道。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","营销活动策划是来财有方AI「成交转化」分类下的一款 AI 智能体，基于画像 + 活动目的，策划一套完整可执行的营销活动方案，从主题、玩法、激励到执行节奏，帮你把\"搞活动\"这件事想清楚、做落地。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","卖时令水果、果切、现榨果汁，也搭点干果零食。水果都是当季的，进啥卖啥。","，主要客群是","附近居民和过路的，下班顺路买的特别多。天热时果切果汁走得快。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多老板做活动凭感觉，要么没主题没重点、要么执行混乱效果差。这个智能体解决的是活动策划不系统的问题，产出主题明确、流程清晰、有转化钩子的完整方案。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","开水果店的，就在这个路口，一干五年，大半条街的邻居都认识我。没啥大本事，就靠个实在厚道。","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁）+ 活动目的（拉新、促活、清库存、冲销量、回款等）与预算/时间等约束条件。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","营销活动策划","输出的是面向","附近居民和过路的，下班顺路买的特别多。天热时果切果汁走得快。","的落地方案（见上文“生成结果”），整体能力为：","输出一份完整营销活动方案：活动主题与创意、目标人群与诱因、具体玩法规则、引流与转化路径、物料与话术、执行节奏安排与效果评估指标。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","本地生活/服务密集型","、","零售","）类似的经营者都适用：","适合需要做营销活动但缺系统思路的实体门店、电商、品牌方、教培、餐饮、美业等行业的老板与市场/运营负责人。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","营销活动策划","已内置对应的行业方法轮与输出规范，能结合“","卖时令水果、果切、现榨果汁，也搭点干果零食。水果都是当季的，进啥卖啥。","、","附近居民和过路的，下班顺路买的特别多。天热时果切果汁走得快。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让大模型\"想个活动点子\"——而是从目的出发，把主题、玩法、激励、执行、评估串成一套可落地执行的完整方案，拿来就能照着安排团队执行。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/marketing-activity-plan","children":["立即试用","营销活动策划"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","营销活动策划"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/marketing-activity-plan","agentName":"营销活动策划"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

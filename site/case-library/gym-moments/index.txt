@@ -1,0 +1,186 @@
+1:"$Sreact.fragment"
+b:I[26260,[],""]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/b25c64b506c1045b.css","style"]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/502df0824a283b6e.css","style"]
+2:T1195,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.laicaiyoufang.com/#organization","name":"来财有方AI","alternateName":"来财有方丨AI增长社区","url":"https://www.laicaiyoufang.com","logo":{"@type":"ImageObject","@id":"https://www.laicaiyoufang.com/#logo","url":"https://www.laicaiyoufang.com/logo.png","contentUrl":"https://www.laicaiyoufang.com/logo.png","width":640,"height":640,"encodingFormat":"image/png"},"description":"帮老板和一人公司AI落地/增长有方的实战社群","image":{"@id":"https://www.laicaiyoufang.com/#logo"},"foundingDate":"2024-11-17","founder":{"@id":"https://www.laicaiyoufang.com/#founder"},"knowsAbout":["AI落地","一人公司","新媒体增长","GEO优化","AI智能体"],"affiliation":[{"@type":"Organization","name":"火山引擎"},{"@type":"Organization","name":"腾讯Workbuddy"}],"sameAs":["https://t.zsxq.com/j6naI","https://www.douyin.com/user/MS4wLjABAAAAAUewz1skyA2ocMhuUVpsk038bq_v4pzRW2sS2k3PKOA","https://www.xiaohongshu.com/user/profile/581f00cd5e87e7260b053fe2"],"contactPoint":{"@type":"ContactPoint","contactType":"customer service","availableLanguage":"Chinese","name":"微信客服 Laicai202206"}},{"@type":"Person","@id":"https://www.laicaiyoufang.com/#founder","name":"萌社长","alternateName":"何萌","url":"https://www.laicaiyoufang.com/about-meng","jobTitle":"AI+场景化专家、一人公司导师、创业者","description":"前500强高管 · 团中央十佳创业青年 · AI天使投资人 · AI产品极客 · FDE专家，1V1赋能创始人600+，学员5000+，矩阵粉50万+","worksFor":{"@id":"https://www.laicaiyoufang.com/#organization"},"sameAs":["https://www.douyin.com/user/MS4wLjABAAAAAUewz1skyA2ocMhuUVpsk038bq_v4pzRW2sS2k3PKOA","https://www.xiaohongshu.com/user/profile/581f00cd5e87e7260b053fe2","https://t.zsxq.com/j6naI"],"knowsAbout":["AI","创业","新媒体","增长","AI智能体","一人公司","社群运营","企业服务"],"award":["2005年全国十佳创业青年","团中央十佳创业青年故事奖"],"alumniOf":{"@type":"CollegeOrUniversity","name":"武汉理工大学"},"citation":[{"@type":"NewsArticle","headline":"校友何萌返校开讲：AI赋能一人公司 解锁青年创业新可能","datePublished":"2026-05-08","url":"http://sen.whut.edu.cn/xyxw/202605/t20260514_1398856.shtml","publisher":{"@type":"Organization","name":"武汉理工大学创业学院"}},{"@type":"NewsArticle","headline":"全国十佳创业青年来校畅谈创业心路","datePublished":"2006-04-24","url":"https://news.hust.edu.cn/info/1004/27802.htm","publisher":{"@type":"Organization","name":"华中科技大学新闻网"}},{"@type":"NewsArticle","headline":"光谷出现一批OPC个人投资者：用AI传授经验，帮忙找客户，有的已获90多万分红","datePublished":"2026-04-14","url":"https://news.hubeidaily.net/pc/c_5384889.html","publisher":{"@type":"Organization","name":"湖北日报"}},{"@type":"Book","name":"互联网之达芬奇密码","author":"Mull He","isbn":"9787121135262","datePublished":"2011-06","url":"https://book.douban.com/subject/6429783/","publisher":{"@type":"Organization","name":"电子工业出版社"}}]},{"@type":"Service","name":"AI智能体平台","url":"https://www.laicaiyoufang.com/ai-agents","description":"39+垂直领域AI智能体，覆盖一人公司定位、AI+IP打造、GEO优化、获客增长、新媒体内容创作等场景","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"Service","name":"OPC实战训练营","url":"https://www.laicaiyoufang.com/ai-opc-training","description":"2天深度面对面实战训练营，AI+一人公司创业实战全流程","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"Service","name":"线上AI实战课","url":"https://www.laicaiyoufang.com/classroom","description":"不间断AI增长直播课与录播课，三大课程体系","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"Service","name":"导师矩阵","url":"https://www.laicaiyoufang.com/mentors","description":"58位AI/新媒体领域实战专家，覆盖AI智能体、销售、内容、投资等维度","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"WebSite","@id":"https://www.laicaiyoufang.com/#website","url":"https://www.laicaiyoufang.com","name":"来财有方AI","description":"帮老板和一人公司AI落地/增长有方","publisher":{"@id":"https://www.laicaiyoufang.com/#organization"}}]}0:{"P":null,"b":"jlVlrff87Jr28zBereNHo","c":["","case-library","gym-moments",""],"q":"","i":false,"f":[[["",{"children":["case-library",{"children":[["caseId","gym-moments","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/laicaiyoufang-ui-preview/_next/static/css/b25c64b506c1045b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/laicaiyoufang-ui-preview/_next/static/css/502df0824a283b6e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":[["$","head",null,{"children":[["$","meta",null,{"name":"robots","content":"noindex,nofollow"}],["$","link",null,{"rel":"llms","href":"/laicaiyoufang-ui-preview/llms.txt"}],["$","link",null,{"rel":"llms-full","href":"/laicaiyoufang-ui-preview/llms-full.txt"}]]}],["$","body",null,{"className":"antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],false,"$L3","$L4","$L5","$L6"]}]]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+c:"$Sreact.suspense"
+d:I[1316,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"UserProvider"]
+e:I[49842,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"LoginModal"]
+f:I[84630,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"ConfirmDialogProvider"]
+10:I[11512,[],""]
+11:I[86766,[],""]
+12:I[98264,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"default"]
+13:I[50156,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"Toaster"]
+15:I[23349,[],"OutletBoundary"]
+17:I[23349,[],"ViewportBoundary"]
+19:I[23349,[],"MetadataBoundary"]
+3:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){\n  if (window.__lcPreviewFetchInstalled) return;\n  window.__lcPreviewFetchInstalled = true;\n  const base = \"/laicaiyoufang-ui-preview\";\n  const originalFetch = window.fetch.bind(window);\n  const isApi = function(input) {\n    try {\n      const raw = typeof input === 'string' ? input : input instanceof URL ? input.href : input.url;\n      const url = new URL(raw, window.location.href);\n      const pathname = base && (url.pathname === base || url.pathname.indexOf(base + '/') === 0) ? url.pathname.slice(base.length) : url.pathname;\n      return /^\\/api(?:\\/|$)/.test(pathname);\n    } catch (_) { return false; }\n  };\n  window.fetch = function(input, init) {\n    if (isApi(input)) return Promise.resolve(new Response(JSON.stringify({success:false,error:'当前为界面预览，AI、登录、支付及实时数据需连接原服务。',code:'UI_PREVIEW_DISCONNECTED'}),{status:503,statusText:'Service Unavailable',headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'}}));\n    return originalFetch(input,init);\n  };\n})();"}}]
+4:["$","$c",null,{"fallback":["$","div",null,{"style":{"padding":40,"color":"#777"},"children":"正在载入界面…"}],"children":["$","$Ld",null,{"children":[["$","$Le",null,{}],["$","$Lf",null,{"children":["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]
+5:["$","$L12",null,{}]
+6:["$","$L13",null,{"position":"top-center","richColors":true}]
+7:["$","$1","c",{"children":[null,["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],null]}]
+1c:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+1b:T6ff,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/gym-moments#article","headline":"私教工作室 · 强人设朋友圈文案","description":"强人设朋友圈真实生成案例：我开了一家小型私教工作室，之前在大连锁健身房干了五年，见过太多人办了卡就不来了。后来决定自己出来做，就带十几个固定的学员","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/gym-moments"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/moments-agent","name":"强人设朋友圈"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/gym-moments#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"私教工作室 · 强人设朋友圈文案","item":"https://www.laicaiyoufang.com/case-library/gym-moments"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/moments-agent","name":"强人设朋友圈","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/moments-agent","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]14:["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1b"}}],["$","$L1c",null,{"title":"强人设朋友圈","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"本地生活/服务密集型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"健身瑜伽"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"私教工作室 · 强人设朋友圈文案"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L1d","$L1e","$L1f","$L20","$L21","$undefined"]}],"$L22"]}],"$L23"]}]}],"$L24","$L25","$L26"]}]]}]
+27:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+29:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+2a:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+1d:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+1e:["$","path","1olli1",{"d":"M20 3v4"}]
+1f:["$","path","1gvqau",{"d":"M22 5h-4"}]
+20:["$","path","vumght",{"d":"M4 17v2"}]
+21:["$","path","zchphs",{"d":"M5 18H3"}]
+22:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+23:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我开了一家小型私教工作室，之前在大连锁健身房干了五年，见过太多人办了卡就不来了。后来决定自己出来做，就带十几个固定的学员，每一个我都亲自带。我自己也一直保持训练，不练就浑身难受，所以身材这一块就是我的活招牌。我话不多，但一旦开始带课就很认真，会盯着你的动作。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"主要卖一对一私教和少量的两人小课。不是那种给你排满课让你囤课的，我是按目标来定计划：减脂的、增肌的、产后恢复的、体态矫正的，各有各的练法。我会定期给学员做体测，用数据说话，而不是光靠嘴说「有效果」。另外也做营养建议，教你吃，不让你饿肚子瞎减。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"学员基本都是二十到四十岁的上班族，有想减脂的、有想改善体态的、也有产后想恢复身材的姐姐。他们共同点是之前被各种「速成」坑过，现在更信持续练出来的结果。大多是时间紧、目标明确的人，要的是有人盯着、有反馈、能真的改变。"}]]}]]}]
+28:T3bec,# 朋友圈文案报告
+
+
+## 第一部分：开场白与深度分析
+
+【朋友圈是私域信任与静默成交唯一载体，不用怕发多刷屏。这是强人设兑现系统中的IP元故事标签法，价值先行、信任为王，为您构建一个有血有肉、立体人设、且能吸引目标客户自动成交的私域朋友圈。
+
+2大核心价值：
+- 造人设、攒信任：不发朋友圈 = 客户完全不了解你是谁、做什么、能提供什么价值，无信任就无成交；
+- 静默成交媒介：低客单直接下单；高客单靠长期种草、反复触达，等待用户主动拔草，不需要频繁私聊推销，靠内容饱和渗透完成转化，群响千万级营收核心来自朋友圈持续种草。
+
+以下是按照 群响N边形策略 为您生成的朋友圈内容，包括：连续剧、混合真日常、超级钩子、获得感怼货、发大愿·即兴模式】
+
+
+### 深度分析
+
+**人设定位拆解：**
+你是一个"反行业套路"的实战派私教——五年大连锁经验让你看透了办卡不来的行业病灶，出来单干后只带十几个学员、每个亲自盯。你的核心差异化是：**不囤课、不速成、用数据说话、按目标定制**。你的人设关键词是"话少、认真、盯动作、自己就是活招牌"。
+
+**目标客户心理画像：**
+20-40岁上班族，被"速成""七天瘦十斤"坑过，现在不信嘴、只信结果。他们时间紧、目标明确，最怕的是"交了钱没人管"。他们需要的不是一个健身房，是一个**盯着他、给他反馈、让他真的变**的人。
+
+**内容策略核心：**
+- 用"连续剧"展示你带学员从0到出结果的全过程，让潜在客户追着看、对号入座；
+- 用"真日常"立住你"话少但认真、自己天天练"的鲜活人设；
+- 用"获得感怼货"把体测数据、动作纠正、饮食方案变成干货，让客户看完觉得"这人真懂"；
+- 用"超级钩子"和"发大愿"完成低门槛互动和价值观共鸣，静默筛选精准客户。
+
+
+## 第二部分：22条朋友圈文案
+
+
+### 一、连续剧（3条）
+
+**1.**
+带张姐第6周了。她产后14个月，来的时候说"肚子收不回去，抱娃腰疼得直不起来"。第一周我没让她跑没让她跳，就练呼吸和骨盆底肌，她当时还嘀咕"这能瘦吗"。第3周体测，腰围掉了4cm，她自己都愣了。今天做核心激活，她做完跟我说："教练，我今天抱娃上楼腰没疼。"我没多说，就记了一笔。这种反馈比体重秤上掉几斤值钱多了。产后恢复不是饿出来的，是先把身体该修的地方修好。
+
+**2.**
+小李第4周，减脂的。第一周他跟我说"我以前办过三年卡，去了不到十次"。我没接话，直接给他排了每周三练的计划，每节课我盯着他做完，动作不对就停。今天体测出来，体脂从24%到21.3%，肌肉量没掉。他盯着报告看了半天说"我居然真能坚持"。其实哪是他坚持，是有人盯着、有数据反馈，人就不容易糊弄自己。下周开始给他加营养调整，他中午老吃外卖，得管管。
+
+**3.**
+王哥第8周，体态矫正的。他来的时候圆肩驼背，说"坐一天办公室脖子跟断了一样"。前两周我几乎没让他碰重量，全在做胸椎灵活性和肩胛稳定，他一度怀疑"这算练吗"。第5周他开始能标准做划船了，今天拍了个侧面照对比，肩膀打开了，头也不往前探了。他自己说"同事说我最近看着精神了"。体态这事儿急不得，先把该松的松、该强的强，人自然就立起来了。下周给他加推的动作。
+
+
+### 二、混合真日常（13条）
+
+#### 生活日常（5条）
+
+**4.**
+今天休息日，还是去练了一小时。有人问我"你天天练不累吗"，说实话，不练才累。练了十年了，身体已经习惯这个节奏，停两天就浑身发紧、睡不踏实。我不是自律，是上瘾。带学员的时候我也常说，别把训练当任务，当成你身体需要的东西，它才留得住。今天练完背，洗个澡，下午去菜市场买点鸡胸和西兰花，日子就这么过。
+
+**5.**
+昨天晚上跟我妈打电话，她说"你那个工作室就带十几个人，能挣着钱吗"。我说够花，而且踏实。她不懂什么叫私教，但她知道我每天早出晚归、学员还老给她儿子介绍新学员。挂了电话我想，人这一辈子能把一件事做明白就不错了。我不擅长推销、不会搞花里胡哨的活动，就会带人练、盯动作、看数据。慢是慢了点，但每个学员的变化我都看得见。
+
+**6.**
+周末去爬了个山，来回四个小时。路上遇到个大哥，五十多了，肚子挺大，喘得厉害，跟我说"年轻时候也练过，后来忙就放下了"。我笑笑没多说。下山时候想，其实大部分人都不是不想练，是没人陪着、没人管着，一忙就断了。我工作室那十几个学员，说白了就是花钱买了个"有人盯着"。这事儿不丢人，人本来就需要外部约束。
+
+**7.**
+今天早上五点半起来，天还没亮，去工作室先把器械擦了一遍、垫子归位。我这人有点强迫症，东西必须摆整齐，学员来了看着也舒服。六点半第一个学员到，练完八点，我坐下来吃个早饭。有人觉得开工作室自由，其实比上班起得还早。但我不烦，因为每一分钟都是自己的，带的每个人我都认识、都上心。这种踏实感，在大健身房那五年是没有的。
+
+**8.**
+昨晚翻手机相册，翻到五年前在大健身房带课的照片，那时候一天排七八节课，学员换了一茬又一茬，好多人我连名字都记不住。现在工作室就十几个人，每个人的目标、伤病史、爱吃啥我都门儿清。张姐产后、小李减脂、王哥体态，谁这周该加量谁该减量，心里都有数。人少了，反而带得更细。我这人就这样，做不了流水线，就适合小而精。
+
+#### 工作日常（8条）
+
+**9.**
+今天给一个新学员做初始评估，测完体成分、做了几个基础动作筛查，发现他深蹲膝盖内扣得厉害，自己完全没感觉。我让他对着镜子做了一遍，他才"哦"了一声。很多人练了半天没效果甚至练出伤，就是因为没人给看动作。我这人话不多，但带课时候眼睛一直盯着你，哪儿不对立刻停。动作对了，效果才谈得上，不然都是白费劲。
+
+**10.**
+上午连着三节课，中间就喝了口水。有人劝我"你少带点，多招点人排课"。我不想。我这工作室就十几个固定学员，每个我都亲自带，多了我带不过来、也盯不细。上周有个学员想加课，我说你这周先按计划来，加多了恢复不过来反而掉状态。他不高兴，但我得对结果负责。囤课、排满课那种事，我在大健身房见太多了，最后都是学员吃亏。
+
+**11.**
+今天体测日，给三个学员测了数据。小李体脂又降了，张姐腰围继续掉，王哥的体态照片对比越来越明显。我把数据整理好发给他们，附一句"这周继续保持"。有人问我为啥老测体测，我说因为嘴会骗人、感觉会骗人，数据不会。学员练了两周觉得"好像没变化"，一测发现肌肉涨了、脂肪掉了，信心立马回来。做私教，得让学员看得见进步，不然坚持不下去。
+
+**12.**
+下午没课，我把几个学员的训练计划重新捋了一遍。张姐产后满三个月了，可以加一点低强度力量；小李减脂进入平台期，得调一下碳水的时机；王哥体态改善不错，推的动作可以加进去。每个人的计划都不一样，因为目标不一样、身体底子不一样。我最烦那种一套模板发给所有人的做法，人是活的，计划就得跟着人调。这也是我为啥只带十几个人的原因，多了真调不过来。
+
+**13.**
+今天有个学员问我："教练，我能不能不控制饮食，光练？"我说能，但你得接受效果慢一半。他想了想说那还是管管嘴吧。我给他列了个简单的吃法，没让他饿肚子，就是把外卖换成能自己搭配的、把奶茶换成无糖的。减脂不是受罪，是换个吃法。我从不给学员搞什么断食、代餐那一套，饿出来的瘦留不住，还把代谢搞坏了。吃对了，练才有意义。
+
+**14.**
+晚上整理这周的学员反馈，有个姐们儿给我发消息说"教练，我今天穿去年那条裤子，能扣上了"。就这一句话，我看了好几遍。做私教这行，最爽的不是收了多少钱，是学员真的变了、还回来告诉你。我这人不太会说漂亮话，学员出结果我就记下来，下次课该怎么练还怎么练。改变这事儿，是练出来、吃出来、熬出来的，不是夸出来的。
+
+**15.**
+今天工作室来了个咨询的，一进门就问"多久能瘦十斤"。我说这个我没法给你保证，得看你现在的底子、能投入多少时间、饮食配合到什么程度。他有点失望。我接着说，我能保证的是每次课我亲自带、动作给你盯到位、每两周体测一次看数据、计划跟着你调。他沉默了一会儿说"那我先试试"。我不忽悠人，速成那种话我说不出口，但只要你肯练，我陪你把结果练出来。
+
+**16.**
+今天把工作室的体测设备校准了一下，又添了个新的体态评估工具。有人觉得小工作室没必要投这些，我不这么想。带人练不能光凭眼睛和经验，得有数据支撑。学员来了先测、练一段再测，前后一对比，哪儿进步了哪儿卡住了，一目了然。我这人做事就这样，话可以少说，但该做的功课一样不能少。设备不贵，但能让学员心里有底，值。
+
+
+### 三、超级钩子（2条）
+
+**17.**
+【限5个名额】最近好几个学员问我"教练，我这种情况到底该先减脂还是先练力量"。我干脆整理了一份《上班族训练方向自测表》，把减脂、增肌、体态、产后几类常见情况的判断标准和起步练法都写进去了，都是我这几年带人总结的实战东西。评论区扣"自测"，我私发给你。就准备发前5个，多了我回不过来，见谅。
+
+**18.**
+【本周福利】工作室这个月新到一台体成分+体态评估的设备，我打算拿出3个免费评估名额给朋友圈的朋友。来一趟，测完我给你讲清楚：你现在的身体数据是什么水平、你的目标该怎么拆、大概需要多久、饮食怎么配合。不推销、不办卡，就是一次实打实的评估。想要的私信我"评估"，按先后顺序来，3个名额满了就等下次。
+
+
+### 四、获得感怼货（2条）
+
+**19.**
+上周有个学员跟我说，他之前在某连锁办了年卡，还请了私教，结果教练每节课就让他跑步、做做器械，三个月下来膝盖还疼了。我给他做了个动作筛查，发现他深蹲时膝盖内扣、足弓塌陷，根本原因是臀中肌无力。我没让他继续跑，先练了两周臀中肌激活和足弓稳定，膝盖不疼了才开始加负重。三个月，体脂降了5个点，膝盖一次没疼过。很多人不是不努力，是练错了方向。私教的价值不在陪你练，在帮你找对方向、盯住细节。我这工作室就干这个的。
+
+**20.**
+经常有人问我减脂到底怎么吃。我说个真事：之前一个学员，自己减的时候天天水煮菜，瘦了八斤，结果一恢复正常吃饭全反弹回来，还比以前更胖。我接手后没让她饿着，三餐照吃，就是把精制碳水换成粗粮、把炒菜换成少油的做法、每天保证蛋白质够。她一开始不信"吃这么多能瘦"，我说你信我两个月。结果两个月掉了六斤，关键是没反弹、精神还好。减脂的核心不是少吃，是吃对。饿出来的瘦是借的，迟早要还。这个道理我逢人就讲，因为踩坑的人太多了。
+
+
+### 五、发大愿·即兴模式（2条）
+
+**21.**
+今天刷到一个视频，说"健身是反人性的"。我不太同意。人天生就需要动，只是现代生活把动这件事给剥夺了。你看小孩，跑一天都不累；是我们坐久了、躺久了，才觉得动起来难受。我带学员常说，别跟身体对抗，顺着它来——它需要动，你就给它动；它需要恢复，你就让它歇。练了十年我最大的体会是：身体不骗人，你怎么对它，它就怎么还你。这话我想说给每一个觉得自己"坚持不下来"的人听。
+
+**22.**
+晚上收工，坐在工作室里想了个事。我这工作室不大，就十几个学员，但我希望每个来的人，走的时候带走的不是一个"办了卡"的身份，而是一个能自己练、自己吃、自己管好自己的身体。我不可能带你一辈子，但我能在这几个月里把该教你的都教给你：动作怎么做对、饭怎么吃对、身体信号怎么读。等我带完你，你离开我也能练下去，那才叫真本事。这大概就是我开这个小工作室的意义——不卖课，教人练。
+
+
+## 第三部分：发布节奏建议
+
+**1. 每日发布下限：6条起**
+低于3条等于没发，微信信息流不会稳定触达好友。6条是兼顾产出压力和曝光效率的舒适区间。你手上有十几个学员的真实素材，连续剧和获得感内容不愁没东西写，日常随手拍、随手记就能攒出来。
+
+**2. 碎片化随时发，不集中堆发**
+全天均匀分散，核心流量窗口：**早8点（通勤）、午12点（午休）、下午3点（摸鱼）、晚7-11点（睡前刷手机高峰）** 。建议每天这样搭配：
+- 早8点：工作日常或生活日常（轻量、有温度，开启一天）；
+- 午12点：获得感怼货或连续剧（有干货、有进展，午休看得进去）；
+- 下午3点：工作日常（专业度展示）；
+- 晚7-8点：连续剧或生活日常（追更感、真实感）；
+- 晚9-10点：超级钩子或发大愿（互动、共鸣，睡前情绪最软）；
+- 睡前补一条：生活日常或发大愿（收尾，留余味）。
+
+**3. 持续在场，做"蹲坑读物"**
+别指望单条爆赞，重点是长期阅读。朋友圈是信任存钱罐——你今天发的一条体测数据、一句学员反馈，可能三个月后某个想练的人翻到，就来找你了。持之以恒比偶尔爆发重要得多。你话少、认真的人设，恰恰适合这种"不吵不闹、天天在场"的发法，时间长了，朋友圈里想练的人第一个想到的就是你。
+
+**4. 类型配比参考（每周）**
+- 连续剧：2-3条（跟着学员真实进展走，有结果就发）；
+- 生活日常：3-4条（训练、吃饭、休息、家人，随手记）；
+- 工作日常：5-6条（体测、调计划、动作纠正、学员反馈）；
+- 获得感怼货：1-2条（把一个真实案例写成干货故事）；
+- 超级钩子：1条（福利/资料，控制频率，保持稀缺感）；
+- 发大愿：1-2条（有想法、有金句就即兴发）。
+
+**5. 一条铁律**
+每条成交类内容（钩子、怼货）都必须捆绑干货价值，不单纯叫卖。你最大的优势是"真实学员+真实数据+真实变化"，把这些讲透，客户自己会来找你。24:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["强人设朋友圈"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","朋友圈文案报告",{"className":"text-slate-200","children":["$","a",null,{"href":"#朋友圈文案报告","className":"hover:text-violet-400 transition-colors","children":"朋友圈文案报告"}]}],["$","li","第一部分开场白与深度分析",{"className":"text-slate-200","children":["$","a",null,{"href":"#第一部分开场白与深度分析","className":"hover:text-violet-400 transition-colors","children":"第一部分：开场白与深度分析"}]}],["$","li","深度分析",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#深度分析","className":"hover:text-violet-400 transition-colors","children":"深度分析"}]}],["$","li","第二部分22条朋友圈文案",{"className":"text-slate-200","children":["$","a",null,{"href":"#第二部分22条朋友圈文案","className":"hover:text-violet-400 transition-colors","children":"第二部分：22条朋友圈文案"}]}],["$","li","一连续剧3条",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#一连续剧3条","className":"hover:text-violet-400 transition-colors","children":"一、连续剧（3条）"}]}],["$","li","二混合真日常13条",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#二混合真日常13条","className":"hover:text-violet-400 transition-colors","children":"二、混合真日常（13条）"}]}],["$","li","生活日常5条",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#生活日常5条","className":"hover:text-violet-400 transition-colors","children":"生活日常（5条）"}]}],["$","li","工作日常8条",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#工作日常8条","className":"hover:text-violet-400 transition-colors","children":"工作日常（8条）"}]}],["$","li","三超级钩子2条",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#三超级钩子2条","className":"hover:text-violet-400 transition-colors","children":"三、超级钩子（2条）"}]}],["$","li","四获得感怼货2条",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#四获得感怼货2条","className":"hover:text-violet-400 transition-colors","children":"四、获得感怼货（2条）"}]}],["$","li","五发大愿即兴模式2条",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#五发大愿即兴模式2条","className":"hover:text-violet-400 transition-colors","children":"五、发大愿·即兴模式（2条）"}]}],["$","li","第三部分发布节奏建议",{"className":"text-slate-200","children":["$","a",null,{"href":"#第三部分发布节奏建议","className":"hover:text-violet-400 transition-colors","children":"第三部分：发布节奏建议"}]}]]}]]}],["$","$L27",null,{"agentKey":"moments-agent","messageContent":"$28","images":"$undefined","contentType":"$undefined"}]]}]
+25:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["强人设朋友圈","是什么"]}],["$","p",null,{"children":["这是一个面向“","健身瑜伽","”行业的","强人设朋友圈","应用案例：","我开了一家小型私教工作室，之前在大连锁健身房干了五年，见过太多人办了卡就不来了。后来决定自己出来做，就带十几个固定的学员，每一个我都亲自带。我自己也一直保持训练，不练就浑身难受，所以身材这一块就是我的活招牌。我话不多，但一旦开始带课就很认真，会盯着你的动作。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","强人设朋友圈是来财有方AI「成交转化」分类下的一款 AI 智能体，基于画像生成能吸引客户、促成自动成交的朋友圈文案，帮你把朋友圈从\"随手发\"变成持续经营客户的信任阵地。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","主要卖一对一私教和少量的两人小课。不是那种给你排满课让你囤课的，我是按目标来定计划：减脂的、增肌的、产后恢复的、体态矫正的，各有各的练法。我会定期给学员做体测，用数据说话，而不是光靠嘴说「有效果」。另外也做营养建议，教你吃，不让你饿肚子瞎减。","，主要客群是","学员基本都是二十到四十岁的上班族，有想减脂的、有想改善体态的、也有产后想恢复身材的姐姐。他们共同点是之前被各种「速成」坑过，现在更信持续练出来的结果。大多是时间紧、目标明确的人，要的是有人盯着、有反馈、能真的改变。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多人发朋友圈要么天天硬广、要么发一堆和工作无关的生活琐事，客户看完无感甚至屏蔽。这个智能体解决的是朋友圈不会经营的问题，让你发的每一条都能建立专业信任、推动成交。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我开了一家小型私教工作室，之前在大连锁健身房干了五年，见过太多人办了卡就不来了。后来决定自己出来做，就带十几个固定的学员","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁）+ 你想经营的内容方向或近期要推的产品/活动，可选补充你的真实日常素材。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","强人设朋友圈","输出的是面向","学员基本都是二十到四十岁的上班族，有想减脂的、有想改善体态的、也有产后想恢复身材","的落地方案（见上文“生成结果”），整体能力为：","输出多条朋友圈文案：覆盖信任建立、价值输出、客户见证、产品种草、日常人设、成交引导等多个类型，节奏有规划、内容不重复，可直接发布。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","本地生活/服务密集型","、","健身瑜伽","）类似的经营者都适用：","适合需要经营私域、靠朋友圈转化客户的老板、微商、门店主、保险/房产/美业/教育等销售型从业者，以及想打造个人信任 IP 的人。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","强人设朋友圈","已内置对应的行业方法轮与输出规范，能结合“","主要卖一对一私教和少量的两人小课。不是那种给你排满课让你囤课的，我是按目标来定计划：减脂的、增肌的、产后恢复的、体态矫正的，各有各的练法。我会定期给学员做体测，用数据说话，而不是光靠嘴说「有效果」。另外也做营养建议，教你吃，不让你饿肚子瞎减。","、","学员基本都是二十到四十岁的上班族，有想减脂的、有想改善体态的、也有产后想恢复身材的姐姐。他们共同点是之前被各种「速成」坑过，现在更信持续练出来的结果。大多是时间紧、目标明确的人，要的是有人盯着、有反馈、能真的改变。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让大模型\"帮我写条朋友圈\"——而是一整套朋友圈经营打法：不同类型的文案按节奏搭配，既不做作刷屏、也不中断信任，产出的是能长期养客、自然成交的内容体系。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/moments-agent","children":["立即试用","强人设朋友圈"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+26:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","强人设朋友圈"," 帮你生成"]}],["$","$L29",null,{"agentPath":"/agent/moments-agent","agentName":"强人设朋友圈"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L2a",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+2b:I[69936,[],"IconMark"]
+16:null
+1a:[["$","title","0",{"children":"私教工作室 · 强人设朋友圈文案 - 案例库 | 来财有方AI"}],["$","meta","1",{"name":"description","content":"强人设朋友圈真实生成案例：我开了一家小型私教工作室，之前在大连锁健身房干了五年，见过太多人办了卡就不来了。后来决定自己出来做，就带十几个固定的学员"}],["$","link","2",{"rel":"author","href":"https://www.laicaiyoufang.com"}],["$","meta","3",{"name":"author","content":"来财有方AI"}],["$","meta","4",{"name":"generator","content":"Next.js"}],["$","meta","5",{"name":"keywords","content":"来财有方,AI增长社区,AI赋能,一人公司,企业家,商业变现,AI智能体,新媒体增长"}],["$","meta","6",{"name":"robots","content":"noindex,nofollow"}],["$","link","7",{"rel":"canonical","href":"https://www.laicaiyoufang.com/case-library/gym-moments/"}],["$","meta","8",{"name":"bytedance-verification-code","content":"2pjSrf9B5R5J51KNHPlM"}],["$","meta","9",{"property":"og:title","content":"私教工作室 · 强人设朋友圈文案 - 案例库 - 来财有方AI"}],["$","meta","10",{"property":"og:description","content":"强人设朋友圈真实生成案例：我开了一家小型私教工作室，之前在大连锁健身房干了五年，见过太多人办了卡就不来了。后来决定自己出来做，就带十几个固定的学员"}],["$","meta","11",{"property":"og:url","content":"https://www.laicaiyoufang.com/case-library/gym-moments/"}],["$","meta","12",{"property":"og:site_name","content":"来财有方AI"}],["$","meta","13",{"property":"og:locale","content":"zh_CN"}],["$","meta","14",{"property":"og:image","content":"https://www.laicaiyoufang.com/laicaiyoufang-ui-preview/og-share.jpg"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"私教工作室 · 强人设朋友圈文案"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"来财有方AI"}],["$","meta","21",{"name":"twitter:description","content":"帮老板和一人公司AI落地/增长有方"}],["$","meta","22",{"name":"twitter:image","content":"https://www.laicaiyoufang.com/laicaiyoufang-ui-preview/og-share.jpg"}],["$","link","23",{"rel":"icon","href":"/laicaiyoufang-ui-preview/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$L2b","24",{}]]

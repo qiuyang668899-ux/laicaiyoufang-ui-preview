@@ -1,0 +1,168 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T6de,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/food-fde#article","headline":"食品加工厂 · AI 落地诊断","description":"AI落地诊断官真实生成案例：我做食品加工的，厂子开了快十年，主要做地方特产的深加工和代工，有几十个工人。现在生意越来越难做，同行压价、人工又贵，我就","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/food-fde"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/fde-diagnosis","name":"AI落地诊断官"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/food-fde#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"食品加工厂 · AI 落地诊断","item":"https://www.laicaiyoufang.com/case-library/food-fde"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/fde-diagnosis","name":"AI落地诊断官","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/fde-diagnosis","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"AI落地诊断官","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"生产制造与供应链型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"食品加工"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"食品加工厂 · AI 落地诊断"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我做食品加工的，厂子开了快十年，主要做地方特产的深加工和代工，有几十个工人。现在生意越来越难做，同行压价、人工又贵，我就想着能不能用 AI 帮厂里省点人、提点效率。但我文化水平不高，那些高科技的东西看不太懂，怕花了钱又没用。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"主要是给各品牌做食品代工，也做点自有品牌的干货、酱料。靠的是口味稳定和食品安全过关，渠道主要走线下批发和一部分电商。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"下游的品牌方、批发商和部分电商卖家，他们要的是品质稳定、按时交货、价格有竞争力。"}]]}]]}]
+10:T2ef9,# 业务速诊
+
+食品加工代工，十年厂子，几十号人，靠口味稳定和食安过关吃饭。你现在的问题不是"不会用 AI"，而是**很多流程还在靠老师傅的脑子和纸质单据撑着**——配方在师傅手里、订单在微信里、对账在Excel里。这种状态下直接上大模型是浪费钱，但上**识别类、录入类、自动应答类**的成熟工具，投入小、见效快，正适合你。
+
+最关键判断：**你的第一优先级是第二维（高频重复任务），不是获客。** 代工生意的命门是"按时交货+不出食安问题+成本压得住"，不是投广告拉新客。先把厂内耗人的活儿用AI削掉，比什么都实在。
+
+---
+
+# 七维扫描结果（按优先级排序）
+
+## 【高优先级】第二维：高频、重复、规则明确的任务
+
+**命中程度：高。** 食品代工厂天生就是单据密集型：原料入库单、生产批次记录、质检报告、发货单、平台账单对账。这些活儿规则清楚、天天重复，是AI最容易切进去的地方。
+
+**业务里的具体表现：** 你厂里大概率有1-2个人整天在抄单、填表、核对批发商的对账单和回款；质检报告、批次追溯记录靠手写或Excel；电商订单和线下批发的单据格式不统一，录入靠人眼。
+
+**AI怎么介入：** 票据/单据OCR识别，原料入库单、发货单、质检单拍照或扫描自动转成结构化数据，直接进Excel或你的进销存；对账单自动匹配，平台账单和银行流水自动核对，人工只处理异常；批次追溯记录自动生成，每批原料到成品的关键节点自动归档，出问题能秒查。
+
+**案例：** 一家做调味品代工的厂，财务每天手工核对3个批发商的对账单加电商平台流水，两个人一天。上了票据识别+自动匹配后，40分钟跑完，人工只看红色异常单，一年省下约1.5个人力。
+
+**预期收益与周期：** 直接省1-2个人力（按你那边的工资算，一年十几万），对账差错率下降。**见效周期：1-2个月**，工具是现成的SaaS，不用开发。
+
+---
+
+## 【高优先级】第七维：合规、风控与可追溯
+
+**命中程度：高。** 食品行业这是命门，不是可选项。代工最怕的就是下游品牌方来查、监管来查，你拿不出完整的批次记录和质检留痕。这一维做不好，一次食安事件就能把十年厂子搭进去。
+
+**业务里的具体表现：** 批次追溯靠纸质记录或零散Excel，查一批货的原料来源、生产时间、质检结果要翻半天；代工合同的违约责任、保质期条款靠人看，容易漏；对外报价和宣传话术（尤其自有品牌电商详情页）可能有违规表述没意识到。
+
+**AI怎么介入：** 批次追溯自动归档，原料入库、生产、质检、出库每个节点扫码或拍照自动留痕，形成可查询的追溯链；合同风险条款识别，代工合同扫描后AI高亮违约责任、质保期、赔偿上限等高危条款，你只复核标记部分；电商文案合规预审，自有品牌的详情页、宣传语过一遍AI，识别"最""第一""治疗"这类违规词。
+
+**案例：** 一家工程服务商原来法务人工审全部合同，常漏违约责任条款。接入AI合同助手后自动高亮高危条款生成风险清单，法务只复核标记内容，审阅效率提升70%，合同纠纷明显下降。食品代工的逻辑一模一样。
+
+**预期收益与周期：** 追溯查询从半天变几分钟，合同漏审风险大幅下降，电商违规处罚风险降低。**见效周期：2-3个月**（追溯要先做扫码习惯，合同和文案预审1个月就能上）。
+
+---
+
+## 【高优先级】第六维：隐性知识依赖点
+
+**命中程度：高。** 你说的"口味稳定"靠什么？大概率靠一两个老师傅的配方手感和调味的经验判断。这就是最大的隐性知识风险——师傅一走，口味就飘，代工客户立刻跑。
+
+**业务里的具体表现：** 核心配方和工艺参数在老师傅脑子里或手写本上；新品调试靠师傅试；新人上手慢，调味、火候、批次判断要跟师傅学很久；品控判断（这批酱颜色对不对、稠度够不够）靠老员工眼睛。
+
+**AI怎么介入：** 把配方和工艺参数文档化后做成知识库问答助手，老师傅的口头经验整理成问答对，新人遇到"这批酱偏稀怎么办"能直接查；把关键工艺参数（温度、时间、配比）结构化记录，形成可复用的标准卡；优秀批次的参数自动归档，作为后续生产的参照基准。
+
+**案例：** 一家精密设备维保企业，资深技师的故障排查经验没文档化，人一走就断。把历史维修记录和处置经验入库做AI辅助后，新人独立上岗周期缩短一半。你的"老师傅调味经验"就是同一个东西。
+
+**预期收益与周期：** 新人上手周期缩短，口味稳定性不再绑在一两个人身上，代工客户信心提升。**见效周期：2-3个月**（前提是你得先花时间把师傅的经验问出来、记下来，这一步AI替不了你）。
+
+---
+
+## 【中优先级】第四维：客户接触点与服务交付点（可暂缓，但有条件）
+
+**暂缓原因：** 代工生意的客户是品牌方和批发商，不是海量C端，客户接触点相对集中、靠人对接就行，不像装修、售后那样投诉扎堆。**但**如果你自有品牌电商做起来了、咨询量上来了，这一维立刻变高优先级——标准化询价应答（规格、起订量、交期、报价）用AI自动回，能省不少重复劳动。
+
+**业务里的具体表现：** 批发商和电商卖家反复问规格、起订量、交期、报价，销售重复回复；交货进度靠人盯，客户催货电话多。
+
+**AI怎么介入：** 标准化咨询自动应答（规格/起订量/交期/报价模板），销售只接高意向和议价；交货进度自动播报，生产节点更新后自动推给对应客户。
+
+**案例：** 连锁门窗门店每天大量询价消息，销售重复回尺寸材质报价，接入AI自动应答后每天省3小时，销售集中对接高意向客户。
+
+**预期收益与周期：** 销售每天省2-3小时重复回复。**见效周期：1-2个月**，但建议等第二维跑顺了再上。
+
+---
+
+## 【中优先级】第五维：跨部门协作的断点（可暂缓）
+
+**暂缓原因：** 你几十号人的厂，部门没那么多，销售-生产-仓储的沟通靠喊一嗓子、微信群里说一声，断点存在但还没到"反复开会、三个版本数据"的程度。**先别上系统**，等第二维的单据数据打通了，协作断点自然缓解一半。
+
+**业务里的具体表现：** 销售答应客户的交期，生产排产没同步；订单变更靠微信传，仓库不知道；同一个订单销售、生产、仓库各记各的。
+
+**AI怎么介入：** 订单变更自动推送生产、仓库、采购；会议/沟通记录转待办；订单状态统一视图。
+
+**案例：** 制造企业销售、生产、仓储信息分散，订单变更传递滞后，AI抓取变更信息自动推送，订单延期率下降。
+
+**预期收益与周期：** 订单延期减少。**见效周期：3个月以上**，且需要先把单据数据打通，现在上容易做成半拉子。
+
+---
+
+## 【低优先级】第一维：获客与增长（可暂缓）
+
+**暂缓原因：** 你做的是代工，客户是品牌方和批发商，靠的是口碑、交期、报价，不是投放拉新。**代工生意的获客AI帮不上大忙**，投素材、线索打分那套是给To C和销售人海型公司用的。自有品牌电商将来要做内容，可以再单独看。
+
+**业务里的具体表现：** 新客户靠老客户介绍和线下跑；自有品牌电商内容产出少。
+
+**AI怎么介入（如果将来做自有品牌）：** 电商详情页、短视频脚本批量生成。
+
+**案例：** 高端亲子摄影工作室用AI批量生成小红书内容，发布频率从每月4组提到每周5条，咨询量翻倍。**但这是To C逻辑，你现在用不上。**
+
+**预期收益与周期：** 现阶段收益不明显，**建议暂缓**。
+
+---
+
+## 【低优先级】第三维：信息过载、决策复杂的环节（可暂缓）
+
+**暂缓原因：** 你的决策复杂度不高——报价靠成本加成、选品靠客户订单，不需要查五份资料做判断。**这一维是给工业设备代理、工程咨询那种"信息密集决策"的公司准备的**，你厂里暂时用不上。
+
+**业务里的具体表现：** 报价靠经验算成本，新品开发靠师傅试。
+
+**AI怎么介入（将来）：** 成本报价辅助、配方调试辅助。
+
+**案例：** 工业设备代理商销售报价要查五份资料两小时一单，做AI助手后五分钟出报价。**你的报价没这么复杂，暂不需要。**
+
+**预期收益与周期：** 现阶段不划算，**建议暂缓**。
+
+---
+
+# 首战建议
+
+**项目：单据识别 + 对账自动化（第二维切入口）**
+
+- **做什么：** 先拿"批发商对账单核对"和"原料入库单/发货单录入"两个最痛的场景开刀。单据拍照/扫描，AI自动转成Excel结构化数据；对账单和回款自动匹配，人工只看异常。
+- **用什么工具：** 现成的票据OCR SaaS（如合合信息、百度OCR、或你进销存软件自带的识别功能），加一个对账自动化工具。**不用开发，买账号就能用。**
+- **谁来做：** 你厂里的财务或仓管，一个人牵头，找个懂Excel的年轻人配合，供应商那边有客服指导。**不用招程序员。**
+- **多久见效：** 1-2个月。第一个月跑通一个批发商的对账，第二个月铺开到全部。
+- **怎么算成功：** 对账时间从"两个人一天"降到"一个人一小时"，差错率下降，这就是能拿去说服老板（你自己）继续投的证据。
+
+**为什么是这个：** 见效快、风险低、不动你的核心生产系统、花小钱、做完立刻能看到省下的人力。这是最好的"第一仗"。
+
+---
+
+# 暂时别碰的清单
+
+1. **别急着上"智能体""大模型定制"这类东西。** 你厂里的单据数据还没结构化、流程还没标准化，上大模型就是往沙地上盖楼。先把OCR和对账跑顺，数据攒起来了再说。
+
+2. **别在没有标准配方文档之前上"AI配方助手"。** 第六维值得做，但前提是你得先花时间把老师傅的经验问出来、记下来。这一步是人的活儿，AI替不了。跳过这步直接买工具，出来的东西师傅不认、客户不认。
+
+3. **别为了"显得先进"上全套ERP或协作系统。** 你几十号人，现在上大系统只会增加负担。等第二维的单据数据自然打通了，协作断点缓解一半，再考虑要不要系统。
+
+---
+
+# 九十天行动路线
+
+**第一个月：跑通一个对账场景**
+- 选一个配合的批发商，把对账单核对用OCR+自动匹配跑一遍。
+- 可验证成果：这个批发商的对账时间从"半天"降到"半小时"，财务认可。
+
+**第二个月：铺开单据识别 + 启动配方文档化**
+- 原料入库单、发货单全部走OCR录入；对账铺开到全部批发商。
+- 同时启动"问师傅"：每周花两小时，把老师傅的配方和调味经验记成文字。
+- 可验证成果：单据录入人力省一半；配方文档攒出第一批（哪怕粗糙）。
+
+**第三个月：上合同/文案合规预审 + 配方知识库雏形**
+- 代工合同扫描过AI预审，电商文案过合规检查。
+- 配方文档整理成简单的问答库，新人能查。
+- 可验证成果：合同审阅时间下降、电商文案零违规词；新人能独立查配方问题。
+
+**九十天结束你手里有什么：** 省下的人力、跑顺的单据流、一份配方文档、一套合规预审习惯——这些是继续投下一轮的底气，也是你判断"AI到底值不值"的实证。b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["AI落地诊断官"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","业务速诊",{"className":"text-slate-200","children":["$","a",null,{"href":"#业务速诊","className":"hover:text-violet-400 transition-colors","children":"业务速诊"}]}],["$","li","七维扫描结果按优先级排序",{"className":"text-slate-200","children":["$","a",null,{"href":"#七维扫描结果按优先级排序","className":"hover:text-violet-400 transition-colors","children":"七维扫描结果（按优先级排序）"}]}],["$","li","高优先级第二维高频重复规则明确的任务",{"className":"text-slate-200","children":["$","a",null,{"href":"#高优先级第二维高频重复规则明确的任务","className":"hover:text-violet-400 transition-colors","children":"【高优先级】第二维：高频、重复、规则明确的任务"}]}],["$","li","高优先级第七维合规风控与可追溯",{"className":"text-slate-200","children":["$","a",null,{"href":"#高优先级第七维合规风控与可追溯","className":"hover:text-violet-400 transition-colors","children":"【高优先级】第七维：合规、风控与可追溯"}]}],["$","li","高优先级第六维隐性知识依赖点",{"className":"text-slate-200","children":["$","a",null,{"href":"#高优先级第六维隐性知识依赖点","className":"hover:text-violet-400 transition-colors","children":"【高优先级】第六维：隐性知识依赖点"}]}],["$","li","中优先级第四维客户接触点与服务交付点可暂缓但有条件",{"className":"text-slate-200","children":["$","a",null,{"href":"#中优先级第四维客户接触点与服务交付点可暂缓但有条件","className":"hover:text-violet-400 transition-colors","children":"【中优先级】第四维：客户接触点与服务交付点（可暂缓，但有条件）"}]}],["$","li","中优先级第五维跨部门协作的断点可暂缓",{"className":"text-slate-200","children":["$","a",null,{"href":"#中优先级第五维跨部门协作的断点可暂缓","className":"hover:text-violet-400 transition-colors","children":"【中优先级】第五维：跨部门协作的断点（可暂缓）"}]}],["$","li","低优先级第一维获客与增长可暂缓",{"className":"text-slate-200","children":["$","a",null,{"href":"#低优先级第一维获客与增长可暂缓","className":"hover:text-violet-400 transition-colors","children":"【低优先级】第一维：获客与增长（可暂缓）"}]}],["$","li","低优先级第三维信息过载决策复杂的环节可暂缓",{"className":"text-slate-200","children":["$","a",null,{"href":"#低优先级第三维信息过载决策复杂的环节可暂缓","className":"hover:text-violet-400 transition-colors","children":"【低优先级】第三维：信息过载、决策复杂的环节（可暂缓）"}]}],["$","li","首战建议",{"className":"text-slate-200","children":["$","a",null,{"href":"#首战建议","className":"hover:text-violet-400 transition-colors","children":"首战建议"}]}],["$","li","暂时别碰的清单",{"className":"text-slate-200","children":["$","a",null,{"href":"#暂时别碰的清单","className":"hover:text-violet-400 transition-colors","children":"暂时别碰的清单"}]}],["$","li","九十天行动路线",{"className":"text-slate-200","children":["$","a",null,{"href":"#九十天行动路线","className":"hover:text-violet-400 transition-colors","children":"九十天行动路线"}]}]]}]]}],["$","$Lf",null,{"agentKey":"fde-diagnosis","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["AI落地诊断官","是什么"]}],["$","p",null,{"children":["这是一个面向“","食品加工","”行业的","AI落地诊断官","应用案例：","我做食品加工的，厂子开了快十年，主要做地方特产的深加工和代工，有几十个工人。现在生意越来越难做，同行压价、人工又贵，我就想着能不能用 AI 帮厂里省点人、提点效率。但我文化水平不高，那些高科技的东西看不太懂，怕花了钱又没用。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","AI落地诊断官是来财有方AI「企业AI落地」分类下的一款 AI 智能体，以 FDE（前沿部署工程师）视角，用七维框架扫描你的企业业务，输出一份 AI 转型落地诊断报告，帮你判断现在该不该上 AI、从哪里上、能带来多少收益。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","主要是给各品牌做食品代工，也做点自有品牌的干货、酱料。靠的是口味稳定和食品安全过关，渠道主要走线下批发和一部分电商。","，主要客群是","下游的品牌方、批发商和部分电商卖家，他们要的是品质稳定、按时交货、价格有竞争力。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多老板对 AI 既焦虑又迷茫，要么盲目跟风上工具、要么迟迟不敢动，结果要么浪费钱、要么错过机会。这个智能体解决的是\"AI 落地无方向\"的问题，先诊断、再决策，避免拍脑袋。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我做食品加工的，厂子开了快十年，主要做地方特产的深加工和代工，有几十个工人。现在生意越来越难做，同行压价、人工又贵，我就","…… 具体输入项包括：","提供你的企业基本情况（行业、规模、核心业务、团队结构、当前痛点），可选补充你已在用或想用的 AI 工具与预算预期。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","AI落地诊断官","输出的是面向","下游的品牌方、批发商和部分电商卖家，他们要的是品质稳定、按时交货、价格有竞争力。","的落地方案（见上文“生成结果”），整体能力为：","输出一份 AI 落地诊断报告：从业务瓶颈、数据基础、流程复杂度、人才储备、投入产出等七个维度扫描，给出可落地场景优先级、风险提示与分阶段行动建议。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","生产制造与供应链型","、","食品加工","）类似的经营者都适用：","适合想用 AI 提效降本、但不确定从哪下手的企业老板、创始人、业务负责人、CIO/CTO，以及正在做数字化转型的中小企业决策者。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","AI落地诊断官","已内置对应的行业方法轮与输出规范，能结合“","主要是给各品牌做食品代工，也做点自有品牌的干货、酱料。靠的是口味稳定和食品安全过关，渠道主要走线下批发和一部分电商。","、","下游的品牌方、批发商和部分电商卖家，他们要的是品质稳定、按时交货、价格有竞争力。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让大模型\"AI 能帮我做什么\"——而是用结构化七维框架对你的企业做诊断，产出的是有优先级、有风险提示、有投入产出权衡的落地路线图，而不是一堆 AI 功能介绍。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/fde-diagnosis","children":["立即试用","AI落地诊断官"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","AI落地诊断官"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/fde-diagnosis","agentName":"AI落地诊断官"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

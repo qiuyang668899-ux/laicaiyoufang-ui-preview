@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T734,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/cross-border-boss-prompt#article","headline":"跨境电商老板 · 提示词私教","description":"老板提示词私教真实生成案例：我做了六年跨境电商，从一个人做到十几人的团队，现在想用 AI 帮团队提高内容效率，比如写产品文案、社媒帖子、客服回复这些","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/cross-border-boss-prompt"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/boss-prompt-coach","name":"老板提示词私教"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/cross-border-boss-prompt#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"跨境电商老板 · 提示词私教","item":"https://www.laicaiyoufang.com/case-library/cross-border-boss-prompt"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/boss-prompt-coach","name":"老板提示词私教","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/boss-prompt-coach","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"老板提示词私教","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"电商与贸易型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"跨境电商"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"跨境电商老板 · 提示词私教"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我做了六年跨境电商，从一个人做到十几人的团队，现在想用 AI 帮团队提高内容效率，比如写产品文案、社媒帖子、客服回复这些。但团队里没人懂 AI，大家用下来都抱怨「写的没法用」。我自己也试过，确实 AI 一写东西就很「翻译腔」，英文还好，中文尤其假。我想系统学一学怎么把 AI 调教好，让它能真正替我们干活。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"做家居和户外用品的跨境电商，主要在亚马逊和独立站卖，也做 TikTok 和 Instagram 的内容种草。我们的内容需求很杂：英文 listing、社媒短文案、客服回复、选品分析，各有各的语感。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我的需求对象其实是内部团队和我自己，想建立一个「能用 AI 提效」的内容工作流。但换个角度，我服务的终端用户是海外消费者，他们读文案只看「像不像真人写的、有没有说人话」。"}]]}]]}]
+10:T21b6,# 一、原始提示词诊断
+
+你这段输入信息量其实很足，但它是"背景陈述"而不是"可执行提示词"。我先拆解一下：
+
+| 诊断维度 | 原始提示词情况 | 缺失/模糊点 | 优化方向 |
+|---|---|---|---|
+| 背景 | 六年跨境电商，十几人团队，家居+户外，亚马逊/独立站/TikTok/IG | 团队规模、品类、渠道清楚了，但**没有具体任务场景**（listing？客服？社媒？一次要哪个） | 明确"这一次要AI干什么" |
+| 目标 | "系统学怎么把AI调教好""建立能提效的内容工作流" | 目标太宏大，是"学习"还是"产出"？是要方法论还是要模板？ | 拆成可交付物：方法论+可复用提示词模板+示例 |
+| 目标受众 | 内部团队（不懂AI）+ 海外消费者（终端） | 团队具体角色不明（运营？客服？设计？），英文水平不明 | 说明使用者是谁、英文能力如何 |
+| 输出格式 | 无 | 完全没说要什么形式：教程？模板库？SOP？对照案例？ | 指定交付物形态 |
+| 限制条件 | "翻译腔""中文尤其假""写的没法用" | 这是痛点描述，但没转化为**可检验的质量标准** | 把"像真人"翻译成可执行的写作规则 |
+| 评估标准 | 无 | 怎么算"能用"？没定义 | 给出验收标准，如"读起来像母语者写的" |
+
+**核心问题**：你现在给AI的是一个"我很苦恼"的倾诉，而不是一个"请你帮我产出X"的任务。AI收到这种输入，只能泛泛而谈"要设定角色、要给示例"，帮不到你。
+
+在给版本前，我先追问3个关键问题（你可以不答，我会按假设继续）：
+
+1. **你这次最想先解决哪一个场景**？英文listing、社媒短文案、客服回复、选品分析——四个语感完全不同，一次全上会稀释效果。
+2. **团队里谁来用这些提示词**？是运营自己复制粘贴，还是你统一产出模板发下去？
+3. **"像真人"的标杆是什么**？有没有你认可的竞品文案、母语者写的帖子，可以作为"好"的参照？
+
+> 以下为基于假设的优化版本：假设你**优先解决英文listing+社媒短文案**，使用者是**英文中等水平的运营**，你希望拿到**一套可复制的提示词模板+对照示例**。
+
+
+# 二、三个参考新版提示词
+
+## V1：基础补全版（先让AI理解你是谁、要什么）
+
+> 我是一家做家居和户外用品的跨境电商公司创始人，做了六年，团队十几人，主要在亚马逊和独立站卖货，也在TikTok和Instagram做内容种草。我们团队没人懂AI，用AI写出来的东西普遍有"翻译腔"，中文尤其假，英文也不像母语者写的。我想先从一个场景入手：**用AI写亚马逊英文产品listing（标题+五点描述+产品描述）**。你能先帮我分析一下：为什么AI写跨境电商文案容易"假"？针对listing这个场景，我应该给AI补充哪些背景信息、设定哪些限制，才能让它写出像母语者、像真人卖货的文案？
+
+## V2：目标约束版（要可复制的模板，不要泛泛而谈）
+
+> 我是一家家居+户外用品跨境电商公司创始人，团队十几人，主做亚马逊和独立站，也做TikTok/IG种草。团队英文中等，没人懂AI，用AI写文案普遍"翻译腔"、不像真人。我想建立一套团队能直接复制使用的提示词模板。请针对**亚马逊英文listing**和**TikTok/IG英文短文案**两个场景，各给我一套提示词模板，要求：1）每套模板里包含角色设定、背景信息槽位、写作规则（比如禁用哪些"AI味"词汇、句式要求）、输出格式；2）每套模板配一个"坏例子vs好例子"的对照，让我团队直观看到差别；3）模板要能让英文中等的运营填空即用，不需要他们自己懂提示词工程。你能按这个要求输出吗？
+
+## V3：深度定制版（要工作流+验收标准+迭代机制）
+
+> 我是一家家居+户外用品跨境电商公司创始人，六年经验，团队十几人，渠道是亚马逊、独立站、TikTok、Instagram。团队英文中等、零AI基础，当前最大痛点是AI产出"翻译腔、不像真人、没法直接用"。我的目标是建立一套**团队可复制的内容提效工作流**，先从英文listing和社媒短文案两个高频场景切入。
+>
+> 请你帮我做三件事：
+> 1）**诊断**：分析AI写跨境文案"假"的根因（语料偏差？指令太泛？缺示例？），并说明对应解法；
+> 2）**模板**：为listing和社媒短文案各产出一套可填空的提示词模板，包含角色、背景槽位、写作规则（明确列出要避免的"AI味"表达、要模仿的母语者语感特征）、输出格式、以及1组"坏vs好"对照示例；
+> 3）**验收与迭代**：给我一套团队自检清单（怎么判断这条文案"像真人、能用"），以及如何根据实际发布后的数据（转化、互动）反推提示词该怎么改。
+>
+> 另外请说明：这套方法如果之后要扩展到客服回复和选品分析，需要调整什么？输出请结构化，方便我直接发给团队当SOP用。
+
+**说明**：三版都是问句，可直接复制给其他AI。V1适合你自己先搞懂原理，V2适合直接落地给团队用，V3适合当SOP骨架。
+
+
+# 三、优化逻辑对比表
+
+| 优化点 | 原始提示词 | 新版提示词（以V2/V3为例） | 为什么更好 |
+|---|---|---|---|
+| 背景 | 陈述了经历和品类，但没聚焦任务 | 明确"先做listing+社媒短文案" | AI不用猜，输出不分散 |
+| 目标 | "系统学怎么调教AI"（太宏大） | "产出可填空的提示词模板+好坏对照" | 从"学习"变成"可交付物"，能验收 |
+| 受众 | 只说"团队没人懂AI" | 明确"英文中等、零基础、填空即用" | 决定模板的复杂度和语言 |
+| 格式 | 无 | 指定"角色+槽位+规则+格式+对照示例" | 输出结构化，直接能当SOP |
+| 限制 | "翻译腔、中文假"（感受描述） | 转化为"禁用AI味词汇、模仿母语者语感" | 把主观痛点变成可执行规则 |
+| 评估 | 无 | 加了"自检清单+数据反推迭代" | 形成闭环，越用越准 |
+
+一句话总结：**你原来的输入是"病历"，新版提示词是"处方单"** ——AI拿到处方单才知道开什么药、开几副、怎么判断有没有效。
+
+
+# 四、方法论映射与案例
+
+## 1. B-O-R-E法则（映射你的场景）
+
+- **Background**：六年跨境、家居户外、亚马逊+独立站+TikTok/IG、团队英文中等零AI基础——这些是AI理解你语境的"地基"。
+- **Objectives**：不是"教我AI"，而是"产出listing和社媒两套可填空模板"。
+- **Key Results**：每套模板含角色/槽位/规则/格式、配好坏对照、运营填空即用——可衡量。
+- **Evolve**：发布后看转化和互动数据，反推提示词哪里要改（V3里已埋进去）。
+
+## 2. 角色-目标-限制（RGC）框架
+
+以listing为例：
+- **角色**：让AI扮演"母语者资深亚马逊文案"，而不是"通用助手"。
+- **目标**：写出像真人卖货的标题+五点+描述。
+- **限制**：禁用"翻译腔"高频词（如"revolutionary""perfect for"滥用）、句式要短、要具体场景而非空泛形容词。
+
+你原提示词里"中文尤其假"这句，其实就是RGC里"限制"没写清——**"假"要翻译成"禁用哪些词、用什么句式"**，AI才执行得了。
+
+## 3. STAR提问法
+
+- **情境**：跨境团队用AI产出"翻译腔"、没法直接用。
+- **任务**：建立可复制的内容提效工作流。
+- **行动**：先聚焦两个高频场景，产出模板+对照+自检清单。
+- **结果**：团队填空即用，发布数据反哺迭代。
+
+STAR的价值是让你的提问自带"故事线"，AI能顺着情境给更贴的方案，而不是甩一堆通用建议。
+
+
+# 五、下一步迭代建议
+
+你现在最该做的，不是让AI"教你AI"，而是**先锁定一个场景跑通闭环**。建议：
+
+1. 从上面三版里选一个（我推荐先V2，落地快）；
+2. 告诉我你**最想先跑哪个场景**（listing还是社媒），以及**有没有1-2条你认可的竞品文案**能当"好例子"；
+3. 我帮你把选中的版本继续打磨成**最终可复制版**，并补上"坏vs好"对照的具体写法。
+
+> 你想让我继续优化哪一个版本？请回复V1、V2或V3，或者补充你的业务信息，我会继续帮你迭代成最终可复制版。
+
+
+【提示词是一个不断修改迭代的过程，越懂业务的老板越应该亲自修改迭代提示词，而不要借助他人之手】。b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["老板提示词私教"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","一原始提示词诊断",{"className":"text-slate-200","children":["$","a",null,{"href":"#一原始提示词诊断","className":"hover:text-violet-400 transition-colors","children":"一、原始提示词诊断"}]}],["$","li","二三个参考新版提示词",{"className":"text-slate-200","children":["$","a",null,{"href":"#二三个参考新版提示词","className":"hover:text-violet-400 transition-colors","children":"二、三个参考新版提示词"}]}],["$","li","v1基础补全版先让ai理解你是谁要什么",{"className":"text-slate-200","children":["$","a",null,{"href":"#v1基础补全版先让ai理解你是谁要什么","className":"hover:text-violet-400 transition-colors","children":"V1：基础补全版（先让AI理解你是谁、要什么）"}]}],["$","li","v2目标约束版要可复制的模板不要泛泛而谈",{"className":"text-slate-200","children":["$","a",null,{"href":"#v2目标约束版要可复制的模板不要泛泛而谈","className":"hover:text-violet-400 transition-colors","children":"V2：目标约束版（要可复制的模板，不要泛泛而谈）"}]}],["$","li","v3深度定制版要工作流验收标准迭代机制",{"className":"text-slate-200","children":["$","a",null,{"href":"#v3深度定制版要工作流验收标准迭代机制","className":"hover:text-violet-400 transition-colors","children":"V3：深度定制版（要工作流+验收标准+迭代机制）"}]}],["$","li","三优化逻辑对比表",{"className":"text-slate-200","children":["$","a",null,{"href":"#三优化逻辑对比表","className":"hover:text-violet-400 transition-colors","children":"三、优化逻辑对比表"}]}],["$","li","四方法论映射与案例",{"className":"text-slate-200","children":["$","a",null,{"href":"#四方法论映射与案例","className":"hover:text-violet-400 transition-colors","children":"四、方法论映射与案例"}]}],["$","li","1-b-o-r-e法则映射你的场景",{"className":"text-slate-200","children":["$","a",null,{"href":"#1-b-o-r-e法则映射你的场景","className":"hover:text-violet-400 transition-colors","children":"1. B-O-R-E法则（映射你的场景）"}]}],["$","li","2-角色-目标-限制rgc框架",{"className":"text-slate-200","children":["$","a",null,{"href":"#2-角色-目标-限制rgc框架","className":"hover:text-violet-400 transition-colors","children":"2. 角色-目标-限制（RGC）框架"}]}],["$","li","3-star提问法",{"className":"text-slate-200","children":["$","a",null,{"href":"#3-star提问法","className":"hover:text-violet-400 transition-colors","children":"3. STAR提问法"}]}],["$","li","五下一步迭代建议",{"className":"text-slate-200","children":["$","a",null,{"href":"#五下一步迭代建议","className":"hover:text-violet-400 transition-colors","children":"五、下一步迭代建议"}]}]]}]]}],["$","$Lf",null,{"agentKey":"boss-prompt-coach","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["老板提示词私教","是什么"]}],["$","p",null,{"children":["这是一个面向“","跨境电商","”行业的","老板提示词私教","应用案例：","我做了六年跨境电商，从一个人做到十几人的团队，现在想用 AI 帮团队提高内容效率，比如写产品文案、社媒帖子、客服回复这些。但团队里没人懂 AI，大家用下来都抱怨「写的没法用」。我自己也试过，确实 AI 一写东西就很「翻译腔」，英文还好，中文尤其假。我想系统学一学怎么把 AI 调教好，让它能真正替我们干活。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","老板提示词私教是来财有方AI「企业AI落地」分类下的一款 AI 智能体，帮你优化并生成更高效的提示词，让你在和各种 AI（豆包、DeepSeek、ChatGPT 等）对话时，能问得更准、要得更好，大幅提升用 AI 干活的效率。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","做家居和户外用品的跨境电商，主要在亚马逊和独立站卖，也做 TikTok 和 Instagram 的内容种草。我们的内容需求很杂：英文 listing、社媒短文案、客服回复、选品分析，各有各的语感。","，主要客群是","我的需求对象其实是内部团队和我自己，想建立一个「能用 AI 提效」的内容工作流。但换个角度，我服务的终端用户是海外消费者，他们读文案只看「像不像真人写的、有没有说人话」。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多人用 AI 用不出效果，根本原因是\"不会问\"——提问太笼统、太模糊，导致 AI 答得又空又偏。这个智能体解决的是提示词能力不足的问题，把你的需求翻译成 AI 能精准理解的提问。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我做了六年跨境电商，从一个人做到十几人的团队，现在想用 AI 帮团队提高内容效率，比如写产品文案、社媒帖子、客服回复这些","…… 具体输入项包括：","描述你想让 AI 帮你完成的事（越具体越好），或直接把你现在写得不太满意的提示词发给它，它来帮你优化。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","老板提示词私教","输出的是面向","我的需求对象其实是内部团队和我自己，想建立一个「能用 AI 提效」的内容工作流。","的落地方案（见上文“生成结果”），整体能力为：","输出优化后的提示词：结构清晰、要素完整（角色、任务、背景、约束、输出格式），并说明优化了哪里、为什么，让你举一反三、以后自己也会写。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","电商与贸易型","、","跨境电商","）类似的经营者都适用：","适合所有正在用 AI 但觉得\"AI 不够聪明\"\"答不到点上\"的老板、创业者、职场人、运营与内容人员，以及想系统提升提示词能力的 AI 使用者。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","老板提示词私教","已内置对应的行业方法轮与输出规范，能结合“","做家居和户外用品的跨境电商，主要在亚马逊和独立站卖，也做 TikTok 和 Instagram 的内容种草。我们的内容需求很杂：英文 listing、社媒短文案、客服回复、选品分析，各有各的语感。","、","我的需求对象其实是内部团队和我自己，想建立一个「能用 AI 提效」的内容工作流。但换个角度，我服务的终端用户是海外消费者，他们读文案只看「像不像真人写的、有没有说人话」。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让大模型\"帮我写提示词\"——会解释优化的逻辑和要点，让你知其然也知其所以然，长期下来能真正提升你自己的提示词能力，而不是每次都要依赖别人。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/boss-prompt-coach","children":["立即试用","老板提示词私教"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","老板提示词私教"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/boss-prompt-coach","agentName":"老板提示词私教"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

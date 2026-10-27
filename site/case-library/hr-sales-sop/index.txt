@@ -1,0 +1,363 @@
+1:"$Sreact.fragment"
+b:I[26260,[],""]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/b25c64b506c1045b.css","style"]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/502df0824a283b6e.css","style"]
+2:T1195,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.laicaiyoufang.com/#organization","name":"来财有方AI","alternateName":"来财有方丨AI增长社区","url":"https://www.laicaiyoufang.com","logo":{"@type":"ImageObject","@id":"https://www.laicaiyoufang.com/#logo","url":"https://www.laicaiyoufang.com/logo.png","contentUrl":"https://www.laicaiyoufang.com/logo.png","width":640,"height":640,"encodingFormat":"image/png"},"description":"帮老板和一人公司AI落地/增长有方的实战社群","image":{"@id":"https://www.laicaiyoufang.com/#logo"},"foundingDate":"2024-11-17","founder":{"@id":"https://www.laicaiyoufang.com/#founder"},"knowsAbout":["AI落地","一人公司","新媒体增长","GEO优化","AI智能体"],"affiliation":[{"@type":"Organization","name":"火山引擎"},{"@type":"Organization","name":"腾讯Workbuddy"}],"sameAs":["https://t.zsxq.com/j6naI","https://www.douyin.com/user/MS4wLjABAAAAAUewz1skyA2ocMhuUVpsk038bq_v4pzRW2sS2k3PKOA","https://www.xiaohongshu.com/user/profile/581f00cd5e87e7260b053fe2"],"contactPoint":{"@type":"ContactPoint","contactType":"customer service","availableLanguage":"Chinese","name":"微信客服 Laicai202206"}},{"@type":"Person","@id":"https://www.laicaiyoufang.com/#founder","name":"萌社长","alternateName":"何萌","url":"https://www.laicaiyoufang.com/about-meng","jobTitle":"AI+场景化专家、一人公司导师、创业者","description":"前500强高管 · 团中央十佳创业青年 · AI天使投资人 · AI产品极客 · FDE专家，1V1赋能创始人600+，学员5000+，矩阵粉50万+","worksFor":{"@id":"https://www.laicaiyoufang.com/#organization"},"sameAs":["https://www.douyin.com/user/MS4wLjABAAAAAUewz1skyA2ocMhuUVpsk038bq_v4pzRW2sS2k3PKOA","https://www.xiaohongshu.com/user/profile/581f00cd5e87e7260b053fe2","https://t.zsxq.com/j6naI"],"knowsAbout":["AI","创业","新媒体","增长","AI智能体","一人公司","社群运营","企业服务"],"award":["2005年全国十佳创业青年","团中央十佳创业青年故事奖"],"alumniOf":{"@type":"CollegeOrUniversity","name":"武汉理工大学"},"citation":[{"@type":"NewsArticle","headline":"校友何萌返校开讲：AI赋能一人公司 解锁青年创业新可能","datePublished":"2026-05-08","url":"http://sen.whut.edu.cn/xyxw/202605/t20260514_1398856.shtml","publisher":{"@type":"Organization","name":"武汉理工大学创业学院"}},{"@type":"NewsArticle","headline":"全国十佳创业青年来校畅谈创业心路","datePublished":"2006-04-24","url":"https://news.hust.edu.cn/info/1004/27802.htm","publisher":{"@type":"Organization","name":"华中科技大学新闻网"}},{"@type":"NewsArticle","headline":"光谷出现一批OPC个人投资者：用AI传授经验，帮忙找客户，有的已获90多万分红","datePublished":"2026-04-14","url":"https://news.hubeidaily.net/pc/c_5384889.html","publisher":{"@type":"Organization","name":"湖北日报"}},{"@type":"Book","name":"互联网之达芬奇密码","author":"Mull He","isbn":"9787121135262","datePublished":"2011-06","url":"https://book.douban.com/subject/6429783/","publisher":{"@type":"Organization","name":"电子工业出版社"}}]},{"@type":"Service","name":"AI智能体平台","url":"https://www.laicaiyoufang.com/ai-agents","description":"39+垂直领域AI智能体，覆盖一人公司定位、AI+IP打造、GEO优化、获客增长、新媒体内容创作等场景","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"Service","name":"OPC实战训练营","url":"https://www.laicaiyoufang.com/ai-opc-training","description":"2天深度面对面实战训练营，AI+一人公司创业实战全流程","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"Service","name":"线上AI实战课","url":"https://www.laicaiyoufang.com/classroom","description":"不间断AI增长直播课与录播课，三大课程体系","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"Service","name":"导师矩阵","url":"https://www.laicaiyoufang.com/mentors","description":"58位AI/新媒体领域实战专家，覆盖AI智能体、销售、内容、投资等维度","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"WebSite","@id":"https://www.laicaiyoufang.com/#website","url":"https://www.laicaiyoufang.com","name":"来财有方AI","description":"帮老板和一人公司AI落地/增长有方","publisher":{"@id":"https://www.laicaiyoufang.com/#organization"}}]}0:{"P":null,"b":"jlVlrff87Jr28zBereNHo","c":["","case-library","hr-sales-sop",""],"q":"","i":false,"f":[[["",{"children":["case-library",{"children":[["caseId","hr-sales-sop","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/laicaiyoufang-ui-preview/_next/static/css/b25c64b506c1045b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/laicaiyoufang-ui-preview/_next/static/css/502df0824a283b6e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":[["$","head",null,{"children":[["$","meta",null,{"name":"robots","content":"noindex,nofollow"}],["$","link",null,{"rel":"llms","href":"/laicaiyoufang-ui-preview/llms.txt"}],["$","link",null,{"rel":"llms-full","href":"/laicaiyoufang-ui-preview/llms-full.txt"}]]}],["$","body",null,{"className":"antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],false,"$L3","$L4","$L5","$L6"]}]]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+c:"$Sreact.suspense"
+d:I[1316,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"UserProvider"]
+e:I[49842,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"LoginModal"]
+f:I[84630,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"ConfirmDialogProvider"]
+10:I[11512,[],""]
+11:I[86766,[],""]
+12:I[98264,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"default"]
+13:I[50156,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"Toaster"]
+15:I[23349,[],"OutletBoundary"]
+17:I[23349,[],"ViewportBoundary"]
+19:I[23349,[],"MetadataBoundary"]
+3:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){\n  if (window.__lcPreviewFetchInstalled) return;\n  window.__lcPreviewFetchInstalled = true;\n  const base = \"/laicaiyoufang-ui-preview\";\n  const originalFetch = window.fetch.bind(window);\n  const isApi = function(input) {\n    try {\n      const raw = typeof input === 'string' ? input : input instanceof URL ? input.href : input.url;\n      const url = new URL(raw, window.location.href);\n      const pathname = base && (url.pathname === base || url.pathname.indexOf(base + '/') === 0) ? url.pathname.slice(base.length) : url.pathname;\n      return /^\\/api(?:\\/|$)/.test(pathname);\n    } catch (_) { return false; }\n  };\n  window.fetch = function(input, init) {\n    if (isApi(input)) return Promise.resolve(new Response(JSON.stringify({success:false,error:'当前为界面预览，AI、登录、支付及实时数据需连接原服务。',code:'UI_PREVIEW_DISCONNECTED'}),{status:503,statusText:'Service Unavailable',headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'}}));\n    return originalFetch(input,init);\n  };\n})();"}}]
+4:["$","$c",null,{"fallback":["$","div",null,{"style":{"padding":40,"color":"#777"},"children":"正在载入界面…"}],"children":["$","$Ld",null,{"children":[["$","$Le",null,{}],["$","$Lf",null,{"children":["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]
+5:["$","$L12",null,{}]
+6:["$","$L13",null,{"position":"top-center","richColors":true}]
+7:["$","$1","c",{"children":[null,["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],null]}]
+1c:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+1b:T72b,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/hr-sales-sop#article","headline":"人力资源外包机构 · 销售 SOP 卡点梳理","description":"销售SOP卡点梳理真实生成案例：我做人力资源外包的，公司不大，十几个人，主要帮中小企业处理社保、薪酬、代发工资这些事务。我自己是销售出身，跑客户跑了快十","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/hr-sales-sop"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/sales-sop-analysis","name":"销售SOP卡点梳理"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/hr-sales-sop#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"人力资源外包机构 · 销售 SOP 卡点梳理","item":"https://www.laicaiyoufang.com/case-library/hr-sales-sop"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/sales-sop-analysis","name":"销售SOP卡点梳理","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/sales-sop-analysis","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]14:["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1b"}}],["$","$L1c",null,{"title":"销售SOP卡点梳理","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"专业服务/中介服务型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"企业服务"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"人力资源外包机构 · 销售 SOP 卡点梳理"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L1d","$L1e","$L1f","$L20","$L21","$undefined"]}],"$L22"]}],"$L23"]}]}],"$L24","$L25","$L26"]}]]}]
+33:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+34:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+1d:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+1e:["$","path","1olli1",{"d":"M20 3v4"}]
+1f:["$","path","1gvqau",{"d":"M22 5h-4"}]
+20:["$","path","vumght",{"d":"M4 17v2"}]
+21:["$","path","zchphs",{"d":"M5 18H3"}]
+22:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+23:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我做人力资源外包的，公司不大，十几个人，主要帮中小企业处理社保、薪酬、代发工资这些事务。我自己是销售出身，跑客户跑了快十年，后来拉着几个老同事一起干。现在业务主要靠口碑和老客户转介绍，但新客户开发一直没起色，销售那帮人谈着谈着就没了下文。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"社保代缴、薪酬代理、劳务派遣、岗位外包，还有一部分灵活用工。说白了就是帮企业把那些又杂又容易出错的 HR 事务接过来，让他们省心省事、合规省成本。我们比大机构灵活，比小作坊规范，价格也实在。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"目标客户是二十到两百人的中小企业老板、HR 或者财务，这些人平时被社保、发薪这些琐事缠得焦头烂额，最怕出错和不合规。但他们决策谨慎，既要对比价格，又要看你的资质和口碑。"}]]}]]}]
+24:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["销售SOP卡点梳理"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","人力资源外包业务询价成交交付回款全流程-sop-梳理",{"className":"text-slate-200","children":["$","a",null,{"href":"#人力资源外包业务询价成交交付回款全流程-sop-梳理","className":"hover:text-violet-400 transition-colors","children":"人力资源外包业务「询价→成交→交付回款」全流程 SOP 梳理"}]}],["$","li","一数据诊断先看数据再定动作",{"className":"text-slate-200","children":["$","a",null,{"href":"#一数据诊断先看数据再定动作","className":"hover:text-violet-400 transition-colors","children":"一、数据诊断（先看数据，再定动作）"}]}],["$","li","1-当前数据观察",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#1-当前数据观察","className":"hover:text-violet-400 transition-colors","children":"1. 当前数据观察"}]}],["$","li","2-关键断点",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#2-关键断点","className":"hover:text-violet-400 transition-colors","children":"2. 关键断点"}]}],["$","li","3-可能原因",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#3-可能原因","className":"hover:text-violet-400 transition-colors","children":"3. 可能原因"}]}],["$","li","4-优先优化方向",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#4-优先优化方向","className":"hover:text-violet-400 transition-colors","children":"4. 优先优化方向"}]}],["$","li","二用户路径图",{"className":"text-slate-200","children":["$","a",null,{"href":"#二用户路径图","className":"hover:text-violet-400 transition-colors","children":"二、用户路径图"}]}],["$","li","三sop-核心定义",{"className":"text-slate-200","children":["$","a",null,{"href":"#三sop-核心定义","className":"hover:text-violet-400 transition-colors","children":"三、SOP 核心定义"}]}],["$","li","四核心动作精简为-5-个",{"className":"text-slate-200","children":["$","a",null,{"href":"#四核心动作精简为-5-个","className":"hover:text-violet-400 transition-colors","children":"四、核心动作（精简为 5 个）"}]}],["$","li","动作-1首次接触--需求诊断",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#动作-1首次接触--需求诊断","className":"hover:text-violet-400 transition-colors","children":"动作 1：首次接触 & 需求诊断"}]}],["$","li","动作-2方案呈现--报价",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#动作-2方案呈现--报价","className":"hover:text-violet-400 transition-colors","children":"动作 2：方案呈现 & 报价"}]}],["$","li","动作-3信任建立--异议处理",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#动作-3信任建立--异议处理","className":"hover:text-violet-400 transition-colors","children":"动作 3：信任建立 & 异议处理"}]}],["$","li","动作-4成交签约--首付款确认",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#动作-4成交签约--首付款确认","className":"hover:text-violet-400 transition-colors","children":"动作 4：成交签约 & 首付款确认"}]}],["$","li","动作-5交付启动--服务交接",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#动作-5交付启动--服务交接","className":"hover:text-violet-400 transition-colors","children":"动作 5：交付启动 & 服务交接"}]}],["$","li","五流失兜底策略",{"className":"text-slate-200","children":["$","a",null,{"href":"#五流失兜底策略","className":"hover:text-violet-400 transition-colors","children":"五、流失兜底策略"}]}],["$","li","流失点-a咨询后未接通未响应",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#流失点-a咨询后未接通未响应","className":"hover:text-violet-400 transition-colors","children":"流失点 A：咨询后未接通/未响应"}]}],"$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31"]}]]}],"$L32"]}]
+25:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["销售SOP卡点梳理","是什么"]}],["$","p",null,{"children":["这是一个面向“","企业服务","”行业的","销售SOP卡点梳理","应用案例：","我做人力资源外包的，公司不大，十几个人，主要帮中小企业处理社保、薪酬、代发工资这些事务。我自己是销售出身，跑客户跑了快十年，后来拉着几个老同事一起干。现在业务主要靠口碑和老客户转介绍，但新客户开发一直没起色，销售那帮人谈着谈着就没了下文。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","销售SOP卡点梳理是来财有方AI「成交转化」分类下的一款 AI 智能体，基于画像 + 你描述的销售卡点，帮你梳理出可落地的 SOP 优化方案，定位成交链路中的漏洞并给出改进动作。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","社保代缴、薪酬代理、劳务派遣、岗位外包，还有一部分灵活用工。说白了就是帮企业把那些又杂又容易出错的 HR 事务接过来，让他们省心省事、合规省成本。我们比大机构灵活，比小作坊规范，价格也实在。","，主要客群是","目标客户是二十到两百人的中小企业老板、HR 或者财务，这些人平时被社保、发薪这些琐事缠得焦头烂额，最怕出错和不合规。但他们决策谨慎，既要对比价格，又要看你的资质和口碑。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多团队销售靠个人经验和感觉，成单不稳定、难以复制，出了问题也说不清卡在哪一环。这个智能体解决的是销售流程不可控的问题，把成交链路拆开，找出卡点、给出标准动作。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我做人力资源外包的，公司不大，十几个人，主要帮中小企业处理社保、薪酬、代发工资这些事务。我自己是销售出身，跑客户跑了快十","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁）+ 你在销售中遇到的卡点（如客户不回复、报价后没下文、成交周期长等），越具体越好。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","销售SOP卡点梳理","输出的是面向","目标客户是二十到两百人的中小企业老板、HR 或者财务，这些人平时被社保、发薪这些","的落地方案（见上文“生成结果”），整体能力为：","输出一份可落地的 SOP 优化方案：梳理从获客、破冰、需求挖掘、方案呈现、报价到跟进的完整链路，逐环节指出问题点，并给出每个环节的标准话术与动作。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","专业服务/中介服务型","、","企业服务","）类似的经营者都适用：","适合想提升成交率、把销售经验复制到团队的老板、销售负责人、招商加盟、保险、教育、房产、B2B 服务等高客单销售行业。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","销售SOP卡点梳理","已内置对应的行业方法轮与输出规范，能结合“","社保代缴、薪酬代理、劳务派遣、岗位外包，还有一部分灵活用工。说白了就是帮企业把那些又杂又容易出错的 HR 事务接过来，让他们省心省事、合规省成本。我们比大机构灵活，比小作坊规范，价格也实在。","、","目标客户是二十到两百人的中小企业老板、HR 或者财务，这些人平时被社保、发薪这些琐事缠得焦头烂额，最怕出错和不合规。但他们决策谨慎，既要对比价格，又要看你的资质和口碑。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让大模型\"给我个销售流程\"——而是针对你实际描述的卡点做诊断，输出的是\"先拆链路、再定位卡点、后给动作与话术\"的落地方案，能直接拿去给团队执行。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/sales-sop-analysis","children":["立即试用","销售SOP卡点梳理"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+26:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","销售SOP卡点梳理"," 帮你生成"]}],["$","$L33",null,{"agentPath":"/agent/sales-sop-analysis","agentName":"销售SOP卡点梳理"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L34",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+35:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+27:["$","li","流失点-b报价后未回复",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#流失点-b报价后未回复","className":"hover:text-violet-400 transition-colors","children":"流失点 B：报价后未回复"}]}]
+28:["$","li","流失点-c价格异议未处理",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#流失点-c价格异议未处理","className":"hover:text-violet-400 transition-colors","children":"流失点 C：价格异议未处理"}]}]
+29:["$","li","流失点-d决策拖延",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#流失点-d决策拖延","className":"hover:text-violet-400 transition-colors","children":"流失点 D：决策拖延"}]}]
+2a:["$","li","流失点-e签约后首付款未到账",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#流失点-e签约后首付款未到账","className":"hover:text-violet-400 transition-colors","children":"流失点 E：签约后首付款未到账"}]}]
+2b:["$","li","六一线执行表格",{"className":"text-slate-200","children":["$","a",null,{"href":"#六一线执行表格","className":"hover:text-violet-400 transition-colors","children":"六、一线执行表格"}]}]
+2c:["$","li","七减法建议",{"className":"text-slate-200","children":["$","a",null,{"href":"#七减法建议","className":"hover:text-violet-400 transition-colors","children":"七、减法建议"}]}]
+2d:["$","li","建议保留的动作5-个核心动作",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#建议保留的动作5-个核心动作","className":"hover:text-violet-400 transition-colors","children":"建议保留的动作（5 个核心动作）"}]}]
+2e:["$","li","建议合并的动作",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#建议合并的动作","className":"hover:text-violet-400 transition-colors","children":"建议合并的动作"}]}]
+2f:["$","li","建议删除的动作",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#建议删除的动作","className":"hover:text-violet-400 transition-colors","children":"建议删除的动作"}]}]
+30:["$","li","建议放入常规维护-sop-的动作",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#建议放入常规维护-sop-的动作","className":"hover:text-violet-400 transition-colors","children":"建议放入常规维护 SOP 的动作"}]}]
+31:["$","li","八下一步可继续拆解的-sop",{"className":"text-slate-200","children":["$","a",null,{"href":"#八下一步可继续拆解的-sop","className":"hover:text-violet-400 transition-colors","children":"八、下一步可继续拆解的 SOP"}]}]
+36:T78cb,# 人力资源外包业务「询价→成交→交付回款」全流程 SOP 梳理
+
+
+## 一、数据诊断（先看数据，再定动作）
+
+你提供的月均数据如下：
+
+| 环节 | 月均数量 | 环节转化率 |
+|------|----------|------------|
+| 咨询/询盘 | 100 条 | — |
+| 有效报价 | 30 条 | 30%（咨询→报价） |
+| 成交 | 8 单 | 26.7%（报价→成交） |
+| 回款周期 | 30~60 天 | — |
+
+### 1. 当前数据观察
+
+- **咨询→报价流失 70%**：100 条咨询只有 30 条能进入有效报价，说明大量咨询在"了解阶段"就停住了——要么客户只是随口问价，要么销售没有把咨询推进到需求诊断和方案呈现。
+- **报价→成交仅 26.7%**：30 条报价只成交 8 单，接近四分之三的报价石沉大海。这是最大的转化断层。
+- **回款周期 30~60 天偏长**：成交后到回款之间缺少明确的付款节点管理和催收节奏。
+
+### 2. 关键断点
+
+| 断点位置 | 表现 | 严重程度 |
+|----------|------|----------|
+| 断点 A：咨询→有效报价 | 70% 的咨询没有转化为有效报价 | ★★★★ |
+| 断点 B：报价→成交 | 73% 的报价没有成交 | ★★★★★（最大断点） |
+| 断点 C：成交→回款 | 回款周期不可控，缺少催收节点 | ★★★ |
+
+### 3. 可能原因
+
+**断点 A（咨询→报价流失 70%）的可能原因：**
+- 首次接触时没有做需求诊断，客户问价就直接报价，报价后客户拿去比价，销售失去主动权；
+- 咨询响应不及时，客户同时问了好几家，谁先给出专业方案谁占先机；
+- 销售没有区分"真询盘"和"随口问"，把大量时间花在低质量咨询上，高质量咨询反而跟进不够。
+
+**断点 B（报价→成交仅 26.7%）的可能原因：**
+- 报价后缺少结构化的跟进节奏，销售"报完就等"，客户"看完就忘"；
+- 报价单只给了价格，没有给出"为什么选我们"的差异化理由（灵活、规范、响应快）；
+- 客户决策链上有老板、HR、财务多方，销售只对接了一个人，没有推动内部决策；
+- 缺少信任建立动作（案例、资质展示、服务承诺），客户不敢把社保薪酬这种敏感事务交给十几人的小公司；
+- 没有设置报价有效期和行动推动节点，客户"再看看"就无限期拖延。
+
+**断点 C（回款周期偏长）的可能原因：**
+- 合同里付款节点不清晰，或者执行时没有按节点催收；
+- 交付启动和付款没有绑定，客户先用服务后付款，回款自然拖后。
+
+### 4. 优先优化方向
+
+1. **第一优先：报价→成交段（断点 B）** ——这是当前损失最大的环节，30 条报价只成交 8 单，每提升 10 个百分点就是 3 单增量。核心要做的是：报价前先做需求诊断、报价后建立 48 小时/7 天/14 天三级跟进节奏、报价单附差异化理由和信任材料。
+2. **第二优先：咨询→报价段（断点 A）** ——核心是做首次接触的需求诊断，把"问价"转化为"诊断需求后再报价"，同时区分真询盘和低质量咨询，把精力集中在高质量线索上。
+3. **第三优先：成交→回款段（断点 C）** ——核心是把付款节点写进合同、交付启动绑定首付款、建立到期前提醒和逾期催收节奏。
+
+**后续建议补充的关键数据：**
+- 每条咨询的来源渠道（电话/微信/到店/转介绍），判断哪个渠道质量最高；
+- 报价后客户未成交的原因标签（价格/资质/决策拖延/选了别家/需求消失）；
+- 从咨询到报价的平均响应时长；
+- 成交客户的决策周期（从首次接触到签约的平均天数）；
+- 回款逾期比例和平均逾期天数。
+
+
+## 二、用户路径图
+
+```
+[起点：客户通过电话/微信/到店发起询价或咨询]
+        ↓
+[动作1：首次接触 & 需求诊断]（5分钟内响应，了解企业规模、当前HR痛点、决策人）
+        ├─ 未响应/未接通：进入流失兜底 SOP A（未接通激活）
+        ├─ 只是随口问价、无真实需求：转入常规维护 SOP（低频触达）
+        ↓
+[动作2：方案呈现 & 报价]（基于诊断给出定制化方案+报价单+差异化理由）
+        ├─ 客户看完报价不回复：进入流失兜底 SOP B（报价后未回复跟进）
+        ├─ 客户明确说贵/比价：进入流失兜底 SOP C（价格异议处理）
+        ↓
+[动作3：信任建立 & 异议处理]（案例展示、资质说明、服务承诺、推动内部决策）
+        ├─ 客户拖延不决策：进入流失兜底 SOP D（决策拖延激活）
+        ↓
+[动作4：成交签约 & 首付款确认]（合同签署、付款节点确认、首付款到账）
+        ├─ 签约后首付款未到账：进入流失兜底 SOP E（回款催收）
+        ↓
+[动作5：交付启动 & 服务交接]（资料收集、系统开户、服务启动确认）
+        ↓
+[终点：客户完成首付款支付、服务正式交付启动、进入正常服务周期]
+```
+
+
+## 三、SOP 核心定义
+
+| 项目 | 内容 |
+|------|------|
+| **SOP 名称** | 人力资源外包客户「询价→报价→成交→交付回款」核心转化 SOP |
+| **适用业务场景** | 社保代缴、薪酬代理、劳务派遣、岗位外包、灵活用工等 HR 外包服务的 New Logo 新客户开发 |
+| **适用对象** | 20~200 人中小企业的老板、HR 负责人、财务负责人 |
+| **执行人** | 销售顾问（主执行）、销售主管（关键节点复核）、交付专员（交付启动阶段） |
+| **起点** | 客户通过电话/微信/到店发起询价或咨询 |
+| **终点** | 客户签署合同、首付款到账、服务正式交付启动 |
+| **核心目标** | 把"问价客户"推进为"签约付费客户"，并确保首付款在签约后 7 天内到账 |
+| **关键指标** | 咨询→有效报价转化率（目标从 30% 提升到 50%）、报价→成交转化率（目标从 26.7% 提升到 40%）、签约→首付款到账天数（目标 ≤7 天） |
+
+
+## 四、核心动作（精简为 5 个）
+
+### 动作 1：首次接触 & 需求诊断
+
+| 项目 | 内容 |
+|------|------|
+| **动作名称** | 咨询后 5 分钟内首触达 + 需求诊断 |
+| **目标** | 在客户问价时先不报价，先做需求诊断，把"随口问价"转化为"有效需求"，并拿到决策人信息 |
+| **触发时间** | 客户发起咨询后 5 分钟内（工作时间）；非工作时间则次日 9:00 前 |
+| **具体行为** | ① 5 分钟内电话或微信回复，自报身份和来意；② 用 3 个诊断问题了解客户：企业人数和当前社保/薪酬处理方式、当前最头疼的 HR 问题、决策人是谁；③ 记录客户需求标签（人数规模、服务类型、痛点、决策人、紧急程度）；④ 告知下一步：会根据需求出一份定制方案，约定下次沟通时间 |
+| **标准产出** | 客户需求标签表填写完整（至少包含：人数、服务类型、痛点、决策人、下一步时间），并录入 CRM/客户台账 |
+| **利他钩子** | 先帮你判断适合哪种方案、大概什么价位，避免你后面来回对比浪费时间 |
+| **兴趣点** | "你们现在社保和发薪是谁在弄？有没有出过错或者被员工问住过？"——直接戳中痛点 |
+| **信任点** | "我是负责你这块业务的顾问，做了快十年 HR 外包，先帮你把需求理清楚，不合适我也会直说" |
+| **行动指令** | "你先花 1 分钟告诉我这三个信息：公司大概多少人、现在社保是自己交还是找机构、最头疼的是哪块？我帮你判断哪种方案最划算" |
+| **标准话术** | "王总您好，我是XX人力的小李，刚看到您咨询社保代缴的事。先不急着报价，我想先帮您判断一下哪种方案最适合你们——您公司现在大概多少人？社保和发薪现在是行政在弄还是找的机构？平时最头疼的是出错还是流程太繁琐？您把这几个告诉我，我今天内给您出一份针对性的方案和报价，避免您拿一个通用价格去对比，反而看不准。" |
+| **成功标志** | 拿到 3 个诊断信息 + 决策人 + 约定下次沟通时间 |
+| **注意事项** | ① 客户主动问价时，不要直接报数字，先说"价格跟人数和服务类型有关，我先了解一下你的情况，给你一个准的"；② 如果客户坚持要价格区间，给一个区间 + 说明影响因素，然后继续诊断；③ 全程记录，不要凭记忆 |
+
+
+### 动作 2：方案呈现 & 报价
+
+| 项目 | 内容 |
+|------|------|
+| **动作名称** | 基于诊断的定制化方案 + 报价单发送 |
+| **目标** | 让客户看到"你懂我的情况"，报价单不只是价格，而是解决方案 |
+| **触发时间** | 需求诊断完成后 24 小时内（越快越好，最好当天） |
+| **具体行为** | ① 根据诊断信息制作一页式方案：客户当前痛点 → 我们怎么解决 → 服务内容清单 → 报价 → 服务承诺；② 报价单附上 2~3 个差异化理由（比大机构灵活、比小作坊规范、响应时效承诺）；③ 附 1 个同规模客户的案例或客户评价（脱敏）；④ 微信发送后电话告知，约定 48 小时内沟通反馈 |
+| **标准产出** | 方案报价单发送记录 + 客户已读/已收确认 + 下次沟通时间约定 |
+| **利他钩子** | 这份方案是按你的实际情况做的，你看完就知道哪些钱该花、哪些可以省 |
+| **兴趣点** | "我按你们 80 人的规模算了一下，如果现在行政自己弄，隐性成本其实比外包还高，我给你列了个对比" |
+| **信任点** | "报价里每一项服务内容都写清楚了，没有隐藏收费；我们服务承诺写进合同，出错我们担" |
+| **行动指令** | "方案我发你了，你花 3 分钟看一下第三页的服务清单和报价，看完回复我'看了'，我明天上午给你打个电话过一遍，有问题当场解答" |
+| **标准话术** | "王总，方案和报价我发你了。这份是按你昨天说的 80 人、社保+发薪一起做来定的，里面把服务内容、报价、我们的响应承诺都写清楚了。你重点看第三页的服务清单，看看有没有漏掉你需要的。看完回复我一下，我明天上午 10 点给你打电话过一遍，你有问题当场问，比你自己琢磨快。" |
+| **成功标志** | 客户确认收到方案 + 约定下次沟通时间 |
+| **注意事项** | ① 报价单必须包含服务内容清单，不能只给一个总价；② 报价单设置有效期（如 15 天），制造合理紧迫感；③ 案例要选同规模、同行业的，增强代入感 |
+
+
+### 动作 3：信任建立 & 异议处理
+
+| 项目 | 内容 |
+|------|------|
+| **动作名称** | 报价后 48 小时跟进 + 异议处理 + 推动内部决策 |
+| **目标** | 在客户比价和犹豫的阶段，用信任材料和异议处理把客户拉回来，并推动客户内部决策 |
+| **触发时间** | 报价发送后 48 小时内第一次跟进；之后第 7 天第二次；第 14 天第三次 |
+| **具体行为** | ① 48 小时内电话跟进，问"方案看了吗？哪里不清楚？"；② 针对客户异议（价格贵/资质担心/再对比对比）用预设话术处理；③ 了解客户内部决策流程（谁拍板、还要给谁看），主动提出"我可以帮你给老板/财务做个 15 分钟说明"；④ 发送信任材料：营业执照、人力资源服务许可证、同规模客户案例、服务承诺书；⑤ 第 7 天和第 14 天分别用不同角度跟进（案例角度、风险角度、服务承诺角度） |
+| **标准产出** | 客户异议记录 + 决策链信息 + 下一步明确动作和时间 |
+| **利他钩子** | 帮你把方案给老板/财务讲清楚，省得你自己转述漏掉重点；也帮你避坑——有些低价机构后面加价或服务跟不上 |
+| **兴趣点** | "上周有个跟你们差不多大的公司，之前自己弄社保漏缴了一个人，补缴加滞纳金花了小一万，我跟你说是想让你注意这个风险" |
+| **信任点** | "我们的资质和服务承诺都可以发你看，合同里写清楚出错我们担；你也可以问我们现有客户的反馈" |
+| **行动指令** | "你这边还有谁需要一起看方案？要不我明天下午花 15 分钟给你和财务一起过一遍，把该问的一次问清楚，省得你来回转述" |
+| **标准话术（价格异议）** | "王总，价格这块我理解你要对比。不过你可以算一下：现在行政每月花在社保发薪上的时间大概多少？出错一次补缴加滞纳金多少？我们的报价里含了出错兜底和响应时效，这部分其实是帮你省风险成本。你要对比的话，建议把服务内容和出错责任一起对比，不然光看价格容易选到后面加价的。" |
+| **标准话术（再对比对比）** | "应该的，这事确实要对比。我建议你对比的时候重点看三个：一是资质全不全，二是出错谁担责，三是响应时效写没写进合同。这三个比价格更能决定后面省不省心。你对比完如果还有疑问，随时找我，我帮你一起看。" |
+| **成功标志** | 客户明确下一步动作（约演示/给决策人看/确认签约时间）或给出明确异议 |
+| **注意事项** | ① 每次跟进必须有新信息或新角度，不要只是"问考虑得怎么样"；② 第 14 天仍无进展的，转入常规维护 SOP，不再高频跟进；③ 异议处理话术要提前培训，让每个销售都能背下来 |
+
+
+### 动作 4：成交签约 & 首付款确认
+
+| 项目 | 内容 |
+|------|------|
+| **动作名称** | 合同签署 + 首付款到账确认 |
+| **目标** | 把口头意向转化为签约和首付款到账，明确付款节点 |
+| **触发时间** | 客户确认意向后 24 小时内发送合同；签约后 7 天内确认首付款到账 |
+| **具体行为** | ① 发送标准合同 + 服务确认单，合同中明确付款节点（首付款比例、后续付款时间）；② 电话或当面过一遍合同关键条款（服务内容、付款节点、出错责任、服务期限）；③ 确认首付款金额和到账时间，提供对公账户和付款方式；④ 首付款到账后当天确认并启动交付流程；⑤ 如 7 天内未到账，进入回款催收 SOP |
+| **标准产出** | 合同签署完成 + 首付款到账截图/银行记录 + 交付启动通知 |
+| **利他钩子** | 早签约早启动，你这个月社保下个月就能交接过来，避免断缴；首付款到账我们当天就开始做交接准备 |
+| **兴趣点** | "合同里付款节点我帮你排好了，首付款之后按月付，不用一次压太多现金" |
+| **信任点** | "合同里服务内容、出错责任、响应时效都写清楚了，你签之前可以逐条看，有不清楚的我逐条解释" |
+| **行动指令** | "合同我发你了，你重点看第二页的服务内容和第四页的付款节点，没问题的话这周签了，我安排下周开始交接，这样下个月社保不会断" |
+| **标准话术** | "王总，合同我发你了。付款节点我按你说的排的：首付款 50%，服务启动后 30 天付尾款，这样你现金流压力小一点。你重点看第二页服务清单和第四页付款节点，没问题这周签，我这边安排下周一启动交接，确保下个月社保不断缴。有要改的地方你直接说，我当天改。" |
+| **成功标志** | 合同签署 + 首付款到账 |
+| **注意事项** | ① 付款节点必须写进合同，不能口头约定；② 首付款到账前不启动正式交付（可以做准备工作，但不承诺服务已开始）；③ 合同关键条款要电话过一遍，不能只发文件 |
+
+
+### 动作 5：交付启动 & 服务交接
+
+| 项目 | 内容 |
+|------|------|
+| **动作名称** | 首付款到账后 3 个工作日内完成交付启动 |
+| **目标** | 让客户感受到"签约后马上有人管"，建立交付初期的信任，避免"签完就冷落" |
+| **触发时间** | 首付款到账后 3 个工作日内 |
+| **具体行为** | ① 交付专员 24 小时内联系客户，自报身份和职责；② 发送资料清单（员工名单、社保账号信息、薪酬结构等），约定交接时间；③ 完成系统开户/账号对接；④ 发送服务启动确认函（服务内容、对接人、响应时效、紧急联系方式）；⑤ 启动后第 3 天回访确认交接顺利 |
+| **标准产出** | 资料收集完成 + 系统开户完成 + 服务启动确认函发送 + 第 3 天回访记录 |
+| **利他钩子** | 资料早交早交接，这个月就能正常走，不会出现断缴或发薪延误 |
+| **兴趣点** | "交接清单我整理好了，你按清单准备，大概半小时就能弄完，不用你额外花时间琢磨" |
+| **信任点** | "我是负责你后续服务的交付专员，以后社保、发薪、员工问题都找我，响应时效写在确认函里" |
+| **行动指令** | "这份资料清单你收一下，按上面列的准备好，我们约周三上午交接，大概 40 分钟，交接完这个月就能正常走" |
+| **标准话术** | "王总您好，我是负责您这边后续服务的交付专员小张，首付款已经确认到账了。接下来交接由我跟进，我发你一份资料清单，你按清单准备就行，大概半小时。我们约周三上午 10 点交接，交接完这个月社保就能正常走，不会断。交接后有任何问题直接找我，响应时效我写在确认函里了。" |
+| **成功标志** | 资料交接完成 + 系统开户完成 + 客户确认服务已启动 |
+| **注意事项** | ① 交付专员必须在首付款到账后 24 小时内联系客户，不能拖；② 资料清单要简单明了，不要让客户觉得麻烦；③ 第 3 天回访是建立信任的关键动作，不能省 |
+
+
+## 五、流失兜底策略
+
+### 流失点 A：咨询后未接通/未响应
+
+| 项目 | 内容 |
+|------|------|
+| **流失点** | 客户发起咨询后，销售首次触达未接通或客户未回复 |
+| **用户表现** | 电话不接、微信不回、留言未读 |
+| **判断标准** | 首次触达后 24 小时内无任何回复 |
+| **可能原因** | 客户同时在问多家、暂时忙、只是随手咨询、号码错误 |
+| **兜底动作** | 第 1 天换时间段再打一次 + 发一条微信（含利他信息）；第 3 天再发一条案例/风险提醒类微信；第 7 天最后一条，告知"先不打扰，有需要随时找我"，转入常规维护 |
+| **兜底话术** | "王总，昨天给您留言可能没看到。我这边刚好整理了一份《中小企业社保常见 5 个坑》，不少老板看完发现自己在踩，我发您参考一下，不涉及推销，您先看看。" |
+| **后续归类** | 7 天无回复 → 转入常规维护 SOP（每月 1 次低频触达，发行业提醒/政策变化） |
+
+### 流失点 B：报价后未回复
+
+| 项目 | 内容 |
+|------|------|
+| **流失点** | 方案报价发送后客户不回复 |
+| **用户表现** | 微信已读不回、电话不接、说"再看看" |
+| **判断标准** | 报价发送后 48 小时内无实质反馈 |
+| **可能原因** | 在比价、方案没看懂、决策人没看到、价格超预算、暂时不紧急 |
+| **兜底动作** | 48 小时电话跟进（问具体疑问）；第 7 天换角度跟进（案例/风险提醒）；第 14 天最后跟进（告知报价有效期），之后转入常规维护 |
+| **兜底话术** | "王总，方案发了一周了，不知道你那边对比得怎么样。我不催你决定，就是想问一下有没有哪里我没讲清楚，或者你对比下来有拿不准的地方，我帮你一起看看，免得你选错后面麻烦。" |
+| **后续归类** | 14 天无进展 → 转入常规维护 SOP（每 2 周 1 次，发政策变化/案例/节日问候） |
+
+### 流失点 C：价格异议未处理
+
+| 项目 | 内容 |
+|------|------|
+| **流失点** | 客户明确表示"贵了""别家更便宜" |
+| **用户表现** | 直接说价格高、拿别家报价对比、要求降价 |
+| **判断标准** | 客户明确表达价格异议且未进入下一步 |
+| **可能原因** | 只对比了价格没对比服务内容、预算确实有限、用别家报价压价 |
+| **兜底动作** | 不直接降价，先做价值对比（服务内容、出错责任、响应时效）；如客户预算确实有限，提供简化版方案（减少服务项）；如仍不接受，转入常规维护 |
+| **兜底话术** | "王总，价格我理解。不过建议你对比的时候把三样东西放一起看：服务内容清单、出错谁担责、响应时效。有些报价低是因为后面加价或者出错不管，真出一次事补缴加滞纳金就回来了。你要是预算有压力，我可以帮你调整一下服务组合，把非核心的先去掉，你看行不行？" |
+| **后续归类** | 价格谈不拢 → 转入常规维护 SOP（季度触达，政策变化时联系） |
+
+### 流失点 D：决策拖延
+
+| 项目 | 内容 |
+|------|------|
+| **流失点** | 客户认可方案但迟迟不签约 |
+| **用户表现** | 说"再想想""等下个月""要跟合伙人商量" |
+| **判断标准** | 报价后 14 天仍无明确签约时间 |
+| **可能原因** | 决策人没参与、内部有分歧、当前不紧急、在等别家 |
+| **兜底动作** | 主动提出给决策人做 15 分钟说明；帮客户梳理"现在签 vs 再等等"的利弊（断缴风险、政策变化）；设定合理紧迫感（报价有效期、服务排期） |
+| **兜底话术** | "王总，方案你认可的话，我建议这个月定下来。一是报价有效期到这个月底，二是下个月社保基数可能调整，早交接早按老基数走。你要是还要跟合伙人商量，要不我花 15 分钟跟他电话过一遍，把该问的一次问清楚，省得你转述。" |
+| **后续归类** | 超过 30 天仍拖延 → 转入常规维护 SOP（每月 1 次，政策节点重点触达） |
+
+### 流失点 E：签约后首付款未到账
+
+| 项目 | 内容 |
+|------|------|
+| **流失点** | 合同签署后首付款未在约定时间内到账 |
+| **用户表现** | 签约后拖延付款、说"走流程"、财务不在 |
+| **判断标准** | 合同约定付款日后 3 个工作日仍未到账 |
+| **可能原因** | 客户内部付款流程慢、财务不在、客户想先用服务后付款 |
+| **兜底动作** | 付款日前 1 天提醒；到期未付第 1 天电话确认；第 3 天联系决策人；第 7 天发正式催款函并暂停交付启动 |
+| **兜底话术** | "王总，合同约定的首付款今天是付款日，我这边还没看到到账。想确认一下是财务流程还没走完，还是有什么问题？我这边交付准备都做好了，首付款一到账当天就启动交接，避免耽误你这个月社保。" |
+| **后续归类** | 超过 15 天未到账 → 销售主管介入，评估是否暂停交付或调整合同 |
+
+
+## 六、一线执行表格
+
+| 序号 | 用户状态 | 触发时间 | 执行动作 | 标准产出 | 利他钩子 | 兴趣点 | 信任点 | 行动指令 | 标准话术/操作 | 执行人 | 成功标志 | 未完成怎么办 | 备注 |
+|------|----------|----------|----------|----------|----------|--------|--------|----------|---------------|--------|----------|--------------|------|
+| 1 | 新咨询/询价 | 咨询后 5 分钟内（非工作时间次日 9:00 前） | 电话/微信首触达，自报身份，做需求诊断（3 个问题） | 需求标签表填写完整（人数/服务类型/痛点/决策人/下次时间） | 先帮你判断适合哪种方案和价位，避免来回对比浪费时间 | 问"现在社保发薪谁在弄？有没有出过错或被员工问住？" | "我做 HR 外包快十年，先帮你理清需求，不合适直说" | "告诉我三个信息：多少人、社保谁交、最头疼哪块，我今天出针对性方案" | 见动作 1 标准话术 | 销售顾问 | 拿到 3 个诊断信息+决策人+约定下次时间 | 24 小时无回复→流失兜底 A | 客户坚持问价时给区间+说明因素，继续诊断 |
+| 2 | 需求已诊断 | 诊断后 24 小时内（最好当天） | 制作一页式方案+报价单+差异化理由+同规模案例，微信发送后电话告知 | 方案报价单发送记录+客户已收确认+下次沟通时间 | 方案按你实际情况做的，看完知道哪些钱该花哪些能省 | "按你们 80 人算，行政自己弄隐性成本比外包还高，我列了对比" | "每项服务写清楚没隐藏收费，出错我们担写进合同" | "看第三页服务清单和报价，看完回复'看了'，明天电话过一遍" | 见动作 2 标准话术 | 销售顾问 | 客户确认收到+约定下次沟通时间 | 48 小时无反馈→流失兜底 B | 报价单必须有服务清单，设 15 天有效期 |
+| 3 | 报价已发送 | 报价后 48 小时/第 7 天/第 14 天 | 三次不同角度跟进：48h 问疑问、7 天案例角度、14 天风险角度；处理异议；推动决策人参与 | 异议记录+决策链信息+下一步动作和时间 | 帮你给老板/财务讲清楚，省得转述漏重点；帮你避低价机构的坑 | "上周同规模公司漏缴一人补缴加滞纳金花了小一万" | "资质和服务承诺发你看，合同写清楚出错我们担" | "还有谁需要看方案？我明天花 15 分钟给你和财务一起过一遍" | 见动作 3 价格异议/再对比话术 | 销售顾问 | 客户明确下一步动作或给出明确异议 | 14 天无进展→常规维护 SOP | 每次跟进必须有新信息或新角度 |
+| 4 | 客户确认意向 | 确认后 24 小时内发合同；签约后 7 天内确认首付款 | 发合同+服务确认单，电话过关键条款，确认首付款金额和到账时间 | 合同签署+首付款到账记录+交付启动通知 | 早签约早启动，下个月社保不断缴；首付款后按月付不压现金 | "付款节点帮你排好了，首付 50% 后按月付，现金流压力小" | "服务内容、出错责任、响应时效都写合同里，逐条可看" | "看第二页服务清单和第四页付款节点，这周签了下周交接" | 见动作 4 标准话术 | 销售顾问+销售主管复核 | 合同签署+首付款到账 | 7 天未到账→流失兜底 E | 付款节点必须写进合同；首付款到账前不启动正式交付 |
+| 5 | 首付款已到账 | 到账后 3 个工作日内（专员 24 小时内联系） | 交付专员联系客户，发资料清单，约交接时间，完成系统开户，发服务启动确认函，第 3 天回访 | 资料收集完成+系统开户完成+确认函发送+回访记录 | 资料早交早交接，这个月正常走不断缴不延误 | "交接清单整理好了，按清单准备半小时弄完" | "我是后续交付专员，社保发薪员工问题都找我，响应时效写确认函" | "按清单准备，约周三上午 10 点交接，40 分钟，交接完这个月正常走" | 见动作 5 标准话术 | 交付专员 | 资料交接完成+系统开户+客户确认服务启动 | 资料未齐→第 2 天再催一次；仍不齐→销售顾问协助 | 专员必须 24 小时内联系；第 3 天回访不能省 |
+
+
+## 七、减法建议
+
+### 建议保留的动作（5 个核心动作）
+
+1. **首次接触 & 需求诊断**——解决"咨询→报价流失 70%"的断点，把问价转化为有效需求
+2. **方案呈现 & 报价**——让报价单成为解决方案而非价格单，提升报价的专业度和差异化
+3. **信任建立 & 异议处理**——解决"报价→成交仅 26.7%"的最大断点，用三级跟进和异议话术推动成交
+4. **成交签约 & 首付款确认**——把口头意向转化为合同和首付款，绑定付款节点
+5. **交付启动 & 服务交接**——建立交付初期信任，避免"签完就冷落"，为续费和转介绍打基础
+
+### 建议合并的动作
+
+- **将"发送资质材料"和"发送案例"合并为"信任材料包"** ——两者都在解决"客户不信任小公司"的问题，合并为一个动作一次发送，减少执行次数。
+- **将"第 7 天跟进"和"第 14 天跟进"合并为"阶梯式跟进节奏"** ——不需要单独列为两个动作，统一在动作 3 中按时间节点执行即可。
+
+### 建议删除的动作
+
+- **删除"客户回访满意度调查"** ——在当前阶段（新客户开发）这不是核心转化动作，放入交付后常规服务 SOP 即可。
+- **删除"朋友圈日常运营"** ——不能直接推动当前客户进入下一步，放入常规维护 SOP 或市场部工作。
+
+### 建议放入常规维护 SOP 的动作
+
+- **未成交客户的长期培育**（政策变化提醒、行业案例分享、节日问候）——放入常规维护 SOP，每 2 周 1 次低频触达，不占主流程精力。
+- **老客户转介绍激励**——放入老客户维护 SOP，不属于新客户开发主流程。
+- **客户满意度回访**——放入交付后服务 SOP。
+
+
+## 八、下一步可继续拆解的 SOP
+
+基于当前这段"询价→成交→交付回款"主流程，建议下一步继续拆解以下子 SOP：
+
+1. **未接通/未回复咨询激活 SOP**——针对首次触达未接通的客户，设计 3 次不同时间段+不同内容的激活节奏
+2. **报价后 14 天三级跟进 SOP**——把动作 3 的跟进节奏细化到每一天说什么、发什么
+3. **价格异议处理专项 SOP**——把常见的 5 种价格异议（贵了/别家便宜/预算不够/再降点/先免费试）逐一配话术
+4. **决策人参与推动 SOP**——针对"对接人不是决策人"的情况，设计如何推动对接人帮你引荐决策人
+5. **合同签署到首付款到账 SOP**——细化付款节点管理、到期提醒、逾期催收的完整节奏
+6. **交付启动 7 天交接 SOP**——从首付款到账到服务正常运转的 7 天详细交接流程
+7. **老客户续费/增购 SOP**——针对已服务客户的续费提醒和增购推荐（这是你目前存量业务的核心）
+8. **老客户转介绍激励 SOP**——设计转介绍的触发时机、激励政策和话术（你目前主要靠转介绍，这段值得单独做透）
+9. **常规维护客户低频触达 SOP**——针对 14 天未成交、30 天未签约的客户，设计每 2 周 1 次的触达内容和节奏
+
+
+**最后提醒：** 以上 SOP 是基于你提供的估算数据设计的。建议你接下来重点补充三个数据：① 每条咨询的来源渠道和成交率（判断哪个渠道值得加大投入）；② 报价未成交的原因标签（验证断点 B 的原因判断是否准确）；③ 从首次接触到签约的平均决策天数（帮你设定更精准的跟进节奏）。有了这三组数据，下一版 SOP 可以做到更精准的节奏和话术优化。32:["$","$L35",null,{"agentKey":"sales-sop-analysis","messageContent":"$36","images":"$undefined","contentType":"$undefined"}]
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+37:I[69936,[],"IconMark"]
+16:null
+1a:[["$","title","0",{"children":"人力资源外包机构 · 销售 SOP 卡点梳理 - 案例库 | 来财有方AI"}],["$","meta","1",{"name":"description","content":"销售SOP卡点梳理真实生成案例：我做人力资源外包的，公司不大，十几个人，主要帮中小企业处理社保、薪酬、代发工资这些事务。我自己是销售出身，跑客户跑了快十"}],["$","link","2",{"rel":"author","href":"https://www.laicaiyoufang.com"}],["$","meta","3",{"name":"author","content":"来财有方AI"}],["$","meta","4",{"name":"generator","content":"Next.js"}],["$","meta","5",{"name":"keywords","content":"来财有方,AI增长社区,AI赋能,一人公司,企业家,商业变现,AI智能体,新媒体增长"}],["$","meta","6",{"name":"robots","content":"noindex,nofollow"}],["$","link","7",{"rel":"canonical","href":"https://www.laicaiyoufang.com/case-library/hr-sales-sop/"}],["$","meta","8",{"name":"bytedance-verification-code","content":"2pjSrf9B5R5J51KNHPlM"}],["$","meta","9",{"property":"og:title","content":"人力资源外包机构 · 销售 SOP 卡点梳理 - 案例库 - 来财有方AI"}],["$","meta","10",{"property":"og:description","content":"销售SOP卡点梳理真实生成案例：我做人力资源外包的，公司不大，十几个人，主要帮中小企业处理社保、薪酬、代发工资这些事务。我自己是销售出身，跑客户跑了快十"}],["$","meta","11",{"property":"og:url","content":"https://www.laicaiyoufang.com/case-library/hr-sales-sop/"}],["$","meta","12",{"property":"og:site_name","content":"来财有方AI"}],["$","meta","13",{"property":"og:locale","content":"zh_CN"}],["$","meta","14",{"property":"og:image","content":"https://www.laicaiyoufang.com/laicaiyoufang-ui-preview/og-share.jpg"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"人力资源外包机构 · 销售 SOP 卡点梳理"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"来财有方AI"}],["$","meta","21",{"name":"twitter:description","content":"帮老板和一人公司AI落地/增长有方"}],["$","meta","22",{"name":"twitter:image","content":"https://www.laicaiyoufang.com/laicaiyoufang-ui-preview/og-share.jpg"}],["$","link","23",{"rel":"icon","href":"/laicaiyoufang-ui-preview/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$L37","24",{}]]

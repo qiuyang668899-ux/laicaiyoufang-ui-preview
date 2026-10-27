@@ -1,0 +1,261 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T707,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/estate-explosive#article","headline":"房产中介 · 强人设爆款选题","description":"强人设爆款选题真实生成案例：我是卖二手房的，干这行五六年了，主要在一个片区深耕。手上房源基本都熟，哪套有暗病、哪套能捡漏，我心里都有数。","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/estate-explosive"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/explosive-topics","name":"强人设爆款选题"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/estate-explosive#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"房产中介 · 强人设爆款选题","item":"https://www.laicaiyoufang.com/case-library/estate-explosive"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/explosive-topics","name":"强人设爆款选题","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/explosive-topics","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"强人设爆款选题","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"专业服务/中介服务型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"房产中介"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"房产中介 · 强人设爆款选题"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我是卖二手房的，干这行五六年了，主要在一个片区深耕。手上房源基本都熟，哪套有暗病、哪套能捡漏，我心里都有数。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"二手房买卖、带看、过户代办这些，主打一个对片区熟、不坑人。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"刚需和改善型买家，尤其第一次买房的年轻人，怕买贵、怕买到有问题的房子。"}]]}]]}]
+10:T2c09,这是强人设信任流量的内容系统 - 选题（潜在动机挖掘版），好的开头好选题决定一切，让流量带着信任来，让流量带着客资来。选题策略：直击用户的潜在情感动机，做大 IP。
+
+请先理解核心理论：IP内容价值的三类选题方向与三层蛋糕模型：
+
+【三类选题方向】
+
+第一类：垂直内容选题
+- 定义：与卖的产品 / 服务强相关，内容可以落在产品功能、使用场景，也可以直击目标客户在购买决策前的深层恐惧或渴望，必须能吸引精准客户。
+第二类：泛内容选题
+- 定义：与卖的产品 / 服务弱相关或无关，内容可以描绘目标人群的生活场景，也可以聚焦目标客户作为 "那一类人群" 的底层焦虑、欲望或兴趣。
+第三类：人设化内容选题
+- 定义：展现真实自我、成长故事、行业洞察、价值观的内容。展示 "我为什么这么做" 背后的深层动机。
+
+【三层蛋糕模型】
+
+第一层：刚需层（产品 / 服务卖点）—— 基本区
+- 定义：直白地讲产品 / 服务功能、材质、价格、参数。或讲出我在这个行业的专业、资深、可靠。
+- 效果：吸引来的用户已经在货比三家，竞争激烈，能非常精准的获客，但流量难以做大。
+- 示例："我家酒是手工酿的，入口绵柔回甘，直接对标一线大牌，白酒这行我干了三十多年了。"
+
+第二层：影响层（使用场景）—— 进阶区
+- 定义：描绘产品使用的具体场景、氛围，讲解在什么时机、什么环境下适合使用这类产品。
+- 效果：吸引用户开始思考当下要不要做这件事、要不要入手这个产品，转化潜力优于刚需层，但流量天花板依旧明显。
+- 示例："宴请重要客户、老同学老战友聚会小酌，桌上要是没瓶好酒，这顿饭的气氛总差口气。"
+
+第三层：潜在层（情感动机）—— 核心爆发区
+- 定义：挖掘目标客户产生需求之前的深层恐惧、渴望、身份认同和情感归属。回答 "目标客户购买前，内心在忍受什么痛苦？渴望改变什么？"
+- 效果：能打破圈层，让本来没想买的人被强烈吸引，建立无与伦比的信任和 IP 势能。这才是大 IP 的摇篮。
+- 示例："一个人扛起整个家累不累？有多久没安安静静坐下来，倒杯酒，好好放松一把了？"
+
+### 1. 垂直内容选题
+
+**1. 看二手房别光盯着装修新不新，我干了五六年，教你三分钟看出这房子有没有暗病。**
+
+- 适用理由：属于刚需层，直接输出片区经验与验房硬知识，建立"懂行"的专业信任
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：确立地位
+
+**2. 第一次买房怕被中介牵着鼻子走？过户带看这些流程，我掰开揉碎给你讲明白。**
+
+- 适用理由：属于刚需层，把交易流程讲透，降低新手的决策恐惧
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、促进转化
+
+**3. 同一片区两套房差二十万，差在哪？我把决定房价的几个硬指标给你一条条捋清楚。**
+
+- 适用理由：属于刚需层，讲价格背后的判断逻辑，直接回应"怕买贵"
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：确立地位
+
+**4. 买房签合同前，这几个条款你必须一个字一个字看，我见过太多人栽在这上面。**
+
+- 适用理由：属于刚需层，聚焦合同风险点，直击怕踩坑的恐惧
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：加深信任、促进转化
+
+**5. 带看二手房我从来不让客户只看一遍，白天看一次晚上再来一次，原因很实在。**
+
+- 适用理由：属于刚需层，展示带看专业方法，体现"不坑人"的做事标准
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：加深信任
+
+**6. 这片区哪几栋楼采光差、哪几户临街吵，我闭着眼都能说出来，买房前先问我一句。**
+
+- 适用理由：属于刚需层，用片区深耕的熟悉度建立不可替代的专业形象
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：确立地位、建立链接
+
+**7. 二手房过户要跑几趟、带哪些材料、哪步最容易卡住，我整理成一条线给你照着走。**
+
+- 适用理由：属于刚需层，把代办服务的价值具体化，减少流程焦虑
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：促进转化
+
+**8. 小两口第一次买房，预算和通勤怎么权衡，我陪几十对年轻人看过房，说点实在的。**
+
+- 适用理由：属于影响层，描绘年轻夫妻首次置业的真实决策场景
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：培育需求
+
+**9. 孩子快上学了想换套大点的，改善型换房最怕旧房卖不掉新房接不上，这步得算好。**
+
+- 适用理由：属于影响层，聚焦改善换房的时机与衔接场景
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：培育需求、促进转化
+
+**10. 爸妈年纪大了想接过来一起住，看房时楼层、电梯、周边这些细节，比户型更该先看。**
+
+- 适用理由：属于影响层，描绘三代同住的选房场景，触发改善需求
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：培育需求
+
+**11. 攒了几年首付终于能上车，我却劝有些年轻人先别急，买错一套房比晚买两年更难受。**
+
+- 适用理由：属于潜在层，击中年轻人怕买错、怕被套牢的深层恐惧
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、加深信任
+
+**12. 买房这事最怕的不是贵，是签完字才发现问题，那种憋屈我见过太多客户咽下去。**
+
+- 适用理由：属于潜在层，放大"买后才发现"的后悔恐惧，反衬专业把关的价值
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、促进转化
+
+**13. 一套房可能掏空两代人的积蓄，我每次带看都在想，这单要是出问题我怎么跟人交代。**
+
+- 适用理由：属于潜在层，把中介的责任感与客户的沉没成本摆到台面上
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：加深信任
+
+**14. 客户问我这房子能不能买，我说能，但我心里那把尺子，比合同上的条款还严。**
+
+- 适用理由：属于潜在层，展示决策背后的自我标准，建立"不坑人"的人格信任
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：加深信任、确立地位
+
+**15. 年轻人第一次买房最怕被当成待宰的羔羊，我偏要把话说明白，让你自己拿主意。**
+
+- 适用理由：属于潜在层，为新手买家发声，击中信息不对称带来的无力感
+- 命中人群：垂直人群
+- 选题类型：垂直
+- 选题目标：建立链接、加深信任
+
+---
+
+### 2. 泛内容选题
+
+**1. 在大城市租房搬了五次家的人才懂，什么时候能有一把钥匙，是自己家的门。**
+
+- 适用理由：属于影响层，描绘漂泊租房的场景，唤起对安家的向往
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：培育需求、扩大影响
+
+**2. 每个月工资一到账先划走房租，剩下的才敢花，这种日子过久了人是会累的。**
+
+- 适用理由：属于影响层，聚焦租房族的现金流压力场景
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：培育需求
+
+**3. 过年回家被亲戚追着问买房了没，那种笑着应付的滋味，很多年轻人都尝过。**
+
+- 适用理由：属于影响层，描绘被追问的社会场景，触发身份焦虑
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：扩大影响、建立链接
+
+**4. 三十岁上下的人最怕什么？不是没钱，是看着身边人一个个安了家，自己还在原地打转。**
+
+- 适用理由：属于潜在层，击中同龄人比较带来的身份焦虑
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、扩大影响
+
+**5. 爸妈嘴上说不催你买房，可你回家看见他们偷偷攒钱的样子，心里那一下就酸了。**
+
+- 适用理由：属于潜在层，触碰对父母的愧疚与责任感
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接
+
+**6. 一个男人最沉默的时候，大概就是算完首付发现自己还差一截，却不好意思开口那会儿。**
+
+- 适用理由：属于潜在层，击中男性在成家责任前的无力与自尊
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：建立链接、扩大影响
+
+**7. 为什么现在年轻人越努力越焦虑？房子这件事，像根刺扎在心里，不碰也隐隐作痛。**
+
+- 适用理由：属于潜在层，把买房焦虑上升为一代人的集体情绪
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：扩大影响
+
+**8. 结了婚还跟人合租、东西堆在出租屋不敢买，这种将就的日子，谁过谁知道。**
+
+- 适用理由：属于潜在层，描绘新婚家庭的将就感，唤起对稳定居所的渴望
+- 命中人群：泛人群
+- 选题类型：泛
+- 选题目标：培育需求、建立链接
+
+---
+
+### 3. 人设化内容选题
+
+**1. 我干这行五六年，见过客户交完定金后悔得整宿睡不着，从那以后我带看再不敢马虎。**
+
+- 适用理由：属于潜在层，用真实触动讲出职业标准的来源，展示动机
+- 命中人群：垂直人群、泛人群
+- 选题类型：人设化
+- 选题目标：加深信任
+
+**2. 有套房我明明能多拿点佣金，却劝客户别买，同行说我傻，可我心里那道坎过不去。**
+
+- 适用理由：属于潜在层，用价值冲突展现"不坑人"的人格底色
+- 命中人群：垂直人群、泛人群
+- 选题类型：人设化
+- 选题目标：加深信任、确立地位
+
+**3. 我为什么死磕这一个片区？因为只有把每条街每栋楼都摸透，我才敢对客户拍胸脯。**
+
+- 适用理由：属于潜在层，讲深耕背后的动机与责任感
+- 命中人群：垂直人群
+- 选题类型：人设化
+- 选题目标：确立地位、加深信任
+
+**4. 刚入行时我也带客户看过有问题的房子，那单之后我给自己立了条规矩，一直守到今天。**
+
+- 适用理由：属于潜在层，用成长转折讲出价值观的形成
+- 命中人群：垂直人群、泛人群
+- 选题类型：人设化
+- 选题目标：加深信任
+
+**5. 客户签完合同握着我的手说谢谢，那一刻我觉得，这行再累也值了，钱不是唯一的念想。**
+
+- 适用理由：属于潜在层，用温暖回忆展示职业的意义感
+- 命中人群：垂直人群、泛人群
+- 选题类型：人设化
+- 选题目标：建立链接、加深信任
+
+**6. 我卖的不只是一套房，是一个年轻人在这座城市扎根的底气，这话我从来没跟客户说过。**
+
+- 适用理由：属于潜在层，揭示 IP 的隐秘动机与职业信念
+- 命中人群：垂直人群、泛人群
+- 选题类型：人设化
+- 选题目标：建立链接、确立地位b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["强人设爆款选题"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","1-垂直内容选题",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#1-垂直内容选题","className":"hover:text-violet-400 transition-colors","children":"1. 垂直内容选题"}]}],["$","li","2-泛内容选题",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#2-泛内容选题","className":"hover:text-violet-400 transition-colors","children":"2. 泛内容选题"}]}],["$","li","3-人设化内容选题",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#3-人设化内容选题","className":"hover:text-violet-400 transition-colors","children":"3. 人设化内容选题"}]}]]}]]}],["$","$Lf",null,{"agentKey":"explosive-topics","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["强人设爆款选题","是什么"]}],["$","p",null,{"children":["这是一个面向“","房产中介","”行业的","强人设爆款选题","应用案例：","我是卖二手房的，干这行五六年了，主要在一个片区深耕。手上房源基本都熟，哪套有暗病、哪套能捡漏，我心里都有数。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","强人设爆款选题是来财有方AI「内容获客」分类下的一款 AI 智能体，基于你的个人画像，挖掘目标受众的真实需求与痛点，定制一批有爆款的选题，帮你在短视频、公众号、小红书等内容平台持续产出有人看的选题清单。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","二手房买卖、带看、过户代办这些，主打一个对片区熟、不坑人。","，主要客群是","刚需和改善型买家，尤其第一次买房的年轻人，怕买贵、怕买到有问题的房子。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多人做内容最大的卡点，不是不会写，而是\"不知道写什么\"——凭感觉选题，结果要么自嗨、要么没人看。这个智能体解决的是选题荒与选题不准的问题，把\"我觉得\"换成\"目标客户真正关心什么\"。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我是卖二手房的，干这行五六年了，主要在一个片区深耕。手上房源基本都熟，哪套有暗病、哪套能捡漏，我心里都有数。","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁），以及你想主攻的平台和内容方向；可选补充你已有的爆款或你观察到的同行选题，让生成的选题更贴合你的赛道。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","强人设爆款选题","输出的是面向","刚需和改善型买家，尤其第一次买房的年轻人，怕买贵、怕买到有问题的房子。","的落地方案（见上文“生成结果”），整体能力为：","输出一份爆款选题清单：每个选题都标注了对应的人群痛点、切入角度、标题方向与内容结构建议，可直接作为一段时间内的内容排期表使用。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","专业服务/中介服务型","、","房产中介","）类似的经营者都适用：","适合需要持续输出内容但总缺选题的个人 IP、老板、教练、顾问、知识付费从业者，以及负责新媒体内容、增长获客的操盘手。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","强人设爆款选题","已内置对应的行业方法轮与输出规范，能结合“","二手房买卖、带看、过户代办这些，主打一个对片区熟、不坑人。","、","刚需和改善型买家，尤其第一次买房的年轻人，怕买贵、怕买到有问题的房子。","”这类真实画像做体系化产出，更贴合实际经营场景：","与直接问通用大模型\"给我 20 个热门选题\"不同，它基于你的画像和客群痛点生成选题，而不是给你一堆全网通用、和你业务无关的热点，产出的选题更可能被你的目标客户刷到并停留。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/explosive-topics","children":["立即试用","强人设爆款选题"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","强人设爆款选题"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/explosive-topics","agentName":"强人设爆款选题"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

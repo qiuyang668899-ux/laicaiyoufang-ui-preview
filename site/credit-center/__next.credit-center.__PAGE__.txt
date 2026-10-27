@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[14277,[],"ClientPageRoot"]
+3:I[78174,["1349","static/chunks/1349-43870d1869e9e6a4.js","6028","static/chunks/app/credit-center/page-46f4351514b6abda.js"],"default"]
+6:I[23349,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:{}
+8:null

@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T742,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/coffee-local-customer#article","headline":"社区咖啡馆 · 同城到店引流口播文案","description":"实体商家获客文案真实生成案例：开咖啡馆的，店不大，开了三年，就我自己再加一个兼职。平时就爱琢磨豆子，客人不算多，但来的都是熟客。","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/coffee-local-customer"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/local-business-customer","name":"实体商家获客文案"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/coffee-local-customer#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"社区咖啡馆 · 同城到店引流口播文案","item":"https://www.laicaiyoufang.com/case-library/coffee-local-customer"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/local-business-customer","name":"实体商家获客文案","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/local-business-customer","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"实体商家获客文案","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"本地生活/服务密集型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"餐饮美食"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"社区咖啡馆 · 同城到店引流口播文案"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"开咖啡馆的，店不大，开了三年，就我自己再加一个兼职。平时就爱琢磨豆子，客人不算多，但来的都是熟客。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"美式、拿铁、手冲这些，也卖自家烘焙的咖啡豆。豆子我自己烘，不图花样，就图个口感稳定。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"附近写字楼的上班族和学生，图个方便和味道。周末也有小年轻过来拍照坐坐。"}]]}]]}]
+10:Tc90,## 一、实体短视频4段式成交文案（共3组，可直接拍摄）
+
+### 文案 1：【口碑获客版】
+
+【黄金 3 秒地域钩子】：最近好多在附近写字楼上班的朋友，专门绕路来我们店里喝这杯拿铁
+
+【信任背书】：店里大半客人都是周边写字楼的老熟客，喝顺口了基本天天来，回头客占七成以上，很多都是同事带同事过来的
+
+【3 条核心买单理由】：
+1. 豆子是我自己烘的，每批出锅都先自己试喝，口感稳，不会今天一个味明天一个味
+2. 同价位里用料实在，奶和豆子都不糊弄，一杯下去是正经咖啡味
+3. 店小人不多，出杯快，上班路上顺手带走，不用排长队等
+
+【到店行动指令】：附近上班的朋友，点下角定位导航过来，我在店里给你做。
+
+---
+
+### 文案 2：【深耕老店版】
+
+【黄金 3 秒地域钩子】：没想到我在这一片开咖啡馆，一开就是三年
+
+【信任背书】：不靠推广不靠打折，全靠周边老客一口一口喝出来的，很多学生从大一喝到毕业，周末还有小年轻专门过来坐一下午
+
+【3 条核心买单理由】：
+1. 豆子自家烘焙，不图花样，就图个口感稳定，喝惯了我家的别家真喝不惯
+2. 美式、拿铁、手冲都有，想喝清爽的想喝浓的，我按你口味给你推荐
+3. 就我一个人守店，你喝到什么味就是什么味，不糊弄不将就
+
+【到店行动指令】：住在附近的朋友，有空点开定位来店里坐坐，我在吧台等你。
+
+---
+
+### 文案 3：【痛点避雷版】
+
+【黄金 3 秒地域钩子】：有没有在附近想喝杯正经咖啡，又怕踩雷花冤枉钱的朋友
+
+【信任背书】：我这家小店开了三年，没有花里胡哨的装修，来的都是图味道的熟客，喝完基本没有说难喝的
+
+【3 条核心买单理由】：
+1. 豆子自己烘自己试，不好喝的那批我不会往外卖，口感稳定是底线
+2. 定价实在，没有乱七八糟的加价套路，一杯就是一杯的钱
+3. 你拿不准喝什么，跟我说口味，我给你推荐，不合口味下次换
+
+【到店行动指令】：同城的朋友点开定位，导航来店里尝一杯就知道。
+
+---
+
+## 二、解释方法论
+
+按照董十一实体商家短视频全套成交方法论，简洁落地，商家拿到就能拍。
+
+**核心逻辑**：先成交再做流量，放弃泛流量、爆款、涨粉思维，只做门店 3-10 公里同城精准客源，所有文案只为筛选本地意向客户、引导到店消费。
+
+**内容要求**：不打造网红人设、不拍剧情、不蹭热点、无搞笑演绎，全部是老板口语化实拍文案，简单接地气，手机随手拍就能用。
+
+**固定硬性结构**：每条文案必须分为 4 段，顺序不能调换、删减、合并，单条口播时长 15-25 秒，四段分别为：地域 + 行业/产品 标签钩子（黄金 3 秒钩子）、信任背书（口碑 / 生意场景）、3 条核心买单理由（转化核心）、到店行动指令。
+
+**提示**：视频发布时记得挂载门店 POI 定位（蓝 V / 认领门店），没有挂定位，单纯口播引导到店，风险会上升。b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["实体商家获客文案"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","一实体短视频4段式成交文案共3组可直接拍摄",{"className":"text-slate-200","children":["$","a",null,{"href":"#一实体短视频4段式成交文案共3组可直接拍摄","className":"hover:text-violet-400 transition-colors","children":"一、实体短视频4段式成交文案（共3组，可直接拍摄）"}]}],["$","li","文案-1口碑获客版",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#文案-1口碑获客版","className":"hover:text-violet-400 transition-colors","children":"文案 1：【口碑获客版】"}]}],["$","li","文案-2深耕老店版",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#文案-2深耕老店版","className":"hover:text-violet-400 transition-colors","children":"文案 2：【深耕老店版】"}]}],["$","li","文案-3痛点避雷版",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#文案-3痛点避雷版","className":"hover:text-violet-400 transition-colors","children":"文案 3：【痛点避雷版】"}]}],["$","li","二解释方法论",{"className":"text-slate-200","children":["$","a",null,{"href":"#二解释方法论","className":"hover:text-violet-400 transition-colors","children":"二、解释方法论"}]}]]}]]}],["$","$Lf",null,{"agentKey":"local-business-customer","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["实体商家获客文案","是什么"]}],["$","p",null,{"children":["这是一个面向“","餐饮美食","”行业的","实体商家获客文案","应用案例：","开咖啡馆的，店不大，开了三年，就我自己再加一个兼职。平时就爱琢磨豆子，客人不算多，但来的都是熟客。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","实体商家获客文案是来财有方AI「本地实体获客」分类下的一款 AI 智能体，基于画像生成本地同城精准引流到店的口播文案，帮餐饮、门店、服务类实体商家把附近的人变成进店客户。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","美式、拿铁、手冲这些，也卖自家烘焙的咖啡豆。豆子我自己烘，不图花样，就图个口感稳定。","，主要客群是","附近写字楼的上班族和学生，图个方便和味道。周末也有小年轻过来拍照坐坐。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","实体商家做本地内容，最常见的问题是\"泛\"——发的内容全国人都能看，却吸引不到能到店的本地客户。这个智能体解决的是本地化引流的问题，用地域钩子、到店理由和行动指令，让附近目标人群愿意走进店里。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","开咖啡馆的，店不大，开了三年，就我自己再加一个兼职。平时就爱琢磨豆子，客人不算多，但来的都是熟客。","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁）+ 门店位置与特色（招牌产品、位置、开业时长、优惠活动等），越具体越好。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","实体商家获客文案","输出的是面向","附近写字楼的上班族和学生，图个方便和味道。周末也有小年轻过来拍照坐坐。","的落地方案（见上文“生成结果”），整体能力为：","输出多组本地到店引流口播文案：每条都带地域钩子、信任背书、3 条买单理由与到店行动指令，可直接拍摄或交给店员口播。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","本地生活/服务密集型","、","餐饮美食","）类似的经营者都适用：","适合本地生活类实体商家：餐饮、烘焙、美容美发、按摩、健身、宠物、教培、洗车等需要\"到店\"流量的老板与店长。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","实体商家获客文案","已内置对应的行业方法轮与输出规范，能结合“","美式、拿铁、手冲这些，也卖自家烘焙的咖啡豆。豆子我自己烘，不图花样，就图个口感稳定。","、","附近写字楼的上班族和学生，图个方便和味道。周末也有小年轻过来拍照坐坐。","”这类真实画像做体系化产出，更贴合实际经营场景：","与通用大模型最大的区别是它懂\"本地获客\"的套路——地域钩子、到店指令、真实优惠缺一不可，产出的是能把附近的人真正招呼进店的文案，而不是给全国网友看的品牌宣传。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/local-business-customer","children":["立即试用","实体商家获客文案"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","实体商家获客文案"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/local-business-customer","agentName":"实体商家获客文案"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

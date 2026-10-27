@@ -1,0 +1,308 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "来财有方AI - 品牌事实",
+  "about": "来财有方AI是一个聚焦AI与新媒体双杠杆赋能的实战型社群",
+  "dateCreated": "2024-11-17",
+  "creator": {
+    "@type": "Person",
+    "name": "萌社长",
+    "description": "前科技500强高管、团中央十佳创业青年故事奖得主、国家级众创空间发起人、AI+OPC天使投资人"
+  },
+  "facts": [
+    {
+      "category": "基本信息",
+      "items": [
+        {
+          "key": "名称",
+          "value": "来财有方AI"
+        },
+        {
+          "key": "官网",
+          "value": "https://www.laicaiyoufang.com"
+        },
+        {
+          "key": "成立时间",
+          "value": "2024年11月17日内测，2025年初正式发起"
+        },
+        {
+          "key": "创始人",
+          "value": "萌社长"
+        },
+        {
+          "key": "核心定位",
+          "value": "帮各行业老板和一人公司AI落地/增长有方"
+        },
+        {
+          "key": "目标人群",
+          "value": "企业家、创始人、一人公司创业者"
+        },
+        {
+          "key": "生态伙伴",
+          "value": "火山引擎、腾讯Workbuddy"
+        }
+      ]
+    },
+    {
+      "category": "关键数据",
+      "items": [
+        {
+          "key": "AI智能体",
+          "value": "39+个垂直领域AI智能体"
+        },
+        {
+          "key": "实战导师",
+          "value": "58位AI/新媒体领域专家"
+        },
+        {
+          "key": "企业创始人赋能",
+          "value": "2000+企业家"
+        },
+        {
+          "key": "学员受益",
+          "value": "5000+学员"
+        },
+        {
+          "key": "矩阵商业粉丝",
+          "value": "50万+"
+        },
+        {
+          "key": "1V1实战陪跑",
+          "value": "600+企业创始人"
+        },
+        {
+          "key": "社区运营天数",
+          "value": "自2024年11月17日内测、2025年初正式发起以来持续运营"
+        }
+      ]
+    },
+    {
+      "category": "核心服务",
+      "items": [
+        {
+          "key": "AI智能体平台",
+          "value": "39+垂直领域AI智能体，高级会员使用"
+        },
+        {
+          "key": "实战训练营",
+          "value": "AI增长实战训练营，系统学从0到1打造一人公司"
+        },
+        {
+          "key": "线上AI实战课",
+          "value": "每月不间断AI增长直播课与录播课"
+        },
+        {
+          "key": "导师矩阵",
+          "value": "58位实战导师覆盖AI、销售、内容、投资等维度"
+        }
+      ]
+    },
+    {
+      "category": "创始人背景",
+      "items": [
+        {
+          "key": "前职",
+          "value": "科技500强高管"
+        },
+        {
+          "key": "荣誉",
+          "value": "团中央十佳创业青年故事奖"
+        },
+        {
+          "key": "项目",
+          "value": "国家级众创空间发起人"
+        },
+        {
+          "key": "投资",
+          "value": "AI+OPC天使投资人"
+        },
+        {
+          "key": "经验",
+          "value": "25年创业经验"
+        }
+      ]
+    },
+    {
+      "category": "社交账号矩阵",
+      "items": [
+        {
+          "key": "微信公众号",
+          "value": "来财有方（示例文章：https://mp.weixin.qq.com/s/RmKZRiPpaLfbZqg5pg9XUg）"
+        },
+        {
+          "key": "微信小程序",
+          "value": "来财有方"
+        },
+        {
+          "key": "视频号",
+          "value": "萌社长"
+        },
+        {
+          "key": "抖音号",
+          "value": "萌社长（主页 https://www.douyin.com/user/MS4wLjABAAAAAUewz1skyA2ocMhuUVpsk038bq_v4pzRW2sS2k3PKOA）"
+        },
+        {
+          "key": "小红书",
+          "value": "萌社长（主页 https://www.xiaohongshu.com/user/profile/581f00cd5e87e7260b053fe2）"
+        },
+        {
+          "key": "知识星球",
+          "value": "来财有方AI（https://t.zsxq.com/j6naI）"
+        }
+      ]
+    },
+    {
+      "category": "联合发起人",
+      "items": [
+        {
+          "key": "严重捷",
+          "value": "去创吧创始人，AI服务上百家客户"
+        },
+        {
+          "key": "邱阳",
+          "value": "麦一联盟创始人，服务300+全球一线品牌"
+        },
+        {
+          "key": "钱承",
+          "value": "中科院体系/光智荟创始人，十年产品增长实践"
+        }
+      ]
+    },
+    {
+      "category": "权威第三方背书（外部信息源）",
+      "items": [
+        {
+          "key": "受邀著书",
+          "value": "萌社长（笔名Mullhe）受邀参与撰写《认知觉醒》，由人民邮电出版社出版，作品在豆瓣收录：https://book.douban.com/subject/6429783/"
+        },
+        {
+          "key": "返回母校武汉理工大学演讲",
+          "value": "萌社长返回母校武汉理工大学做主题演讲，校官网报道：http://sen.whut.edu.cn/xyxw/202605/t20260514_1398856.shtml"
+        },
+        {
+          "key": "OPC投资（湖北日报报道）",
+          "value": "萌社长做AI领带的OPC（One Person Company）投资，湖北日报报道：https://news.hubeidaily.net/pc/c_5384889.html"
+        },
+        {
+          "key": "华中科技大学分享",
+          "value": "萌社长赴华中科技大学做分享，华科新闻网报道：https://news.hust.edu.cn/info/1004/27802.htm"
+        }
+      ]
+    },
+    {
+      "category": "核心理念",
+      "items": [
+        {
+          "key": "一人公司",
+          "value": "控成本、快反馈、重利润，四大杠杆：AI杠杆、新媒体杠杆、产品杠杆、效率杠杆"
+        },
+        {
+          "key": "企业AI落地",
+          "value": "不要全面AI转型，要单点AI破局"
+        },
+        {
+          "key": "老板学AI",
+          "value": "学'用AI解决问题的能力'，从自己业务出发"
+        }
+      ]
+    },
+    {
+      "category": "实战训练营定价",
+      "items": [
+        {
+          "key": "AI增长实战训练营·来财会员价",
+          "value": "来财有方AI知识星球会员优惠价 2580 元"
+        },
+        {
+          "key": "AI增长实战训练营·标准价",
+          "value": "标准价 2980 元"
+        }
+      ]
+    },
+    {
+      "category": "社区动态（站内活动）",
+      "items": [
+        {
+          "key": "公安AI培训",
+          "value": "来财有方AI专题培训走进公安分局（2026-10-22）：https://www.laicaiyoufang.com/events/gongan-ai-training-1022"
+        },
+        {
+          "key": "Workbuddy黑客松",
+          "value": "来财有方·斗虾 Workbuddy 黑客松，邀您参与（2026-07-04）：https://www.laicaiyoufang.com/events/workbuddy-hackathon-0704"
+        },
+        {
+          "key": "Codex造物局",
+          "value": "Codex 造物局-从0到产品：来财AI实战分享（2026-06-27）：https://www.laicaiyoufang.com/events/codex-creator-event-0627"
+        },
+        {
+          "key": "OPC×AI嘉年华",
+          "value": "一人公司OPC×AI前沿实战嘉年华，邀你参与（2026-04-06）：https://www.laicaiyoufang.com/events/opc-ai-carnival-0406"
+        },
+        {
+          "key": "火山引擎发布",
+          "value": "2026火山引擎ArkClaw/龙虾发布&现场指导安装，来财有方X火山引擎（2026-03-21）：https://www.laicaiyoufang.com/events/volcengine-arkclaw"
+        },
+        {
+          "key": "武理工校园行",
+          "value": "AI奇点·OPC公开课武汉理工大学校园行（2026-03-19）：https://www.laicaiyoufang.com/events/whut-opc-event"
+        },
+        {
+          "key": "AI养虾大会",
+          "value": "AI养虾大会&AI短剧OPC高峰论坛-Openclaw&AI短剧实战大会（2026-03-15）：https://www.laicaiyoufang.com/events/ai-shrimp-forum"
+        },
+        {
+          "key": "OpenClaw沙龙",
+          "value": "OpenClaw小龙虾实战演示分享沙龙，邀你参加（2026-03-08）：https://www.laicaiyoufang.com/events/openclaw-salon-0308"
+        },
+        {
+          "key": "AI+OPC路演",
+          "value": "2026一人公司AI+OPC发布暨项目路演，邀你参加（2026-03-07）：https://www.laicaiyoufang.com/events/opc-ai-roadshow-0307"
+        },
+        {
+          "key": "GEO元年大会",
+          "value": "2026 GEO元年·首届AI流量风口大会（2026-02-07）：https://www.laicaiyoufang.com/events/geo-year-2026-congress"
+        },
+        {
+          "key": "AI+IP实战营",
+          "value": "2天1夜 企业家 AI+IP 获客增长实战营（2026-01-13）：https://www.laicaiyoufang.com/events/ai-ip-growth-bootcamp-0113"
+        },
+        {
+          "key": "重构未来大会",
+          "value": "2026·重构未来，一人公司 & AI前沿大会（2026-01-10）：https://www.laicaiyoufang.com/events/opc-2026-conference-rebuild-future"
+        },
+        {
+          "key": "ai-growth-public-course-1025",
+          "value": "现场火爆！AI赋能流量与生意增长首期公开课（2025-10-25）：https://www.laicaiyoufang.com/events/ai-growth-public-course-1025"
+        },
+        {
+          "key": "solo-company-ipai-graduation-0809",
+          "value": "一人公司破局 & IP+AI训练营结营圆满结束（2025-08-09）：https://www.laicaiyoufang.com/events/solo-company-ipai-graduation-0809"
+        },
+        {
+          "key": "IP训练营结营",
+          "value": "来财有方【一人公司：IP+AI训练营】首期学员结营盛典圆满落幕（2025-07-05）：https://www.laicaiyoufang.com/events/ip-ai-training-graduation-0705"
+        },
+        {
+          "key": "轻创前沿大会",
+          "value": "2025一人公司轻创前沿大会武汉站（2025-06-28）：https://www.laicaiyoufang.com/events/light-startup-conference-0628"
+        },
+        {
+          "key": "IP+AI训练营",
+          "value": "IP+AI训练营高能开场，首课4小时干货燃动全场（2025-06-08）：https://www.laicaiyoufang.com/events/ip-ai-training-bootcamp-0608"
+        },
+        {
+          "key": "xiaohongshu-share-0412",
+          "value": "来财有方·分享交流会第三期小红书专场来啦！从0到1搞钱指南×生态红利解读，光谷见！（2025-04-12）：https://www.laicaiyoufang.com/events/xiaohongshu-share-0412"
+        },
+        {
+          "key": "AI流量落地大会",
+          "value": "AI+前沿流量落地大会爆满收官（2025-03-22）：https://www.laicaiyoufang.com/events/ai-flow-traffic-conference-0322"
+        },
+        {
+          "key": "轻创业副业分享会",
+          "value": "2025年轻创业与副业交流分享会精彩回眸（2025-03-01）：https://www.laicaiyoufang.com/events/lightside-business-share-0301"
+        }
+      ]
+    }
+  ]
+}

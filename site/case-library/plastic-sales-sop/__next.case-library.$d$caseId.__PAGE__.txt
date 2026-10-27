@@ -1,0 +1,256 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T72d,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/plastic-sales-sop#article","headline":"塑料制品厂 · 销售 SOP 卡点梳理","description":"销售SOP卡点梳理真实生成案例：我开塑料制品厂的，做注塑件和日用塑料制品，厂子是家里传下来的，这些年主要接外贸和国内批发单。现在单子越来越难谈，客户压价","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/plastic-sales-sop"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/sales-sop-analysis","name":"销售SOP卡点梳理"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/plastic-sales-sop#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"塑料制品厂 · 销售 SOP 卡点梳理","item":"https://www.laicaiyoufang.com/case-library/plastic-sales-sop"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/sales-sop-analysis","name":"销售SOP卡点梳理","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/sales-sop-analysis","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"销售SOP卡点梳理","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"生产制造与供应链型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"塑料制品"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"塑料制品厂 · 销售 SOP 卡点梳理"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我开塑料制品厂的，做注塑件和日用塑料制品，厂子是家里传下来的，这些年主要接外贸和国内批发单。现在单子越来越难谈，客户压价狠，销售还老丢单，我有点着急。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"各种注塑加工、塑料日用品定制，也给品牌做代工。卖点就是厂子实在、交期稳、价格能谈。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"外贸公司、批发商和电商卖家，他们要的是价格合适、质量别出岔子、按时交货。"}]]}]]}]
+10:T474b,# 塑料制品厂「询价→报价→成交→交付→回款」全流程 SOP
+
+> 本 SOP 基于你提供的信息梳理。你的业务本质是 **B2B 制造业订单型销售**，核心矛盾不是"客户不知道你"，而是"询盘多、报价散、成交低、回款慢"。下面先做数据诊断，再拆流程。
+
+
+## 一、数据诊断（基于你提供的估算数据）
+
+**1. 当前数据观察**
+
+| 环节 | 数量 | 转化率 | 判断 |
+|------|------|--------|------|
+| 咨询/询盘 | 100 条/月 | — | 入口量尚可 |
+| 有效报价 | 30 条/月 | 询盘→报价 30% | **偏低**，70% 询盘没走到报价 |
+| 成交 | 8 单/月 | 报价→成交 26.7% | 制造业属正常偏下，但可提升 |
+| 回款周期 | 30~60 天 | — | 偏长，占用现金流 |
+
+**2. 关键断点**
+
+- **断点 A（最大漏斗流失）：询盘→有效报价，流失 70%。** 100 条询盘只有 30 条能报出价，说明大量询盘在"需求不清、客户不专业、我方响应慢、报价前沟通断档"环节就掉了。
+- **断点 B：报价→成交，流失 73%。** 报了价就等，没有跟进节奏，客户拿去比价后无声消失。
+- **断点 C：成交→回款，周期 30~60 天。** 没有付款节点设计，尾款靠催。
+
+**3. 可能原因**
+
+- 询盘进来没有统一登记，谁接到谁跟，漏跟、重复跟、跟一半断掉；
+- 报价前没有做"需求诊断"，客户要什么规格、什么量、什么交期没问清就报价，报完客户说"再看看"；
+- 报价单本身不专业（只有价格没有交期、起订量、付款方式、质量承诺），客户无法比较也无法放心；
+- 报价后没有分层跟进机制，全凭销售记性；
+- 付款条件默认"货到付款/月结"，没有用付款方式换价格、换交期的谈判设计。
+
+**4. 优先优化方向**
+
+1. **先堵断点 A**：建立询盘登记 + 报价前需求诊断清单，把"能报价的"和"报不了的"分开处理；
+2. **再堵断点 B**：报价后 72 小时黄金跟进 + 分层维护；
+3. **最后堵断点 C**：把付款节点写进报价单和合同，用"付款方式"做成交杠杆。
+
+> 建议后续补充的关键数据：询盘来源渠道占比、报价后 7 天内客户回复率、丢单原因标签（价格/交期/质量/无回复）、老客户复购间隔、各客户平均回款天数。这些数据补齐后，本 SOP 可以进一步精准化。
+
+
+## 二、用户路径图
+
+```
+[起点] 客户电话/微信/到店发起询价
+   ↓
+[动作1] 询盘接住 + 需求诊断（问清规格/数量/交期/用途/付款预期）
+   ├─ 需求不清/客户不专业 → 进入「询盘培育兜底 SOP A」
+   ├─ 明显非目标客户（量太小/纯比价） → 进入「低意向常规维护 SOP D」
+   ↓
+[动作2] 出具标准报价单（价格+交期+起订量+付款方式+质量承诺）
+   ├─ 客户不回复/说再看看 → 进入「报价后跟进兜底 SOP B」
+   ↓
+[动作3] 报价后 72 小时跟进 + 异议处理（价格/交期/质量）
+   ├─ 持续压价无进展 → 进入「价格谈判与让价底线 SOP」
+   ├─ 长期无回复 → 进入「沉默客户常规维护 SOP E」
+   ↓
+[动作4] 确认成交 + 签合同/收定金（付款节点锁定）
+   ├─ 迟迟不付定金 → 进入「成交临门一脚兜底 SOP C」
+   ↓
+[动作5] 生产交付 + 发货确认 + 尾款回收
+   ├─ 尾款逾期 → 进入「回款催收 SOP F」
+   ↓
+[终点] 订单交付完成、货款结清、客户进入复购维护
+```
+
+
+## 三、SOP 核心定义
+
+1. **SOP 名称**：塑料制品厂「询盘接住→报价→成交→交付回款」核心转化 SOP
+2. **适用业务场景**：注塑加工、日用塑料制品定制、品牌代工的新客户询盘与老客户新订单
+3. **适用对象**：外贸公司、批发商、电商卖家等 B 端客户
+4. **执行人**：销售（主责）、跟单/内勤（报价单与合同支持）、老板（价格底线与让价审批）
+5. **起点**：客户通过电话/微信/到店发起询价或咨询
+6. **终点**：客户确认成交、支付货款、订单交付完成、尾款结清
+7. **核心目标**：把询盘→报价转化率从 30% 提到 50%+，报价→成交从 26.7% 提到 35%+，回款周期压缩到 30 天内
+8. **关键指标**：询盘登记率、询盘→有效报价率、报价→成交率、平均回款天数、丢单原因标签完整率
+
+
+## 四、精简核心动作（5 个）
+
+### 动作 1：询盘接住 + 需求诊断
+
+- **动作名称**：询盘 30 分钟内接住并完成需求诊断
+- **目标**：不漏询盘，问清关键信息，判断是否值得报价
+- **触发时间**：客户询价后 30 分钟内（工作时间）；非工作时间次日上班 1 小时内
+- **具体行为**：销售在询盘登记表登记来源、客户名、联系方式；按"需求诊断 5 问"逐项确认：①产品/规格/材质 ②数量/起订量 ③交期要求 ④用途/目标市场 ⑤付款方式预期。问不清的当场约定补充时间。
+- **标准产出**：询盘登记表一条完整记录 + 需求诊断 5 问填写完整 + 判定"可报价/需培育/低意向"
+- **利他钩子**：先问清需求再报价，避免客户拿到错误报价、来回返工浪费时间
+- **兴趣点**：告诉客户"我问清这几点，能直接给你一个不会返工的价格和交期"
+- **信任点**：说明自己是负责该客户的对接人，报价、交期、售后由我统一跟
+- **行动指令**：请客户现在把规格、数量、交期三项发我，我今天内给报价
+- **标准话术**："王总您好，我是XX塑料厂的对接人小李，您这单后面报价、交期、发货都由我跟。为了不给您报错价、报错交期，我先跟您确认三件事：要什么规格/材质、大概什么量、什么时候要货。您把这三项发我，我今天内给您一个准价和交期，省得后面来回改。"
+- **成功标志**：登记表完整、5 问齐全、判定结论明确
+- **注意事项**：不要一上来就报价；客户说不清的要主动给选项（如"您是做日用品还是工业件"），不要开放式追问
+
+### 动作 2：出具标准报价单
+
+- **动作名称**：24 小时内出具标准报价单
+- **目标**：让客户拿到一份"能比较、能放心"的报价，而不是一个孤零零的数字
+- **触发时间**：需求诊断完成后 24 小时内
+- **具体行为**：用统一模板出报价单，必须含：单价、起订量、交期、付款方式（定金比例+尾款节点）、质量承诺（材质/公差/验货标准）、报价有效期。价格超销售权限的，走老板审批。
+- **标准产出**：一份标准报价单（PDF/图片）+ 报价登记（报价日期、金额、有效期）
+- **利他钩子**：报价单写清交期和付款方式，客户拿去跟老板/客户汇报时不用再问一遍
+- **兴趣点**：强调"这份报价里交期和质量标准都写死了，您拿去比价也有依据"
+- **信任点**：说明报价有效期和价格构成逻辑（量大可谈、付款方式可换价格）
+- **行动指令**：请客户收到后 3 天内确认或提出异议，我按您的量再核一次价
+- **标准话术**："王总，报价单发您了，里面单价、起订量、交期、付款方式、验货标准都写清楚了，有效期 7 天。您先看，如果量能再往上走，或者付款方式能预付多一点，价格我还能再帮您争取。您 3 天内给我个反馈，我好帮您锁交期。"
+- **成功标志**：报价单发出且客户已读/回复
+- **注意事项**：报价单必须有有效期，制造"现在定"的理由；付款方式要写进报价单，为后面回款埋伏笔
+
+### 动作 3：报价后 72 小时黄金跟进 + 异议处理
+
+- **动作名称**：报价后 72 小时内首跟，7 天内二次跟，处理价格/交期/质量异议
+- **目标**：把"报了价就消失"的客户拉回来，识别真实卡点
+- **触发时间**：报价发出后第 3 天首跟，第 7 天二次跟
+- **具体行为**：首跟问"价格/交期/质量哪块需要再谈"；二次跟给一个具体动作（如"这个量我帮您申请了 X 价"或"交期我帮您排到 X 号"）。每次跟进记录客户反馈和丢单原因标签。
+- **标准产出**：跟进记录 + 异议标签（价格/交期/质量/无回复/已选别家）+ 下一步动作
+- **利他钩子**：主动帮客户争取价格/交期，而不是等客户来砍
+- **兴趣点**：告诉客户"这个量/这个付款方式，我这边还有空间"
+- **信任点**：说明让价/调交期需要走什么流程、大概多久，让客户知道你不是随口答应
+- **行动指令**：请客户明确一个卡点，我这周内给答复
+- **标准话术**："王总，报价发您 3 天了，想跟您确认下：是价格还需要再谈，还是交期不合适？您告诉我卡在哪，我这边能帮您申请的我直接去申请，不让您干等。"
+- **成功标志**：客户给出明确反馈（成交/异议/放弃），标签记录完整
+- **注意事项**：跟进不是催单，是帮客户解决问题；每次跟进必须带一个新信息（价格/交期/案例），不要空手问"考虑得怎么样"
+
+### 动作 4：确认成交 + 收定金锁单
+
+- **动作名称**：成交确认、合同/订单确认、收定金
+- **目标**：把口头意向变成有付款节点的确定订单
+- **触发时间**：客户表达成交意向当天
+- **具体行为**：发订单确认单/合同，写明产品、数量、单价、总价、交期、付款方式（建议 30% 定金 + 发货前/货到付尾款）、验货标准、违约条款；收定金后转生产。
+- **标准产出**：签字/盖章合同 + 定金到账凭证 + 生产排期单
+- **利他钩子**：收定金是为了帮客户锁定交期和产能，不是不信任
+- **兴趣点**：告诉客户"定金一到，我马上给您排产，交期就锁死了"
+- **信任点**：说明定金比例、尾款节点、验货安排，全程透明
+- **行动指令**：请客户今天确认合同并支付 30% 定金，我明天排产
+- **标准话术**："王总，合同我发您了，付款是 30% 定金、发货前付尾款，验货标准也写进去了。定金一到我马上给您排产、锁交期，现在厂里排期紧，早定早排。您今天确认，我明天就能安排。"
+- **成功标志**：合同确认 + 定金到账 + 排产单生成
+- **注意事项**：定金比例和尾款节点是回款的关键，不要为了成交放弃付款条件；付款方式可以和价格挂钩谈判
+
+### 动作 5：生产交付 + 发货确认 + 尾款回收
+
+- **动作名称**：生产节点同步、发货确认、尾款催收
+- **目标**：交付不出岔子，尾款按时回
+- **触发时间**：生产开始后每周同步一次进度；发货前 1 天确认尾款；发货后 3 天确认收货
+- **具体行为**：按节点发进度（投产/半成品/完工）；发货前确认尾款到账或付款凭证；发货后发物流单号并确认收货；收货后 7 天做满意度回访并埋复购钩子。
+- **标准产出**：进度同步记录 + 尾款到账 + 收货确认 + 回访记录
+- **利他钩子**：主动同步进度让客户能安排自己的销售/库存；尾款节点提前说清避免尴尬
+- **兴趣点**：告诉客户"货已完工，尾款一到当天发货"
+- **信任点**：发货前发验货照片/视频，让客户放心
+- **行动指令**：请客户今天安排尾款，我明天发货
+- **标准话术**："王总，货已完工，验货照片发您了。按合同尾款到账我这边当天安排发货，您今天安排一下，明天就能出。"
+- **成功标志**：尾款到账、发货完成、客户确认收货
+- **注意事项**：尾款要在发货前锁死，不要"货到再付"；逾期进入回款催收 SOP F
+
+
+## 五、流失兜底策略
+
+**流失点 1：询盘需求不清、客户不专业**
+- 用户表现：说不清规格、量、交期
+- 判断标准：诊断 5 问有 2 项以上无法确认
+- 可能原因：客户是中间商/新手，需求还没定型
+- 兜底动作：发"选型引导清单"（常见规格+用途+起订量），约定 3 天后再确认
+- 兜底话术："王总，您要是不确定规格，我发您一份常见规格表，您对着用途选，选不准我帮您判断。"
+- 后续归类：询盘培育 SOP A
+
+**流失点 2：报价后 7 天无回复**
+- 用户表现：报价已读不回、说"再看看"
+- 判断标准：报价后 7 天无实质反馈
+- 可能原因：在比价、需求暂缓、价格超预算
+- 兜底动作：第 7 天发一条"带新信息"的跟进（新价格/新交期/同类案例），之后转入常规维护
+- 兜底话术："王总，这个量我帮您重新核了下，价格能到 X。您要是这周还定不了，我先帮您留着交期，您有需要随时找我。"
+- 后续归类：沉默客户常规维护 SOP E
+
+**流失点 3：成交意向明确但迟迟不付定金**
+- 用户表现：合同看了、说定，但不打定金
+- 判断标准：确认成交后 3 天定金未到
+- 可能原因：内部审批、资金安排、还在比价
+- 兜底动作：电话确认卡点，给"定金锁交期"的紧迫理由，必要时老板出面给付款方案
+- 兜底话术："王总，交期这边排到 X 号了，定金一到我就给您锁住，再晚可能要往后排。您是付款流程上有卡点吗？"
+- 后续归类：成交临门一脚 SOP C
+
+**流失点 4：尾款逾期**
+- 用户表现：货已发/已到，尾款未付
+- 判断标准：合同约定付款日超 3 天未付
+- 可能原因：客户资金周转、对货有异议、习惯性拖款
+- 兜底动作：第 3 天电话提醒，第 7 天书面催款，第 15 天老板介入并评估是否影响后续合作
+- 兜底话术："王总，这笔尾款按合同是 X 号到期，麻烦您安排一下，我这边好做账。"
+- 后续归类：回款催收 SOP F
+
+
+## 六、一线执行表格
+
+| 序号 | 用户状态 | 触发时间 | 执行动作 | 标准产出 | 利他钩子 | 兴趣点 | 信任点 | 行动指令 | 标准话术/操作 | 执行人 | 成功标志 | 未完成怎么办 | 备注 |
+|------|----------|----------|----------|----------|----------|--------|--------|----------|---------------|--------|----------|--------------|------|
+| 1 | 新询盘 | 询价后30分钟内 | 登记+需求诊断5问 | 登记表+诊断完整+意向判定 | 问清再报价，避免返工 | 问清给准价准交期 | 我是你的统一对接人 | 现在发规格/数量/交期 | "我是XX厂小李，后面报价交期发货我跟，您把规格数量交期发我，今天内给准价" | 销售 | 5问齐全 | 2项不清→发选型清单，转SOP A | 非工作时间次日1小时内 |
+| 2 | 需求已清 | 诊断后24小时内 | 出标准报价单 | 报价单+报价登记 | 交期质量写死，方便汇报比价 | 量大/付款方式可换价格 | 报价有效期和构成透明 | 3天内反馈 | "报价单发您，单价交期付款验货都写清，有效期7天，量或付款方式能调价格还能谈，3天内给我反馈" | 销售+内勤 | 客户已读/回复 | 超权限走老板审批 | 付款方式必须写进报价单 |
+| 3 | 已报价 | 第3天/第7天 | 黄金跟进+异议处理 | 跟进记录+异议标签 | 主动帮争取价格交期 | 这个量还有空间 | 让价要走流程不随口答应 | 明确一个卡点 | "报价3天了，是价格还是交期卡住？您说卡哪我去申请，不让您干等" | 销售 | 客户明确反馈 | 7天无回复→转SOP E | 每次跟进带新信息 |
+| 4 | 有成交意向 | 意向当天 | 合同确认+收定金 | 合同+定金到账+排产单 | 定金锁交期产能 | 定金一到马上排产 | 付款验货全程透明 | 今天确认付30%定金 | "合同发您，30%定金+发货前尾款，定金一到明天排产锁交期，早定早排" | 销售+老板 | 合同+定金到账 | 3天未付→转SOP C | 付款条件不轻易放弃 |
+| 5 | 已付定金 | 生产每周/发货前1天/发货后3天 | 进度同步+尾款+收货确认+回访 | 进度记录+尾款+收货+回访 | 同步进度方便客户安排 | 货已完工尾款到当天发 | 发货前发验货照片 | 今天安排尾款 | "货已完工，验货照片发您，尾款到账当天发货，您今天安排明天出" | 销售+跟单 | 尾款到账+收货确认 | 逾期→转SOP F | 尾款发货前锁死 |
+
+
+## 七、减法建议
+
+**建议保留的动作：**
+1. 询盘接住 + 需求诊断（堵最大漏斗）
+2. 标准报价单（决定成交质量）
+3. 报价后 72 小时跟进（决定报价→成交）
+4. 成交收定金（决定回款）
+5. 交付尾款回收（决定现金流）
+
+**建议合并的动作：**
+- 「报价登记」和「询盘登记」合并为一张《询盘-报价跟踪表》，避免两套表重复录入。
+- 「发货确认」和「收货回访」合并为一次触达：发货后 3 天发物流+使用提醒，7 天做回访。
+
+**建议删除的动作：**
+- 删除"报价后每天催一次"，高频催促只会加速客户反感，改为 3 天/7 天两次带信息的跟进。
+- 删除"所有询盘都出正式报价单"，量太小/纯比价的直接给区间价或转常规维护，节省报价成本。
+
+**建议放入常规维护 SOP 的动作：**
+- 长期无回复客户的节日问候、新品推荐 → 沉默客户常规维护 SOP E
+- 低意向/纯比价客户 → 低意向常规维护 SOP D
+- 老客户复购提醒 → 复购维护 SOP（下一步拆解）
+
+
+## 八、下一步可继续拆解的 SOP
+
+1. 询盘培育 SOP A（需求不清客户的引导与激活）
+2. 报价后跟进 SOP B（分层跟进节奏与话术库）
+3. 成交临门一脚 SOP C（定金卡点处理）
+4. 低意向/比价客户常规维护 SOP D
+5. 沉默客户常规维护 SOP E（月度轻触达）
+6. 回款催收 SOP F（逾期分级催收）
+7. 老客户复购提醒 SOP（按复购周期主动触达）
+8. 老客户转介绍 SOP（交付满意后要转介绍）
+9. 丢单复盘 SOP（月度丢单原因分析会）
+
+> 建议先落地动作 1~3（堵住询盘→报价→成交两个大漏斗），跑两周后补齐询盘来源、丢单原因、回款天数三类数据，再拆解兜底类 SOP。b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["销售SOP卡点梳理"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","塑料制品厂询价报价成交交付回款全流程-sop",{"className":"text-slate-200","children":["$","a",null,{"href":"#塑料制品厂询价报价成交交付回款全流程-sop","className":"hover:text-violet-400 transition-colors","children":"塑料制品厂「询价→报价→成交→交付→回款」全流程 SOP"}]}],["$","li","一数据诊断基于你提供的估算数据",{"className":"text-slate-200","children":["$","a",null,{"href":"#一数据诊断基于你提供的估算数据","className":"hover:text-violet-400 transition-colors","children":"一、数据诊断（基于你提供的估算数据）"}]}],["$","li","二用户路径图",{"className":"text-slate-200","children":["$","a",null,{"href":"#二用户路径图","className":"hover:text-violet-400 transition-colors","children":"二、用户路径图"}]}],["$","li","三sop-核心定义",{"className":"text-slate-200","children":["$","a",null,{"href":"#三sop-核心定义","className":"hover:text-violet-400 transition-colors","children":"三、SOP 核心定义"}]}],["$","li","四精简核心动作5-个",{"className":"text-slate-200","children":["$","a",null,{"href":"#四精简核心动作5-个","className":"hover:text-violet-400 transition-colors","children":"四、精简核心动作（5 个）"}]}],["$","li","动作-1询盘接住--需求诊断",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#动作-1询盘接住--需求诊断","className":"hover:text-violet-400 transition-colors","children":"动作 1：询盘接住 + 需求诊断"}]}],["$","li","动作-2出具标准报价单",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#动作-2出具标准报价单","className":"hover:text-violet-400 transition-colors","children":"动作 2：出具标准报价单"}]}],["$","li","动作-3报价后-72-小时黄金跟进--异议处理",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#动作-3报价后-72-小时黄金跟进--异议处理","className":"hover:text-violet-400 transition-colors","children":"动作 3：报价后 72 小时黄金跟进 + 异议处理"}]}],["$","li","动作-4确认成交--收定金锁单",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#动作-4确认成交--收定金锁单","className":"hover:text-violet-400 transition-colors","children":"动作 4：确认成交 + 收定金锁单"}]}],["$","li","动作-5生产交付--发货确认--尾款回收",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#动作-5生产交付--发货确认--尾款回收","className":"hover:text-violet-400 transition-colors","children":"动作 5：生产交付 + 发货确认 + 尾款回收"}]}],["$","li","五流失兜底策略",{"className":"text-slate-200","children":["$","a",null,{"href":"#五流失兜底策略","className":"hover:text-violet-400 transition-colors","children":"五、流失兜底策略"}]}],["$","li","六一线执行表格",{"className":"text-slate-200","children":["$","a",null,{"href":"#六一线执行表格","className":"hover:text-violet-400 transition-colors","children":"六、一线执行表格"}]}],["$","li","七减法建议",{"className":"text-slate-200","children":["$","a",null,{"href":"#七减法建议","className":"hover:text-violet-400 transition-colors","children":"七、减法建议"}]}],["$","li","八下一步可继续拆解的-sop",{"className":"text-slate-200","children":["$","a",null,{"href":"#八下一步可继续拆解的-sop","className":"hover:text-violet-400 transition-colors","children":"八、下一步可继续拆解的 SOP"}]}]]}]]}],["$","$Lf",null,{"agentKey":"sales-sop-analysis","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["销售SOP卡点梳理","是什么"]}],["$","p",null,{"children":["这是一个面向“","塑料制品","”行业的","销售SOP卡点梳理","应用案例：","我开塑料制品厂的，做注塑件和日用塑料制品，厂子是家里传下来的，这些年主要接外贸和国内批发单。现在单子越来越难谈，客户压价狠，销售还老丢单，我有点着急。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","销售SOP卡点梳理是来财有方AI「成交转化」分类下的一款 AI 智能体，基于画像 + 你描述的销售卡点，帮你梳理出可落地的 SOP 优化方案，定位成交链路中的漏洞并给出改进动作。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","各种注塑加工、塑料日用品定制，也给品牌做代工。卖点就是厂子实在、交期稳、价格能谈。","，主要客群是","外贸公司、批发商和电商卖家，他们要的是价格合适、质量别出岔子、按时交货。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多团队销售靠个人经验和感觉，成单不稳定、难以复制，出了问题也说不清卡在哪一环。这个智能体解决的是销售流程不可控的问题，把成交链路拆开，找出卡点、给出标准动作。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我开塑料制品厂的，做注塑件和日用塑料制品，厂子是家里传下来的，这些年主要接外贸和国内批发单。现在单子越来越难谈，客户压价","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁）+ 你在销售中遇到的卡点（如客户不回复、报价后没下文、成交周期长等），越具体越好。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","销售SOP卡点梳理","输出的是面向","外贸公司、批发商和电商卖家，他们要的是价格合适、质量别出岔子、按时交货。","的落地方案（见上文“生成结果”），整体能力为：","输出一份可落地的 SOP 优化方案：梳理从获客、破冰、需求挖掘、方案呈现、报价到跟进的完整链路，逐环节指出问题点，并给出每个环节的标准话术与动作。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","生产制造与供应链型","、","塑料制品","）类似的经营者都适用：","适合想提升成交率、把销售经验复制到团队的老板、销售负责人、招商加盟、保险、教育、房产、B2B 服务等高客单销售行业。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","销售SOP卡点梳理","已内置对应的行业方法轮与输出规范，能结合“","各种注塑加工、塑料日用品定制，也给品牌做代工。卖点就是厂子实在、交期稳、价格能谈。","、","外贸公司、批发商和电商卖家，他们要的是价格合适、质量别出岔子、按时交货。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让大模型\"给我个销售流程\"——而是针对你实际描述的卡点做诊断，输出的是\"先拆链路、再定位卡点、后给动作与话术\"的落地方案，能直接拿去给团队执行。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/sales-sop-analysis","children":["立即试用","销售SOP卡点梳理"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","销售SOP卡点梳理"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/sales-sop-analysis","agentName":"销售SOP卡点梳理"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

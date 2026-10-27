@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+3:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+f:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+11:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+12:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+13:I[23349,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+2:T6ce,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/car-sales-role-play#article","headline":"二手车销售 · 销冠实战陪练","description":"销冠实战陪练真实生成案例：卖二手车的，在车行干了五年，主要做中低端车。嘴皮子得溜，要不留不住人。","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/car-sales-role-play"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/sales-role-play","name":"销冠实战陪练"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/car-sales-role-play#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"二手车销售 · 销冠实战陪练","item":"https://www.laicaiyoufang.com/case-library/car-sales-role-play"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/sales-role-play","name":"销冠实战陪练","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/sales-role-play","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]0:{"buildId":"jlVlrff87Jr28zBereNHo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"title":"销冠实战陪练","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"本地生活/服务密集型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"汽车与后市场"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"二手车销售 · 销冠实战陪练"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L4","$L5","$L6","$L7","$L8","$undefined"]}],"$L9"]}],"$La"]}]}],"$Lb","$Lc","$Ld"]}]]}],null,"$Le"]}],"loading":null,"isPartial":false}
+4:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+5:["$","path","1olli1",{"d":"M20 3v4"}]
+6:["$","path","1gvqau",{"d":"M22 5h-4"}]
+7:["$","path","vumght",{"d":"M4 17v2"}]
+8:["$","path","zchphs",{"d":"M5 18H3"}]
+9:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+a:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"卖二手车的，在车行干了五年，主要做中低端车。嘴皮子得溜，要不留不住人。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"二手车、置换、过户代办，还有分期。啥车都收，主要看车况定价。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"第一次买车或者想换车的本地人，预算都不高。图便宜的多。"}]]}]]}]
+10:Td2c,好的，教练。以下是本次销售陪练的完整对话脚本，我方为二手车销售，客户为刚加微信的本地潜在买家。
+
+---
+
+**① 开场破冰**
+
+**销售：** 哥，你好！我是XX车行的小陈，刚通过你微信。看你朋友圈最近在关注车子，是打算入手一台代步车吗？
+
+**客户：** 嗯，随便看看，还没定。
+
+**销售：** 明白，买车这事儿急不来。你平时主要市区代步还是跑长途多点？我这边车源多，先帮你留意着。
+
+**客户：** 就上下班开开，偶尔回趟老家。
+
+---
+
+**② 需求挖掘（3轮问答）**
+
+**销售：** 那大概多少公里？回老家路远不远？
+
+**客户：** 单程三十来公里吧，老家也就一百多公里。
+
+**销售：** 那其实紧凑型轿车就够用了，省油好停车。你预算大概在什么范围？我好帮你筛。
+
+**客户：** 五六万吧，能少点最好。
+
+**销售：** 这个价位选择不少。你对手动挡自动挡有要求吗？家里还有别人开不？
+
+**客户：** 自动挡吧，我媳妇偶尔也开。
+
+**销售：** 行，自动挡五六万，我脑子里已经有两三台合适的了。你对车龄和公里数在意不？
+
+**客户：** 别太老就行，五六年内的吧。
+
+---
+
+**③ 常见异议处理（2组）**
+
+**销售：** 我这边有台18年的轩逸，自动挡，跑了七万多公里，车况很整，五万八能谈。你觉得咋样？
+
+**客户：** 轩逸我知道，不过七万公里是不是有点多了？我怕后面毛病多。
+
+**销售：** 哥你这顾虑正常。不过这台是个人一手车，保养记录全，我这边还能给你做第三方检测报告，发动机变速箱都质保一年。公里数多不代表车况差，关键看保养。
+
+**客户：** 那价格能不能再少点？五万八有点超预算了。
+
+**销售：** 这样，价格我给你申请到五万五，但得你这两天定。另外分期的话首付两万就能开走，月供一千出头，压力小很多。你看哪种方式合适？
+
+**客户：** 分期利息高不高啊？别到时候多花一堆钱。
+
+**销售：** 我们合作的是正规银行渠道，利息透明，我待会把方案明细发你，一分钱不藏。你先看看合不合适。
+
+---
+
+**④ 成交推进**
+
+**客户：** 那……车我能先看看实车不？
+
+**销售：** 当然可以！明天下午你有空不？我把车洗好停展厅，你带上媳妇一起来试驾，感受下再定。
+
+**客户：** 行，明天下午三点左右吧。
+
+**销售：** 好嘞，我给你留好车。对了哥，你旧车要是有的话也能置换，能再抵一部分，到时候一起算。
+
+**客户：** 我没旧车，第一次买。
+
+**销售：** 那更简单，明天我把手续流程都跟你讲清楚，过户代办我们全包，你只管开走。
+
+---
+
+**⑤ 成交与收尾**
+
+**客户：** 成，那明天先看看车再说。
+
+**销售：** 没问题！明天见车满意咱再谈细节，不满意我再给你换别的车源，保准帮你选到合适的。明天下午三点，我在店里等你哈！
+
+**客户：** 好，明天见。
+
+**销售：** 收到，哥你先忙，明天我提前给你发个定位。
+
+---
+
+以上为本次陪练对话脚本，覆盖开场、需求挖掘、异议处理、成交推进与收尾全流程，可直接用于案例展示与学习。b:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["销冠实战陪练"," · 生成结果"]}]]}],false,["$","$Lf",null,{"agentKey":"sales-role-play","messageContent":"$10"}]]}]
+c:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["销冠实战陪练","是什么"]}],["$","p",null,{"children":["这是一个面向“","汽车与后市场","”行业的","销冠实战陪练","应用案例：","卖二手车的，在车行干了五年，主要做中低端车。嘴皮子得溜，要不留不住人。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","销冠实战陪练是来财有方AI「成交转化」分类下的一款 AI 智能体，模拟客户与你进行销售对话，实时给出专业级点评和改进建议，让你在\"真对话、真反馈\"里练出成交能力。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","二手车、置换、过户代办，还有分期。啥车都收，主要看车况定价。","，主要客群是","第一次买车或者想换车的本地人，预算都不高。图便宜的多。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","销售能力靠实战喂养，但新人直接面对真实客户试错成本高、成长慢，也缺个能即时纠错的人。这个智能体解决的是销售训练场景缺失的问题，用模拟对话让你低成本、安全地反复练习。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","卖二手车的，在车行干了五年，主要做中低端车。嘴皮子得溜，要不留不住人。","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁）+ 你想练习的客户类型或场景，然后与 AI 扮演的客户对话即可，AI 会在过程中和结束后给出点评。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","销冠实战陪练","输出的是面向","第一次买车或者想换车的本地人，预算都不高。图便宜的多。","的落地方案（见上文“生成结果”），整体能力为：","输出一场可反复进行的模拟销售对话：AI 扮演不同性格、不同异议的客户与你交锋，并对你每轮话术给出专业点评（好在哪、哪里丢单、怎么改进），练后形成你的改进清单。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","本地生活/服务密集型","、","汽车与后市场","）类似的经营者都适用：","适合销售新人快速上手、老销售打磨话术、销售主管带教团队，以及所有想在不打扰真实客户的前提下练出成交能力的一线销售。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","销冠实战陪练","已内置对应的行业方法轮与输出规范，能结合“","二手车、置换、过户代办，还有分期。啥车都收，主要看车况定价。","、","第一次买车或者想换车的本地人，预算都不高。图便宜的多。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于看视频、背话术的被动学习，而是\"你来我往\"的实战演练 + 即时专业点评，把错误暴露在练习场里而非真实客户面前，是更高效、更低成本的销售训练方式。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/sales-role-play","children":["立即试用","销冠实战陪练"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+d:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","销冠实战陪练"," 帮你生成"]}],["$","$L11",null,{"agentPath":"/agent/sales-role-play","agentName":"销冠实战陪练"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L12",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

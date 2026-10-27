@@ -1,0 +1,6 @@
+:HL["/laicaiyoufang-ui-preview/_next/static/css/b25c64b506c1045b.css","style"]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/502df0824a283b6e.css","style"]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/17b2ea32b8a9f3aa.css","style"]
+:HL["/laicaiyoufang-ui-preview/logo.png","image"]
+:HL["/laicaiyoufang-ui-preview/qrcode-join.jpg","image"]
+0:{"buildId":"jlVlrff87Jr28zBereNHo","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"faq","paramType":null,"paramKey":"faq","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

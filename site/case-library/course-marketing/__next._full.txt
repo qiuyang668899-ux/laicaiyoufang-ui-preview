@@ -1,0 +1,195 @@
+1:"$Sreact.fragment"
+b:I[26260,[],""]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/b25c64b506c1045b.css","style"]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/502df0824a283b6e.css","style"]
+2:T1195,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.laicaiyoufang.com/#organization","name":"来财有方AI","alternateName":"来财有方丨AI增长社区","url":"https://www.laicaiyoufang.com","logo":{"@type":"ImageObject","@id":"https://www.laicaiyoufang.com/#logo","url":"https://www.laicaiyoufang.com/logo.png","contentUrl":"https://www.laicaiyoufang.com/logo.png","width":640,"height":640,"encodingFormat":"image/png"},"description":"帮老板和一人公司AI落地/增长有方的实战社群","image":{"@id":"https://www.laicaiyoufang.com/#logo"},"foundingDate":"2024-11-17","founder":{"@id":"https://www.laicaiyoufang.com/#founder"},"knowsAbout":["AI落地","一人公司","新媒体增长","GEO优化","AI智能体"],"affiliation":[{"@type":"Organization","name":"火山引擎"},{"@type":"Organization","name":"腾讯Workbuddy"}],"sameAs":["https://t.zsxq.com/j6naI","https://www.douyin.com/user/MS4wLjABAAAAAUewz1skyA2ocMhuUVpsk038bq_v4pzRW2sS2k3PKOA","https://www.xiaohongshu.com/user/profile/581f00cd5e87e7260b053fe2"],"contactPoint":{"@type":"ContactPoint","contactType":"customer service","availableLanguage":"Chinese","name":"微信客服 Laicai202206"}},{"@type":"Person","@id":"https://www.laicaiyoufang.com/#founder","name":"萌社长","alternateName":"何萌","url":"https://www.laicaiyoufang.com/about-meng","jobTitle":"AI+场景化专家、一人公司导师、创业者","description":"前500强高管 · 团中央十佳创业青年 · AI天使投资人 · AI产品极客 · FDE专家，1V1赋能创始人600+，学员5000+，矩阵粉50万+","worksFor":{"@id":"https://www.laicaiyoufang.com/#organization"},"sameAs":["https://www.douyin.com/user/MS4wLjABAAAAAUewz1skyA2ocMhuUVpsk038bq_v4pzRW2sS2k3PKOA","https://www.xiaohongshu.com/user/profile/581f00cd5e87e7260b053fe2","https://t.zsxq.com/j6naI"],"knowsAbout":["AI","创业","新媒体","增长","AI智能体","一人公司","社群运营","企业服务"],"award":["2005年全国十佳创业青年","团中央十佳创业青年故事奖"],"alumniOf":{"@type":"CollegeOrUniversity","name":"武汉理工大学"},"citation":[{"@type":"NewsArticle","headline":"校友何萌返校开讲：AI赋能一人公司 解锁青年创业新可能","datePublished":"2026-05-08","url":"http://sen.whut.edu.cn/xyxw/202605/t20260514_1398856.shtml","publisher":{"@type":"Organization","name":"武汉理工大学创业学院"}},{"@type":"NewsArticle","headline":"全国十佳创业青年来校畅谈创业心路","datePublished":"2006-04-24","url":"https://news.hust.edu.cn/info/1004/27802.htm","publisher":{"@type":"Organization","name":"华中科技大学新闻网"}},{"@type":"NewsArticle","headline":"光谷出现一批OPC个人投资者：用AI传授经验，帮忙找客户，有的已获90多万分红","datePublished":"2026-04-14","url":"https://news.hubeidaily.net/pc/c_5384889.html","publisher":{"@type":"Organization","name":"湖北日报"}},{"@type":"Book","name":"互联网之达芬奇密码","author":"Mull He","isbn":"9787121135262","datePublished":"2011-06","url":"https://book.douban.com/subject/6429783/","publisher":{"@type":"Organization","name":"电子工业出版社"}}]},{"@type":"Service","name":"AI智能体平台","url":"https://www.laicaiyoufang.com/ai-agents","description":"39+垂直领域AI智能体，覆盖一人公司定位、AI+IP打造、GEO优化、获客增长、新媒体内容创作等场景","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"Service","name":"OPC实战训练营","url":"https://www.laicaiyoufang.com/ai-opc-training","description":"2天深度面对面实战训练营，AI+一人公司创业实战全流程","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"Service","name":"线上AI实战课","url":"https://www.laicaiyoufang.com/classroom","description":"不间断AI增长直播课与录播课，三大课程体系","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"Service","name":"导师矩阵","url":"https://www.laicaiyoufang.com/mentors","description":"58位AI/新媒体领域实战专家，覆盖AI智能体、销售、内容、投资等维度","provider":{"@id":"https://www.laicaiyoufang.com/#organization"}},{"@type":"WebSite","@id":"https://www.laicaiyoufang.com/#website","url":"https://www.laicaiyoufang.com","name":"来财有方AI","description":"帮老板和一人公司AI落地/增长有方","publisher":{"@id":"https://www.laicaiyoufang.com/#organization"}}]}0:{"P":null,"b":"jlVlrff87Jr28zBereNHo","c":["","case-library","course-marketing",""],"q":"","i":false,"f":[[["",{"children":["case-library",{"children":[["caseId","course-marketing","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/laicaiyoufang-ui-preview/_next/static/css/b25c64b506c1045b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/laicaiyoufang-ui-preview/_next/static/css/502df0824a283b6e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":[["$","head",null,{"children":[["$","meta",null,{"name":"robots","content":"noindex,nofollow"}],["$","link",null,{"rel":"llms","href":"/laicaiyoufang-ui-preview/llms.txt"}],["$","link",null,{"rel":"llms-full","href":"/laicaiyoufang-ui-preview/llms-full.txt"}]]}],["$","body",null,{"className":"antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],false,"$L3","$L4","$L5","$L6"]}]]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+c:"$Sreact.suspense"
+d:I[1316,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"UserProvider"]
+e:I[49842,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"LoginModal"]
+f:I[84630,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"ConfirmDialogProvider"]
+10:I[11512,[],""]
+11:I[86766,[],""]
+12:I[98264,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"default"]
+13:I[50156,["9802","static/chunks/9802-d2e131a367da7c24.js","2034","static/chunks/2034-915ca0b70ceff03d.js","8498","static/chunks/8498-ba9e296c2e106458.js","2651","static/chunks/2651-14bbb3c3b28b13d4.js","7177","static/chunks/app/layout-8f0375432379c09f.js"],"Toaster"]
+15:I[23349,[],"OutletBoundary"]
+17:I[23349,[],"ViewportBoundary"]
+19:I[23349,[],"MetadataBoundary"]
+3:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){\n  if (window.__lcPreviewFetchInstalled) return;\n  window.__lcPreviewFetchInstalled = true;\n  const base = \"/laicaiyoufang-ui-preview\";\n  const originalFetch = window.fetch.bind(window);\n  const isApi = function(input) {\n    try {\n      const raw = typeof input === 'string' ? input : input instanceof URL ? input.href : input.url;\n      const url = new URL(raw, window.location.href);\n      const pathname = base && (url.pathname === base || url.pathname.indexOf(base + '/') === 0) ? url.pathname.slice(base.length) : url.pathname;\n      return /^\\/api(?:\\/|$)/.test(pathname);\n    } catch (_) { return false; }\n  };\n  window.fetch = function(input, init) {\n    if (isApi(input)) return Promise.resolve(new Response(JSON.stringify({success:false,error:'当前为界面预览，AI、登录、支付及实时数据需连接原服务。',code:'UI_PREVIEW_DISCONNECTED'}),{status:503,statusText:'Service Unavailable',headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'}}));\n    return originalFetch(input,init);\n  };\n})();"}}]
+4:["$","$c",null,{"fallback":["$","div",null,{"style":{"padding":40,"color":"#777"},"children":"正在载入界面…"}],"children":["$","$Ld",null,{"children":[["$","$Le",null,{}],["$","$Lf",null,{"children":["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]
+5:["$","$L12",null,{}]
+6:["$","$L13",null,{"position":"top-center","richColors":true}]
+7:["$","$1","c",{"children":[null,["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],null]}]
+1c:I[87757,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+1b:T701,[{"@context":"https://schema.org","@type":"Article","@id":"https://www.laicaiyoufang.com/case-library/course-marketing#article","headline":"线上课程 · 营销活动策划方案","description":"营销活动策划真实生成案例：我做知识付费的，卖一套职场技能课，单价适中。目前有一批老学员，但新课增长慢，想搞个活动拉新。","datePublished":"2026-10-23","dateModified":"2026-10-23","author":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"inLanguage":"zh-CN","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.laicaiyoufang.com/case-library/course-marketing"},"about":{"@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/marketing-activity-plan","name":"营销活动策划"}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.laicaiyoufang.com/case-library/course-marketing#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.laicaiyoufang.com"},{"@type":"ListItem","position":2,"name":"案例库","item":"https://www.laicaiyoufang.com/case-library"},{"@type":"ListItem","position":3,"name":"线上课程 · 营销活动策划方案","item":"https://www.laicaiyoufang.com/case-library/course-marketing"}]},{"@context":"https://schema.org","@type":"SoftwareApplication","@id":"https://www.laicaiyoufang.com/agent/marketing-activity-plan","name":"营销活动策划","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://www.laicaiyoufang.com/agent/marketing-activity-plan","publisher":{"@type":"Organization","name":"来财有方AI","url":"https://www.laicaiyoufang.com"}}]14:["$","div",null,{"className":"min-h-screen bg-slate-950 text-white","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html{scroll-behavior:smooth}main h2[id],main h3[id],main h4[id]{scroll-margin-top:88px}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1b"}}],["$","$L1c",null,{"title":"营销活动策划","backLabel":"返回案例库","backHref":"/case-library"}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-[84px] pb-8","children":[["$","div",null,{"className":"mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-3 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs bg-blue-500/10 text-blue-400 border border-blue-500/30","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-building2 w-3 h-3","children":[["$","path","1b4qmf",{"d":"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}],["$","path","i71pzd",{"d":"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}],["$","path","10jefs",{"d":"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"}],["$","path","1itunk",{"d":"M10 6h4"}],["$","path","tcdvrf",{"d":"M10 10h4"}],["$","path","kelpxr",{"d":"M10 14h4"}],["$","path","1ulq68",{"d":"M10 18h4"}],"$undefined"]}],"知识型/组织型"]}],["$","span",null,{"className":"text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700","children":"教育培训"}]]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold leading-snug","children":"线上课程 · 营销活动策划方案"}]]}],["$","section",null,{"className":"mb-8 rounded-2xl p-[1px] bg-gradient-to-r from-blue-500/40 via-purple-500/40 to-pink-500/40","children":["$","div",null,{"className":"rounded-2xl bg-slate-900/90 p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-4 h-4 text-amber-400","children":["$L1d","$L1e","$L1f","$L20","$L21","$undefined"]}],"$L22"]}],"$L23"]}]}],"$L24","$L25","$L26"]}]]}]
+27:I[43389,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+29:I[58098,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+2a:I[2894,["1349","static/chunks/1349-43870d1869e9e6a4.js","2787","static/chunks/2787-5d9d156a957621dd.js","6853","static/chunks/app/case-library/%5BcaseId%5D/page-ee35828ba2f78890.js"],"default"]
+1d:["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}]
+1e:["$","path","1olli1",{"d":"M20 3v4"}]
+1f:["$","path","1gvqau",{"d":"M22 5h-4"}]
+20:["$","path","vumght",{"d":"M4 17v2"}]
+21:["$","path","zchphs",{"d":"M5 18H3"}]
+22:["$","h2",null,{"className":"font-semibold text-slate-200","children":"老板自画像（原话）"}]
+23:["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-blue-400","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我是谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"我做知识付费的，卖一套职场技能课，单价适中。目前有一批老学员，但新课增长慢，想搞个活动拉新。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-violet-400","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package w-4 h-4","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","path","yx3hmr",{"d":"m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖什么"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"一套职场通用技能课，比如表达、写周报、向上管理这些。卖点是实战、能马上用。"}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-sm text-emerald-400","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],["$","span",null,{"className":"font-medium","children":"我卖给谁"}]]}],["$","p",null,{"className":"text-slate-300 text-sm leading-relaxed","children":"二十到三十五的职场新人，想提升自己、怕被淘汰，但时间紧、怕学了没用。"}]]}]]}]
+28:T226a,# 营销活动策划方案
+
+## 基本信息
+- **活动目的**：拉新（带动新课增长）
+- **活动平台**：微信群 + 朋友圈（主战场），公众号承接转化
+
+## 一、活动主题
+
+**主题名称**：【周报急救室·3天实战营】
+**主题口号**：周报写不好，活干再多也白搭——3天，让你的周报被领导追着夸。
+**调性说明**：轻量、实战、有紧迫感。不搞高大上，就解决职场新人“学了马上能用”的焦虑。整体氛围像“急诊室”——来了就有救，走的时候手里有货。
+
+## 二、活动形式与机制
+
+**推荐形式**：低价体验课 + 老学员转发裂变 + 社群限时转化
+
+**参与规则**：
+1. 3天实战营，原价199元，限时9.9元入营（低价降低决策门槛）。
+2. 老学员专属：免费入营 + 每邀请1位新人入营，返5元红包（上不封顶）。
+3. 新人入营后，完成3天打卡作业，结营时发放“职场急救包”资料包（含周报模板、向上管理话术卡）。
+4. 结营当天，群内限时放出正价课专属优惠（仅限营内学员），24小时有效。
+
+**奖励机制**：
+- 新人：9.9元学3天实战内容 + 打卡全额返学费（返到正价课抵扣券，锁客）。
+- 老学员：邀请返红包 + 邀请满3人送一对一简历/周报诊断15分钟。
+- 所有人：结营抽3人送正价课免单（制造峰值和传播点）。
+
+## 三、分平台话术
+
+### 微信群话术
+
+**群公告模板**：
+> 【周报急救室·3天实战营】开营啦！
+> 3天，3个动作，让你的周报从“流水账”变成“成绩单”。
+> 📌 每天20分钟实战任务，做完就发群，我亲自点评。
+> 📌 连续打卡3天，学费全返（返正价课抵扣券）。
+> 📌 结营抽3人正价课免单。
+> 今晚8点开营直播，先来领你的“周报自测表”👇
+
+**邀请进群话术**（老学员转发用）：
+> 我之前上过XX老师的职场课，真的能直接用。这次他搞了个9.9元的3天周报实战营，我听完觉得值，推荐你也来。反正9.9，听完打卡还全返，不亏。
+
+**每日互动话题**：
+- Day1：“你上周周报写了多久？发个‘1’我看看有多少人超过30分钟。”
+- Day2：“领导看完你周报说过最多的一句话是什么？评论区接龙。”
+- Day3：“今天作业交了的，扣‘已交’，我挨个点评。”
+
+**活动规则说明**（群内发）：
+> 说下规则，很简单：
+> 1️⃣ 每天听10分钟音频+做1个实战任务，发群里。
+> 2️⃣ 连续3天打卡，9.9元全返（返正价课抵扣券）。
+> 3️⃣ 老学员邀请新人，每邀请1位返5元红包。
+> 4️⃣ 结营抽3人正价课免单。
+> 有问题群里直接问，我在。
+
+**成交引导话术**（结营当天）：
+> 3天结束了，该给的模板、话术、方法都给了。如果你想系统学表达、向上管理、周报这套组合拳，正价课今天开专属通道——营内学员价XX元，比平时低XX，24小时后关闭。我不催你，但优惠就这一次。想报的直接私我“报名”，我发你链接。
+
+### 朋友圈系列文案
+
+**预热文案**（活动前2天）：
+> 我老学员里，十个有八个问过我同一个问题：周报到底怎么写才不像流水账？
+> 行，我搞了个3天实战营，9.9元，就解决这一件事。
+> 打卡3天全返，等于白嫖。名额有限，想来的评论区扣“1”。
+
+**开始文案**（活动当天）：
+> 【周报急救室】开营了。
+> 今天入营9.9，3天实战，打卡全返。
+> 我不讲大道理，就给你能直接抄的模板和话术。
+> 职场新人最怕的不是忙，是忙完领导看不见。这3天，把“被看见”这件事解决了。
+> 扫码进营👇（配二维码）
+
+**进行中文案**（Day2）：
+> 昨晚营里有个学员交的周报，我改了三处，直接从“做了啥”变成“做成了啥”。
+> 她说：原来周报是写给领导的安全感，不是写给自己看的日记。
+> 9.9元3天，明天最后一天入营。想来的抓紧。
+
+**倒计时文案**（结营前1天）：
+> 明天结营，正价课专属优惠只对营内学员开放，24小时关闭。
+> 还没进营的，今天最后机会。9.9元，3天，打卡全返。
+> 你缺的不是努力，是让努力被看见的方法。
+
+**结束文案**（活动结束当天）：
+> 3天实战营收官。137人打卡，89人拿了全返，3位抽到免单。
+> 正价课专属通道今晚24点关闭。
+> 没赶上的别急，下次实战营主题你们定——评论区告诉我，你最想解决哪个职场卡点。
+
+### 公众号话术
+
+**活动推文标题建议**（3个备选）：
+1. 《周报写不好，活干再多也白搭：3天实战营，9.9元》
+2. 《我观察了500份职场周报，发现一个扎心规律》
+3. 《领导不会告诉你的周报潜规则，3天讲透》
+
+**推文结构大纲**：
+1. 开头钩子：一个真实场景——加班到10点，周报写了3行，领导回了个“嗯”。
+2. 痛点放大：周报不是记录，是向上管理的入口。写不好=白干。
+3. 解决方案：3天实战营，每天1个动作，给模板、给话术、给点评。
+4. 信任背书：老学员案例/截图（1-2个）。
+5. 参与方式+价格锚点：9.9元，打卡全返，结营抽免单。
+6. 行动号召：扫码入营，今晚开营。
+
+**成交引导植入点**：
+- 文中第3段后植入：“3天营只是开胃菜，系统课在结营时对营内学员开放专属价。”
+- 文末植入：“不想等？直接看正价课大纲👉（链接），但建议先来营里体验3天，觉得值再报。”
+
+**关注引导话术**：
+> 职场这条路，有人带和没人带，差的是三五年。关注我，每周一个能直接用的职场方法。
+
+### 小红书话术（可选补充）
+
+**爆款笔记标题**（3个备选）：
+1. 《周报这样写，领导以为你升职了》
+2. 《职场新人保命技能：3天学会写周报》
+3. 《9.9元上了个周报课，结果被领导夸了》
+
+**笔记正文结构大纲**：
+1. 封面图：周报对比图（改前vs改后）。
+2. 开头：真实经历——“我以前周报写满一页，领导说‘知道了’。后来改了3个地方，他开始追着我问细节。”
+3. 干货：3个周报公式（结果前置/数据量化/下一步计划）。
+4. 引流：完整模板和话术在3天实战营，9.9元，打卡全返。
+5. 结尾：评论区扣“周报”，我发你自测表。
+
+**话题标签**：#职场新人 #周报怎么写 #向上管理 #职场干货 #打工人自救指南
+
+**评论互动引导**：
+> 评论区扣“1”，我私你一份《周报自测表》，先看看你踩了几个坑。
+
+## 四、活动时间规划
+
+- **预热期**：3天（动作：朋友圈预热2条+老学员私信邀请+公众号推文发布，目标：蓄水50-80人进群）
+- **活动期**：3天（节奏：Day1开营直播+任务发布，Day2作业点评+案例展示，Day3结营+正价课专属通道开放，节点：Day3晚8点结营直播为成交峰值）
+- **收尾期**：2天（动作：正价课优惠倒计时提醒+未成交学员一对一跟进+数据复盘）
+
+## 五、执行SOP清单
+
+**Day -3**：确定活动海报和文案，建活动群，设置好打卡返现规则和红包预算。
+**Day -2**：朋友圈预热第1条，私信老学员发邀请话术+专属邀请海报。
+**Day -1**：公众号推文发布，朋友圈预热第2条，群内发开营预告和“周报自测表”钩子。
+**Day 1**：晚8点开营直播（20分钟），发布Day1任务，群内互动话题启动，盯打卡。
+**Day 2**：上午发优秀作业案例，中午互动话题，晚上统一点评作业，朋友圈发进行中文案。
+**Day 3**：白天倒计时提醒，晚8点结营直播（点评+干货加餐+正价课专属优惠发布），群内成交引导，朋友圈倒计时文案。
+**Day 4**：优惠倒计时提醒（早中晚各1次），私信未成交学员做一对一答疑。
+**Day 5**：优惠关闭，发结束文案，统计打卡数据/转化数据/邀请数据，复盘。
+
+## 六、效果预估
+
+- **预估参与**：80-120人入营（老学员邀请+朋友圈+公众号）
+- **预估转化**：正价课转化率15%-25%（营内体验+专属优惠+信任基础），预估成交12-30单
+- **关键指标**：入营人数、3天打卡完成率、老学员邀请人数、结营直播在线人数、正价课转化率、单个获客成本
+
+
+**最后说一句**：这个活动的核心不是9.9元，是“3天实战+打卡返现”制造的体验感和信任感。职场新人怕的是“学了没用”，你用3天让他亲手做出一个能用的周报，他就信你了。正价课不用硬推，结营时给个专属价，顺理成章。24:["$","section",null,{"className":"mb-10","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","div",null,{"className":"w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center","children":["$","span",null,{"className":"text-xs text-white font-bold","children":"AI"}]}],["$","h2",null,{"className":"font-semibold text-slate-200","children":["营销活动策划"," · 生成结果"]}]]}],["$","nav",null,{"aria-label":"本页目录","className":"mb-6 rounded-2xl border border-slate-800 bg-slate-900/60 p-5","children":[["$","p",null,{"className":"text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-list-ordered w-4 h-4 text-violet-400","children":[["$","path","6m4ad9",{"d":"M10 12h11"}],["$","path","11hvi2",{"d":"M10 18h11"}],["$","path","c7qv1k",{"d":"M10 6h11"}],["$","path","16xx2s",{"d":"M4 10h2"}],["$","path","cnovpq",{"d":"M4 6h1v4"}],["$","path","m9a95d",{"d":"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"}],"$undefined"]}],"本页目录"]}],["$","ul",null,{"className":"space-y-1.5 text-sm","children":[["$","li","营销活动策划方案",{"className":"text-slate-200","children":["$","a",null,{"href":"#营销活动策划方案","className":"hover:text-violet-400 transition-colors","children":"营销活动策划方案"}]}],["$","li","基本信息",{"className":"text-slate-200","children":["$","a",null,{"href":"#基本信息","className":"hover:text-violet-400 transition-colors","children":"基本信息"}]}],["$","li","一活动主题",{"className":"text-slate-200","children":["$","a",null,{"href":"#一活动主题","className":"hover:text-violet-400 transition-colors","children":"一、活动主题"}]}],["$","li","二活动形式与机制",{"className":"text-slate-200","children":["$","a",null,{"href":"#二活动形式与机制","className":"hover:text-violet-400 transition-colors","children":"二、活动形式与机制"}]}],["$","li","三分平台话术",{"className":"text-slate-200","children":["$","a",null,{"href":"#三分平台话术","className":"hover:text-violet-400 transition-colors","children":"三、分平台话术"}]}],["$","li","微信群话术",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#微信群话术","className":"hover:text-violet-400 transition-colors","children":"微信群话术"}]}],["$","li","朋友圈系列文案",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#朋友圈系列文案","className":"hover:text-violet-400 transition-colors","children":"朋友圈系列文案"}]}],["$","li","公众号话术",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#公众号话术","className":"hover:text-violet-400 transition-colors","children":"公众号话术"}]}],["$","li","小红书话术可选补充",{"className":"pl-4 text-slate-400","children":["$","a",null,{"href":"#小红书话术可选补充","className":"hover:text-violet-400 transition-colors","children":"小红书话术（可选补充）"}]}],["$","li","四活动时间规划",{"className":"text-slate-200","children":["$","a",null,{"href":"#四活动时间规划","className":"hover:text-violet-400 transition-colors","children":"四、活动时间规划"}]}],["$","li","五执行sop清单",{"className":"text-slate-200","children":["$","a",null,{"href":"#五执行sop清单","className":"hover:text-violet-400 transition-colors","children":"五、执行SOP清单"}]}],["$","li","六效果预估",{"className":"text-slate-200","children":["$","a",null,{"href":"#六效果预估","className":"hover:text-violet-400 transition-colors","children":"六、效果预估"}]}]]}]]}],["$","$L27",null,{"agentKey":"marketing-activity-plan","messageContent":"$28","images":"$undefined","contentType":"$undefined"}]]}]
+25:["$","section",null,{"className":"sr-only","aria-hidden":false,"children":[["$","h2",null,{"children":["营销活动策划","是什么"]}],["$","p",null,{"children":["这是一个面向“","教育培训","”行业的","营销活动策划","应用案例：","我做知识付费的，卖一套职场技能课，单价适中。目前有一批老学员，但新课增长慢，想搞个活动拉新。","。 来财有方通过该AI智能体，把老板的生意画像转成可直接落地的文案与洞察，核心能力包括：","营销活动策划是来财有方AI「成交转化」分类下的一款 AI 智能体，基于画像 + 活动目的，策划一套完整可执行的营销活动方案，从主题、玩法、激励到执行节奏，帮你把\"搞活动\"这件事想清楚、做落地。"]}],["$","h2",null,{"children":"它能解决什么问题"}],["$","p",null,{"children":["本案老板主营","一套职场通用技能课，比如表达、写周报、向上管理这些。卖点是实战、能马上用。","，主要客群是","二十到三十五的职场新人，想提升自己、怕被淘汰，但时间紧、怕学了没用。","，此前缺乏体系化的内容与营销方法。 该智能体聚焦解决：","很多老板做活动凭感觉，要么没主题没重点、要么执行混乱效果差。这个智能体解决的是活动策划不系统的问题，产出主题明确、流程清晰、有转化钩子的完整方案。"]}],["$","h2",null,{"children":"需要你输入什么"}],["$","p",null,{"children":["使用时老板只需按页面要求补充基础画像——本案例输入了“我是谁、我卖什么、我卖给谁”即","我做知识付费的，卖一套职场技能课，单价适中。目前有一批老学员，但新课增长慢，想搞个活动拉新。","…… 具体输入项包括：","提供你的画像（我是谁、卖什么、卖给谁）+ 活动目的（拉新、促活、清库存、冲销量、回款等）与预算/时间等约束条件。"]}],["$","h2",null,{"children":"它能产出什么"}],["$","p",null,{"children":["针对本案场景，","营销活动策划","输出的是面向","二十到三十五的职场新人，想提升自己、怕被淘汰，但时间紧、怕学了没用。","的落地方案（见上文“生成结果”），整体能力为：","输出一份完整营销活动方案：活动主题与创意、目标人群与诱因、具体玩法规则、引流与转化路径、物料与话术、执行节奏安排与效果评估指标。"]}],["$","h2",null,{"children":"适合谁使用"}],["$","p",null,{"children":["与本案老板（","知识型/组织型","、","教育培训","）类似的经营者都适用：","适合需要做营销活动但缺系统思路的实体门店、电商、品牌方、教培、餐饮、美业等行业的老板与市场/运营负责人。"]}],["$","h2",null,{"children":"和直接问通用大模型有什么区别"}],["$","p",null,{"children":["通用大模型只能泛泛给建议，而","营销活动策划","已内置对应的行业方法轮与输出规范，能结合“","一套职场通用技能课，比如表达、写周报、向上管理这些。卖点是实战、能马上用。","、","二十到三十五的职场新人，想提升自己、怕被淘汰，但时间紧、怕学了没用。","”这类真实画像做体系化产出，更贴合实际经营场景：","它不同于让大模型\"想个活动点子\"——而是从目的出发，把主题、玩法、激励、执行、评估串成一套可落地执行的完整方案，拿来就能照着安排团队执行。"]}],["$","nav",null,{"aria-label":"相关内容","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/agent/marketing-activity-plan","children":["立即试用","营销活动策划"]}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/ai-agents","children":"去AI智能体中心，查看更多智能体"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","children":"浏览更多客户案例"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/classroom","children":"学习 AI 实战课"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/mentors","children":"认识实战导师团队"}]}],["$","li",null,{"children":["$","a",null,{"href":"/laicaiyoufang-ui-preview/","children":"返回首页"}]}]]}]}]]}]
+26:["$","div",null,{"className":"rounded-2xl bg-slate-900/60 border border-slate-800 p-6 text-center","children":[["$","p",null,{"className":"text-slate-400 text-sm mb-4","children":["你的生意也能这样，填好画像，","营销活动策划"," 帮你生成"]}],["$","$L29",null,{"agentPath":"/agent/marketing-activity-plan","agentName":"营销活动策划"}],["$","div",null,{"className":"mt-4 flex flex-wrap justify-center gap-3","children":[["$","$L2a",null,{"href":"/profile","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"去个人中心"}],["$","a",null,{"href":"/laicaiyoufang-ui-preview/case-library","className":"inline-flex items-center px-5 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 hover:border-slate-500 hover:text-white transition-colors text-sm","children":"更多客户案例"}]]}]]}]
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+2b:I[69936,[],"IconMark"]
+16:null
+1a:[["$","title","0",{"children":"线上课程 · 营销活动策划方案 - 案例库 | 来财有方AI"}],["$","meta","1",{"name":"description","content":"营销活动策划真实生成案例：我做知识付费的，卖一套职场技能课，单价适中。目前有一批老学员，但新课增长慢，想搞个活动拉新。"}],["$","link","2",{"rel":"author","href":"https://www.laicaiyoufang.com"}],["$","meta","3",{"name":"author","content":"来财有方AI"}],["$","meta","4",{"name":"generator","content":"Next.js"}],["$","meta","5",{"name":"keywords","content":"来财有方,AI增长社区,AI赋能,一人公司,企业家,商业变现,AI智能体,新媒体增长"}],["$","meta","6",{"name":"robots","content":"noindex,nofollow"}],["$","link","7",{"rel":"canonical","href":"https://www.laicaiyoufang.com/case-library/course-marketing/"}],["$","meta","8",{"name":"bytedance-verification-code","content":"2pjSrf9B5R5J51KNHPlM"}],["$","meta","9",{"property":"og:title","content":"线上课程 · 营销活动策划方案 - 案例库 - 来财有方AI"}],["$","meta","10",{"property":"og:description","content":"营销活动策划真实生成案例：我做知识付费的，卖一套职场技能课，单价适中。目前有一批老学员，但新课增长慢，想搞个活动拉新。"}],["$","meta","11",{"property":"og:url","content":"https://www.laicaiyoufang.com/case-library/course-marketing/"}],["$","meta","12",{"property":"og:site_name","content":"来财有方AI"}],["$","meta","13",{"property":"og:locale","content":"zh_CN"}],["$","meta","14",{"property":"og:image","content":"https://www.laicaiyoufang.com/laicaiyoufang-ui-preview/og-share.jpg"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"线上课程 · 营销活动策划方案"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"来财有方AI"}],["$","meta","21",{"name":"twitter:description","content":"帮老板和一人公司AI落地/增长有方"}],["$","meta","22",{"name":"twitter:image","content":"https://www.laicaiyoufang.com/laicaiyoufang-ui-preview/og-share.jpg"}],["$","link","23",{"rel":"icon","href":"/laicaiyoufang-ui-preview/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$L2b","24",{}]]
