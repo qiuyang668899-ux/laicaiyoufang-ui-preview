@@ -1,6 +1,7 @@
-:HL["/laicaiyoufang-ui-preview/_next/static/css/b25c64b506c1045b.css","style"]
-:HL["/laicaiyoufang-ui-preview/_next/static/css/502df0824a283b6e.css","style"]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/d421a5aac957a961.css","style"]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/5c46d89da6798117.css","style"]
 :HL["/laicaiyoufang-ui-preview/_next/static/css/17b2ea32b8a9f3aa.css","style"]
-:HL["/laicaiyoufang-ui-preview/logo.png","image"]
+:HL["/laicaiyoufang-ui-preview/ui-refinements.css","style"]
+:HL["/laicaiyoufang-ui-preview/brand/laicai-mark.svg","image"]
 :HL["/laicaiyoufang-ui-preview/qrcode-join.jpg","image"]
-0:{"buildId":"jlVlrff87Jr28zBereNHo","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"events","paramType":null,"paramKey":"events","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"openclaw-salon-0308","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"fYM4hr_FEiAND2EtcWpQM","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"events","paramType":null,"paramKey":"events","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"openclaw-salon-0308","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

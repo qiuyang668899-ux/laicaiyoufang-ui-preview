@@ -1,4 +1,5 @@
-:HL["/laicaiyoufang-ui-preview/_next/static/css/b25c64b506c1045b.css","style"]
-:HL["/laicaiyoufang-ui-preview/_next/static/css/502df0824a283b6e.css","style"]
-:HL["/laicaiyoufang-ui-preview/_next/static/css/cbfc46eea3389dab.css","style"]
-0:{"buildId":"jlVlrff87Jr28zBereNHo","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"ai-agents","paramType":null,"paramKey":"ai-agents","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/laicaiyoufang-ui-preview/_next/static/css/d421a5aac957a961.css","style"]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/5c46d89da6798117.css","style"]
+:HL["/laicaiyoufang-ui-preview/_next/static/css/36252e04556362c3.css","style"]
+:HL["/laicaiyoufang-ui-preview/ui-refinements.css","style"]
+0:{"buildId":"fYM4hr_FEiAND2EtcWpQM","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"ai-agents","paramType":null,"paramKey":"ai-agents","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
